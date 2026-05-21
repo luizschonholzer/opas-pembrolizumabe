@@ -1,0 +1,29 @@
+# Dados sensíveis — não enviar ao GitHub
+*.pdf
+*.docx
+*.xlsx
+*.xls
+
+# Logs e relatórios gerados
+*.txt
+stderr_log.txt
+log_analise.txt
+
+# Pasta temporária de extração
+temp_xlsx/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+env/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude Code
+.claude/
