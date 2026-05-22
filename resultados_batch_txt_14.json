@@ -1,0 +1,260 @@
+[
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2021-04-30_(08643-2021) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2021-04-30_(08643-2021) .pdf.txt",
+    "rows": [
+      {
+        "row": 167,
+        "case": "08643 - 2021",
+        "N": "Sigmoid colon cancer stage IV with high microsatellite instability",
+        "O": "Second Palliative Line. The patient had already failed multiple lines of conventional chemotherapy (XELOX and XELIRI). High Microsatellite Instability (MSI-H)."
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Adenocarcinoma of the sigmoid colon, clinical Stage Four, with Microsatellite Instability-High",
+      "SECONDARY_DIAGNOSES": "Hepatic disease; peritoneal carcinomatosis; pulmonary lesions",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "57 years old (male)",
+      "CLINICAL_HISTORY": "Patient treated at Hospital Mexico Oncology Service. Diagnosed with sigmoid colon adenocarcinoma clinical Stage Four with Microsatellite Instability-High. Has undergone multiple chemotherapy lines including XELOX and XELIRI regimens (repeated). Hepatic biopsy confirmed microsatellite instability. No mutations found in KRAS, NRAS, or BRAF genes. The case was analyzed in an oncology session and patient was considered a candidate for pembrolizumab given long disease evolution and good clinical condition. Treating oncologist Dr. Alicia Van der Laat requested pembrolizumab through the Local Pharmacotherapy Committee (session 4, January 29, 2021), which escalated to the Central Pharmacotherapy Committee. The Central Committee (session 2021-06, February 10, 2021, via notice CCF 0547-2021) denied the request, citing preliminary Phase II trial data and absence of mature mortality data. A forensic medical opinion (Dictamen Medico Legal No. 2021-002973, April 28, 2021) concluded that pembrolizumab was indicated and could benefit the patient.",
+      "SYMPTOMS": "NOT FOUND",
+      "DISEASE_SEVERITY": "Clinical Stage Four sigmoid colon adenocarcinoma with hepatic, peritoneal and pulmonary involvement; disease progression after multiple chemotherapy lines",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Multiple lines of chemotherapy including XELOX (capecitabine plus oxaliplatin) and XELIRI (capecitabine plus irinotecan) regimens; these were repeated with disease progression",
+      "THERAPEUTIC_FAILURE": "Patient progressed through multiple chemotherapy lines including XELOX and XELIRI regimens",
+      "BIOMARKERS": "Microsatellite Instability status: Microsatellite Instability-High (confirmed by hepatic biopsy) | KRAS: no mutation | NRAS: no mutation | B-Raf Proto-Oncogene: no mutation | Programmed Death-Ligand 1 %: NOT FOUND | Tumor Mutational Burden: NOT FOUND | Human Epidermal Growth Factor Receptor 2: NOT FOUND | Epidermal Growth Factor Receptor: NOT FOUND | Anaplastic Lymphoma Kinase: NOT FOUND | ROS1: NOT FOUND",
+      "METASTASIS_SITES": "Liver; peritoneum (peritoneal carcinomatosis); lungs",
+      "MEDICAL_JUSTIFICATION": "Treating oncologist and oncology team at Hospital Mexico concluded that pembrolizumab is indicated given the patient's Microsatellite Instability-High status, good clinical condition, and failure of multiple prior chemotherapy lines. Pembrolizumab has FDA approval and demonstrated activity in colorectal cancer patients with Microsatellite Instability-High. The Forensic Medicine Department (Dictamen Medico Legal No. 2021-002973) confirmed the drug is indicated and may benefit the patient given the characteristics of his disease evolution and current health status.",
+      "URGENCY": "NOT FOUND",
+      "RISK_DETERIORATION": "Implied by progressive disease through multiple chemotherapy lines",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "Implied by Stage Four metastatic colorectal carcinoma with multi-organ involvement and exhaustion of standard chemotherapy options",
+      "REQUESTED_TREATMENT": "Pembrolizumab 200 mg every 21 days for 6 months or until toxicity or progression",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Constitutional Chamber upheld the treating physician's criterion over the Central Pharmacotherapy Committee's denial, consistent with established jurisprudence protecting the treating physician's freedom of prescription. The Court requested an independent expert opinion from the Forensic Medicine Department (Dictamen Medico Legal No. 2021-002973), which concluded that pembrolizumab was indicated and could benefit the patient given his clinical characteristics. The Court determined that when an impartial third party confirms the drug is the most advisable therapy, its provision is warranted to restore the patient's fundamental right to health. The Court further reaffirmed that economic criteria cannot override the constitutional right to health and to life.",
+      "COURT_CITATIONS": "Voto No. 2014-001072 (January 28, 2014); Sentencia No. 2009-08694 (May 26, 2009); Sentencia 5130-94; Sentencia No. 2004-003363 (March 31, 2004); Sentencia 2007-003018 (March 6, 2007); Article 71 of the Law of Constitutional Jurisdiction; Dictamen Medico Legal No. 2021-002973"
+    },
+    "missing_from_no": "Patient age (57 years); metastatic sites (liver, peritoneum, lungs); absence of KRAS, NRAS, and BRAF mutations; prescribed dose and schedule (200 mg every 21 days for 6 months); judicial decision outcome (Granted); identity of treating physician (Dr. Alicia Van der Laat)",
+    "possibly_incorrect": "Column O states 'High Microsatellite Instability (MSI-H)' — the document confirms Microsatellite Instability-High; no factual conflict, only terminology abbreviation. Column O describes this as 'Second Palliative Line' which is confirmed by the document. No conflicts detected.",
+    "error": null
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2020-09-11_(17214-2020) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2020-09-11_(17214-2020) .pdf.txt",
+    "rows": [
+      {
+        "row": 168,
+        "case": "17008 - 2020",
+        "N": "Not about pembrolizumab",
+        "O": "Not about pembrolizumab"
+      },
+      {
+        "row": 177,
+        "case": "17214 - 2020",
+        "N": "High-grade papillary bladder carcinoma, recurrent with pulmonary metastasis (stage IV)",
+        "O": "Underwent three surgeries and first-line chemotherapy (Carboplatin + Gemcitabine). Showed disease progression (new lymph node metastases) and poor tolerance to second-line chemotherapy (Paclitaxel), with neutropenia and severe pain."
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "High-grade papillary urothelial bladder carcinoma, recurrent metastatic to lung, Stage Four (urothelial carcinoma of the bladder metastatic to lung, Stage Four)",
+      "SECONDARY_DIAGNOSES": "Retroperitoneal lymph node metastases (iliac adenopathies); macroscopic hematuria; anxiety disorder; arterial hypertension",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "88 years old at time of filing (89 years old at time of forensic examination) (male)",
+      "CLINICAL_HISTORY": "Patient is an elderly male treated at Hospital Rafael Angel Calderon Guardia. Known carrier of low-grade papillary bladder carcinoma since 2014; underwent transurethral resection. In March 2018, a mass appeared on the right lateral bladder wall; transurethral resection of the bladder was performed in April 2018 and biopsy reported high-grade papillary carcinoma with muscle infiltration. A metastatic pulmonary nodule was identified, prompting first-line chemotherapy with carboplatin and gemcitabine (6 cycles from June to November 2019), achieving tumor stability. From April 2020, obstructive lower urinary symptoms increased and intermittent hematuria appeared. CT scan of March 14, 2020 confirmed tumor progression via appearance of right iliac lymph node metastases. Treating oncologist Dr. Diana Zamora Bolanos recommended pembrolizumab 200 mg intravenous every 3 weeks for 6 months. Paclitaxel was subsequently started but caused poor tolerance (muscle and joint pain). Central Pharmacotherapy Committee denied pembrolizumab via notice GM-CCF-2865-2020 (session 2020-28, June 10, 2020). Forensic medical opinion No. 2020-0006695 (September 9, 2020) concluded pembrolizumab could be beneficial given the patient's health status.",
+      "SYMPTOMS": "Hematuria (blood in urine); dysuria (pain on urination); right hip pain (treated with morphine); obstructive lower urinary symptoms; muscle and joint pain from paclitaxel; neutropenia (during prior chemotherapy)",
+      "DISEASE_SEVERITY": "Stage Four urothelial bladder carcinoma with pulmonary and lymph node metastases; progressive disease after first-line chemotherapy; functional status ECOG Performance Status 1",
+      "FUNCTIONAL_LIMITATIONS": "ECOG Performance Status 1 (ambulatory, able to carry out light work; pain limits function)",
+      "COMORBIDITIES": "Arterial hypertension (under private control and treatment); anxiety disorder; prior cholecystectomy",
+      "PRIOR_TREATMENTS": "Transurethral resection of bladder (April 2018, and earlier surgery); first-line chemotherapy with carboplatin and gemcitabine (6 cycles, June to November 2019); palliative radiotherapy (hemostatic intent, April 2020); second-line chemotherapy with paclitaxel (poor tolerance — severe muscle and joint pain, neutropenia)",
+      "THERAPEUTIC_FAILURE": "Disease progression after first-line carboplatin plus gemcitabine (new retroperitoneal and iliac lymph node metastases confirmed on CT March 2020); poor tolerance to paclitaxel (second-line) with muscle and joint pain",
+      "BIOMARKERS": "Programmed Death-Ligand 1 %: not confirmed above 10% — Central Committee noted absence of evidence of Programmed Death-Ligand 1 greater than 10% in available studies | Microsatellite Instability status: NOT FOUND | Tumor Mutational Burden: NOT FOUND | Human Epidermal Growth Factor Receptor 2: NOT FOUND | Epidermal Growth Factor Receptor: NOT FOUND | Anaplastic Lymphoma Kinase: NOT FOUND | ROS1: NOT FOUND | KRAS: NOT FOUND | B-Raf Proto-Oncogene: NOT FOUND",
+      "METASTASIS_SITES": "Lungs (pulmonary nodule); retroperitoneal and right iliac lymph nodes",
+      "MEDICAL_JUSTIFICATION": "Treating oncologist Dr. Diana Zamora Bolanos requested pembrolizumab as second-line therapy due to disease progression after platinum-based chemotherapy and poor tolerance to paclitaxel. KEYNOTE-045 trial demonstrated pembrolizumab prolonged overall survival versus chemotherapy (8.0 vs 7.4 months) with fewer adverse effects in recurrent urothelial carcinoma after platinum-based therapy. FDA approved pembrolizumab as second-line treatment for bladder cancer in 2017. KEYNOTE-052 demonstrated an approximately 29% response rate in patients ineligible for cisplatin. Forensic medical opinion No. 2020-0006695 concluded that pembrolizumab could be beneficial given the patient's health status with strict monitoring of adverse effects.",
+      "URGENCY": "NOT FOUND",
+      "RISK_DETERIORATION": "Progressive bladder carcinoma with new lymph node metastases and worsening symptoms despite treatment",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "Incurable high-grade recurrent metastatic urothelial carcinoma with limited therapeutic options remaining; patient 89 years old",
+      "REQUESTED_TREATMENT": "Pembrolizumab 200 mg intravenous every 3 weeks for 6 months",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Constitutional Chamber declared the amparo with merit, following the established jurisprudence that when an independent forensic medical opinion supports the use of the requested medication, the denial by the Central Pharmacotherapy Committee constitutes a violation of the fundamental right to health. The Forensic Medicine Department's Dictamen No. 2020-0006695 concluded that pembrolizumab could be beneficial for the patient given his health status. The Court determined that the Central Committee's denial — partly based on cost-of-opportunity arguments — was incompatible with constitutional protections of the right to life and health. The treatment was ordered to be provided under strict supervision of treating physicians with adequate monitoring of adverse effects.",
+      "COURT_CITATIONS": "Sentencia 2017-018660 (November 21, 2017); Dictamen Medico Legal No. 2020-0006695; KEYNOTE-045 study; KEYNOTE-052 study; Article 71 of the Law of Constitutional Jurisdiction; Article 73 of the Political Constitution; Articles 10 and 48 of the Political Constitution; Sentencia 1739-92"
+    },
+    "missing_from_no": "Row 168 (case 17008-2020): document does not contain any case 17008-2020; only case 17214-2020 is present, consistent with notation 'Not about pembrolizumab'. Row 177 (case 17214-2020): patient age (88-89 years); ECOG Performance Status 1; specific symptoms (hematuria, dysuria, hip pain, morphine use); comorbidities (hypertension, anxiety disorder, prior cholecystectomy); PD-L1 status not confirmed above 10%; forensic medical opinion outcome; judicial decision (Granted); prescribed dose and schedule; three prior surgeries detail (low-grade carcinoma surgery 2014, transurethral resection 2018, resection of new mass 2018).",
+    "possibly_incorrect": "Column N states 'recurrent with pulmonary metastasis (stage IV)' — the document confirms pulmonary nodule plus iliac and retroperitoneal lymph node metastases; the pulmonary lesion is described as a stable nodule while the CT of March 2020 documented progression via new iliac lymph node metastases. No substantive conflicts detected. Column O states 'poor tolerance to second-line chemotherapy (Paclitaxel), with neutropenia and severe pain' — confirmed in document; the document adds that neutropenia primarily occurred during first-line carboplatin plus gemcitabine, while paclitaxel caused muscle and joint pain. No material conflict.",
+    "error": null
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2019-11-01_(06497-2019) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2019-11-01_(06497-2019) .pdf.txt",
+    "rows": [
+      {
+        "row": 169,
+        "case": "21620 - 2019",
+        "N": "procedural issue",
+        "O": "procedural issue"
+      },
+      {
+        "row": 170,
+        "case": "06497 - 2019",
+        "N": "Unresectable metastatic malignant melanoma pT4B pN0 M0",
+        "O": "BRAF negative"
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Malignant nodular cutaneous melanoma pT4B pN0 M0, recurrent metastatic, unresectable",
+      "SECONDARY_DIAGNOSES": "Metastatic satellite lesions and in-transit metastases of the right lower extremity",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "64 years old (male)",
+      "CLINICAL_HISTORY": "Patient treated at Hospital Max Peralta Jimenez Oncology Service. Approximately one year prior to filing (around early 2018), presented with a hyperpigmented nevus on the right ankle; resection performed on February 28, 2018 at the Cartago Hospital with wide excision of the cutaneous lesion and right inguinal lymph node dissection; surgical biopsy confirmed ulcerated melanoma. Pre-surgical CT of thorax, abdomen, and pelvis showed no metastatic disease; BRAF mutation studies were negative. Ten months after surgery (December 2018), a giant mass appeared on the right thigh and multiple hyperpigmented lesions throughout the entire right lower extremity, demonstrating satellite and in-transit metastatic disease. The case was presented in a multidisciplinary skin cancer session that determined the disease was inoperable and not a candidate for isolated limb hyperthermic perfusion. The multidisciplinary team at Hospital Max Peralta Jimenez recommended pembrolizumab immunotherapy. The Local Pharmacotherapy Committee received the request on January 25, 2019 (Session No. 425, January 31, 2019) and escalated it to the Central Pharmacotherapy Committee. The Central Committee (session No. 2019-06, February 13, 2019, via notice CCF-0725-02-19 communicated March 4, 2019) denied the request, citing cost-therapeutic value mismatch and financial sustainability concerns. Forensic medical examination (March 26, 2019) confirmed pembrolizumab as first-line indication for unresectable metastatic melanoma without prior treatment.",
+      "SYMPTOMS": "Giant mass on the right thigh; multiple hyperpigmented lesions throughout the right lower extremity",
+      "DISEASE_SEVERITY": "Unresectable recurrent metastatic malignant melanoma with satellite and in-transit metastases; not a candidate for isolated limb hyperthermic perfusion; good general condition at time of evaluation",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Wide surgical excision of right ankle cutaneous lesion with right inguinal lymph node dissection (February 28, 2018)",
+      "THERAPEUTIC_FAILURE": "Disease recurred with massive metastatic progression ten months after surgery despite clear surgical margins; no systemic treatment had been given prior to pembrolizumab request",
+      "BIOMARKERS": "B-Raf Proto-Oncogene: negative (BRAF mutation studies were negative on pre-surgical workup) | Programmed Death-Ligand 1 %: NOT FOUND | Microsatellite Instability status: NOT FOUND | Tumor Mutational Burden: NOT FOUND | Human Epidermal Growth Factor Receptor 2: NOT FOUND | Epidermal Growth Factor Receptor: NOT FOUND | Anaplastic Lymphoma Kinase: NOT FOUND | ROS1: NOT FOUND | KRAS: NOT FOUND",
+      "METASTASIS_SITES": "Right thigh (giant mass); multiple satellite and in-transit metastases throughout the right lower extremity",
+      "MEDICAL_JUSTIFICATION": "The multidisciplinary team concluded the disease was inoperable and not amenable to hyperthermic perfusion; pembrolizumab has official international indications as first-line treatment for unresectable metastatic melanoma in patients without prior treatment. Evidence-based medicine meta-analyses encompassing multiple randomized controlled trials demonstrate benefits in progression-free and overall survival. NCCN guidelines recommend anti-PD-1 immunotherapy with pembrolizumab as Category 1 for metastatic melanoma above ipilimumab and nivolumab. Forensic medical opinion confirmed pembrolizumab is recommended given the patient's current health condition.",
+      "URGENCY": "NOT FOUND",
+      "RISK_DETERIORATION": "Rapid massive disease progression ten months after surgery with giant thigh mass and diffuse extremity metastases",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "Unresectable recurrent metastatic melanoma with no prior systemic treatment and no surgical or regional therapy options remaining",
+      "REQUESTED_TREATMENT": "Pembrolizumab (intravenous, dose and schedule not specified in document)",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Constitutional Chamber granted the amparo based on the independent forensic medical opinion confirming that pembrolizumab is recommended as the first-line treatment given the patient's health condition. The Court reaffirmed its consistent jurisprudence that when an independent forensic evaluation supports the treating physician's prescription, the denial by the Central Pharmacotherapy Committee violates the fundamental right to health. The Court noted that the Committee's denial was partly based on financial sustainability arguments, which are constitutionally impermissible as grounds for denying life-sustaining treatment. The Central Committee's reliance on high cost and limited therapeutic value as grounds for denial was found incompatible with constitutional protections.",
+      "COURT_CITATIONS": "Sentencia 2017-018660 (November 21, 2017); Sentencia 1739-92; Articles 10 and 48 of the Political Constitution; Article 73 of the Political Constitution; Article 71 of the Law of Constitutional Jurisdiction; KEYNOTE-002 study (referenced by prescribing physician); KEYNOTE-006 study (referenced by prescribing physician); NCCN guidelines"
+    },
+    "missing_from_no": "Row 169 (case 21620-2019): the document does not contain case 21620-2019; the filed expediente is 19-003548-0007-CO for case 06497-2019 only; the notation 'procedural issue' cannot be verified from the document. Row 170 (case 06497-2019): patient age (64 years); prior treatment (surgery only — wide excision with lymph node dissection February 2018); metastasis sites (right thigh giant mass, satellite and in-transit metastases right lower extremity); disease declared inoperable and not a candidate for hyperthermic perfusion; good general condition; forensic evaluation confirmed first-line indication; judicial decision (Granted); requested treatment.",
+    "possibly_incorrect": "Column N states 'pT4B pN0 M0' — the document confirms this staging (melanoma nodular cutaneo maligno pT4B pN0 M0 recurrente metastasico). However, the document also clearly states 'recurrent metastatic' disease with satellite and in-transit metastases, which is consistent with progression to metastatic state despite the original pN0 M0 staging at time of primary surgery. No material conflict — the pT4B pN0 M0 reflects the original surgical pathology, and the subsequent metastatic status is from disease recurrence. No conflicts detected.",
+    "error": null
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2017-02-03_(01588-2017) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2017-02-03_(01588-2017) .pdf.txt",
+    "rows": [
+      {
+        "row": 172,
+        "case": "01588 - 2017",
+        "N": "Left retroauricular malignant melanoma",
+        "O": "The PET-CT from October 2016 documented disease activity in the neck, thorax, and sacral bone."
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Left retroauricular malignant melanoma, recurrent metastatic",
+      "SECONDARY_DIAGNOSES": "Metastases to the lung and sacrum",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "70 years old (male)",
+      "CLINICAL_HISTORY": "Patient is a male electrical engineer, known hypertensive under private control. In September 2015, left retroauricular malignant melanoma was documented; wide resection and sentinel lymph node biopsy confirmed the diagnosis. Post-surgical follow-up with neck and abdominal ultrasound and chest radiograph were negative. In July 2016, a CT scan of the neck described a left intraparotid nodule, for which total left parotidectomy and cervical dissection were performed due to suspected recurrence, confirmed by biopsy. In October 2016, a PET-CT documented metastatic activity in the neck, thorax (lungs), and sacral bone. The case was presented at a multidisciplinary oncology session at Hospital Dr. Calderon Guardia, which ruled out both radiotherapy and chemotherapy as inferior options given the satellite disease and evidence-based medicine assessment. Immunotherapy with checkpoint inhibitors was recommended as the best option. Treating oncologist Dr. Diana Zamora Bolanos requested pembrolizumab 196 mg every 3 weeks for 6 months; the Central Pharmacotherapy Committee denied it (session 2016-48, November 9, 2016, via notice CCF-4733-11-16) citing need for cost-effectiveness study and limited benefit expectation. Forensic medical opinion No. 2017-0000524 (January 19, 2017) confirmed pembrolizumab as the best treatment option.",
+      "SYMPTOMS": "NOT FOUND (disease progression documented by imaging; no specific symptoms recorded in judgment)",
+      "DISEASE_SEVERITY": "Recurrent metastatic malignant melanoma with metastases to neck, lungs, and sacral bone; low-volume metastatic disease; good general clinical condition",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "Arterial hypertension (under private control and treatment)",
+      "PRIOR_TREATMENTS": "Wide excision of left retroauricular melanoma with sentinel lymph node biopsy (September 2015, private medical centers); total left parotidectomy and cervical dissection for suspected recurrence (July 2016, private); radiotherapy evaluated and discarded; chemotherapy evaluated and discarded as inferior",
+      "THERAPEUTIC_FAILURE": "Melanoma recurred after wide excision (first surgery); cervical recurrence confirmed after parotidectomy; disease progressed to lung and sacrum; radiotherapy and chemotherapy were both considered inadequate treatment options for this patient",
+      "BIOMARKERS": "Programmed Death-Ligand 1 %: NOT FOUND | Microsatellite Instability status: NOT FOUND | Tumor Mutational Burden: NOT FOUND | Human Epidermal Growth Factor Receptor 2: NOT FOUND | Epidermal Growth Factor Receptor: NOT FOUND | Anaplastic Lymphoma Kinase: NOT FOUND | ROS1: NOT FOUND | KRAS: NOT FOUND | B-Raf Proto-Oncogene: NOT FOUND (BRAF status not mentioned in this document)",
+      "METASTASIS_SITES": "Neck (lymph nodes/intraparotid); lungs (thorax); sacral bone — documented by PET-CT of October 2016",
+      "MEDICAL_JUSTIFICATION": "The multidisciplinary oncology team at Hospital Dr. Calderon Guardia determined that chemotherapy and radiotherapy were inferior options due to satellite disease and unfavorable risk-benefit ratio per evidence-based medicine. Pembrolizumab as anti-PD-1 immunotherapy demonstrated superiority over ipilimumab in progression-free survival at 6 and 12 months (46.4% versus 26.5%), response rate (32.9% versus 11.9%), and adverse events (10.1% versus 19.9%). Compared to chemotherapy, pembrolizumab showed better progression-free survival (38% versus 16%) and fewer adverse events (14% versus 26%). NCCN guidelines recommend anti-PD-1 immunotherapy with pembrolizumab as Category 1 for metastatic melanoma. Forensic Medical Opinion No. 2017-0000524 concluded pembrolizumab is the best treatment option for the patient in his current condition.",
+      "URGENCY": "NOT FOUND",
+      "RISK_DETERIORATION": "Progressive disease with multi-site metastases (neck, lungs, sacrum) confirmed on PET-CT; conventional treatment options were considered inferior",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "Recurrent metastatic melanoma with multi-organ metastases and no viable conventional treatment alternatives",
+      "REQUESTED_TREATMENT": "Pembrolizumab 196 mg every 3 weeks for 6 months",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Constitutional Chamber granted the amparo based on the independent forensic medical opinion (Dictamen Medico Legal No. 2017-0000524) which concluded that pembrolizumab is the best treatment option for the patient. The Court applied its established jurisprudence that when there is a conflict between the treating physician and the Central Pharmacotherapy Committee, and an independent forensic evaluation supports the treating physician's prescription, the denial constitutes a violation of the right to health. The Central Pharmacotherapy Committee's denial — based on the need for a cost-effectiveness study and cited limited benefit expectation — was found insufficient to override the constitutional right to health. The Court ordered immediate authorization of pembrolizumab under the responsibility and supervision of the treating physician.",
+      "COURT_CITATIONS": "Dictamen Medico Legal No. 2017-0000524; Article 71 of the Law of Constitutional Jurisdiction; NCCN guidelines (National Comprehensive Cancer Network)"
+    },
+    "missing_from_no": "Patient age (70 years); comorbidity (arterial hypertension); prior treatments detail (multiple surgeries in private centers; parotidectomy; radiotherapy and chemotherapy considered and discarded); prescribed dose and schedule (196 mg every 3 weeks for 6 months); metastasis confirmed in neck (intraparotid region) in addition to thorax and sacrum; forensic medical opinion outcome; judicial decision (Granted); patient occupation (electrical engineer); BRAF status not mentioned.",
+    "possibly_incorrect": "Column N states 'Left retroauricular malignant melanoma' — the document confirms this as the primary tumor site (melanoma maligno retroauricular izquierdo). Column O states 'The PET-CT from October 2016 documented disease activity in the neck, thorax, and sacral bone' — confirmed in the document. No conflicts detected.",
+    "error": null
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2024-04-26_(01920-2024) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2024-04-26_(01920-2024) .pdf.txt",
+    "rows": [
+      {
+        "row": 173,
+        "case": "01920 - 2024",
+        "N": "Breast cancer cT4cN1M0 triple negative",
+        "O": "Pembrolizumab for combination with neoadjuvant chemotherapy"
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Triple-negative breast cancer cT4cN1M0, locally advanced (infiltrating ductal carcinoma Grade 2, estrogen receptor negative, progesterone receptor negative, HER-2 negative, Ki67 10%)",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "49 years old (female)",
+      "CLINICAL_HISTORY": "Patient diagnosed on July 7, 2023 with early triple-negative breast cancer. Breast imaging on June 6, 2023 showed an infiltrating lesion in the left breast. Biopsy of the left breast lesion reported infiltrating ductal carcinoma Grade 2, estrogen receptor negative, progesterone receptor negative, Ki67 10%, HER-2 negative. Physical examination showed locally advanced disease corresponding to triple-negative breast cancer cT4cN1M0, indicated for neoadjuvant systemic treatment. Received 12 sessions of white chemotherapy (taxane-based) but the tumor did not show considerable reduction. Beginning January 2, 2024, started red chemotherapy (anthracycline-based) every 15 days. Surgery and radiotherapy had not yet been performed. Treating oncologist Dr. Ronald Badilla Gonzalez prescribed pembrolizumab for combination with neoadjuvant chemotherapy. The Local Pharmacotherapy Committee (session CLF 37-2023, September 22, 2023) analyzed the request and submitted to the Central Pharmacotherapy Committee on September 26, 2023. The Central Pharmacotherapy Committee (session 2023-42, October 4, 2023, via notice GM-CCF-5680-2023) denied the request. Forensic medical opinion No. 2024-0000458 (January 23, 2024) concluded pembrolizumab is the most beneficial treatment for the patient.",
+      "SYMPTOMS": "Lack of adequate tumor reduction after 12 sessions of taxane-based chemotherapy; adverse effects from chemotherapy",
+      "DISEASE_SEVERITY": "Locally advanced triple-negative breast cancer cT4cN1M0 with inadequate response to neoadjuvant chemotherapy; not yet surgically resected",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "12 sessions of neoadjuvant white chemotherapy (taxane-based); neoadjuvant red chemotherapy (anthracycline-based) initiated January 2, 2024",
+      "THERAPEUTIC_FAILURE": "Tumor did not show considerable reduction after 12 sessions of taxane-based chemotherapy",
+      "BIOMARKERS": "Human Epidermal Growth Factor Receptor 2: negative | Estrogen receptor: negative | Progesterone receptor: negative | Ki67: 10% | Programmed Death-Ligand 1 %: NOT FOUND | Microsatellite Instability status: NOT FOUND | Tumor Mutational Burden: NOT FOUND | Epidermal Growth Factor Receptor: NOT FOUND | Anaplastic Lymphoma Kinase: NOT FOUND | ROS1: NOT FOUND | KRAS: NOT FOUND | B-Raf Proto-Oncogene: NOT FOUND",
+      "METASTASIS_SITES": "NOT FOUND (cT4cN1M0 — no distant metastases at staging)",
+      "MEDICAL_JUSTIFICATION": "Treating oncologist prescribed pembrolizumab in combination with neoadjuvant chemotherapy based on the KEYNOTE-522 study evidence for triple-negative breast cancer. The forensic medical opinion No. 2024-0000458 concluded that pembrolizumab is the most beneficial treatment for the patient, to be applied under strict supervision with monitoring of adverse effects. The Constitutional Chamber found the denial arbitrary, as it contradicted both the treating physician's criterion and the independent forensic medical opinion.",
+      "URGENCY": "NOT FOUND",
+      "RISK_DETERIORATION": "Locally advanced triple-negative breast cancer with inadequate response to taxane-based neoadjuvant chemotherapy, delaying definitive surgical treatment",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "Locally advanced triple-negative breast cancer (cT4cN1M0) with poor chemotherapy response, a biologically aggressive subtype without targeted therapy options",
+      "REQUESTED_TREATMENT": "Pembrolizumab in combination with neoadjuvant chemotherapy (dose and schedule not specified in judgment)",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Constitutional Chamber granted the amparo, finding that the denial of pembrolizumab was arbitrary because it contradicted both the treating oncologist's prescription and the independent forensic medical opinion from the Forensic Medicine Department (Dictamen Medico Legal No. 2024-0000458). The Court applied its established jurisprudence (Voto No. 2014-001072) that respects the treating physician's prescription freedom and the right to health, noting that the Central Pharmacotherapy Committee's denial — even if based on technical arguments about pending mature data — cannot override constitutional protections. One magistrate (Castillo Viquez) dissented, arguing the case should be denied on grounds of therapeutic efficacy uncertainty and financial sustainability of the public health system. The majority determined that the independent forensic confirmation of benefit justified granting the treatment.",
+      "COURT_CITATIONS": "Voto No. 2014-001072 (January 28, 2014); Sentencia No. 2009-08694 (May 26, 2009); Sentencia 5130-94; Sentencia 2004-003363 (March 31, 2004); Sentencia 2007-003018 (March 6, 2007); Dictamen Medico Legal No. 2024-0000458; KEYNOTE-522 study; Article 71 of the Law of Constitutional Jurisdiction; Articles 10 and 48 of the Political Constitution"
+    },
+    "missing_from_no": "Patient age (49 years); pathological details of biopsy (infiltrating ductal carcinoma Grade 2, estrogen receptor negative, progesterone receptor negative, Ki67 10%, HER-2 negative); specific chemotherapy regimens (12 sessions taxane-based; then anthracycline-based); surgery and radiotherapy not yet performed; forensic medical opinion outcome (Dictamen No. 2024-0000458); dissenting vote by Magistrate Castillo Viquez; judicial decision (Granted); treating physician (Dr. Ronald Badilla Gonzalez); date of diagnosis (July 7, 2023).",
+    "possibly_incorrect": "No conflicts detected.",
+    "error": null
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2023-10-24_(27212-2023) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2023-10-24_(27212-2023) .pdf.txt",
+    "rows": [
+      {
+        "row": 174,
+        "case": "27212 - 2023",
+        "N": "Squamous cell carcinoma of the molar trigone CT4BN3AM0, stage IVB, P16+ PDL-1 10%, advanced to mediastinal and pulmonary lymph nodes with pulmonary and CNS progression",
+        "O": "The patient had already undergone curative treatment in 2020 and a first palliative line (carboplatin + paclitaxel + cetuximab) until 2023. The Pembrolizumab request would be for a second line."
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Squamous cell carcinoma of the molar trigone CT4BN3AM0, Stage IVB, P16 positive, Programmed Death-Ligand 1 10%, advanced to mediastinal and pulmonary lymph nodes with pulmonary and central nervous system progression",
+      "SECONDARY_DIAGNOSES": "Pulmonary metastases; mediastinal lymph node metastases; central nervous system progression",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "61 years old (male)",
+      "CLINICAL_HISTORY": "Patient is an ex-smoker with significant tobacco history, no relevant personal pathological background. Diagnosed with squamous cell carcinoma of the molar trigone in 2020. Received definitive curative-intent treatment completed November 26, 2020. Disease-free period of 1 year and 7 months, after which imaging studies demonstrated mediastinal and pulmonary lymph node progression. Received first-line palliative treatment with carboplatin, paclitaxel, and cetuximab until February 2023, then cetuximab maintenance until July 2023. New control imaging studies showed disease progression at pulmonary, mediastinal, and central nervous system levels. On September 12, 2023, amparo was filed. Treating oncologist Dr. Amy Mora Brenes requested pembrolizumab (non-LOM) for use in combination with capecitabine as second-line palliative therapy to improve overall survival. The Local Pharmacotherapy Committee (August 17, 2023) forwarded the request to the Central Pharmacotherapy Committee. The Central Committee (session 2023-36, September 7, 2023, via notice GM-CCF-4856-2023) denied the request, noting that KEYNOTE-048 data supported benefit only for patients with Programmed Death-Ligand 1 at or above 20%, not at 10% as in this case (estimated overall survival benefit of less than 2 months at PDL-1 10%). Forensic medical opinion No. 2023-0007814 (October 17, 2023) concluded the capecitabine-pembrolizumab combination did not correspond to the KEYNOTE-012 protocol and the use of pembrolizumab with chemotherapy could not be justified via KEYNOTE-048 as this was second-line metastatic therapy, not first line.",
+      "SYMPTOMS": "Acute health deterioration noted at time of forensic examination (patient could not be evaluated and was treated as emergency on September 26, 2023)",
+      "DISEASE_SEVERITY": "Stage IVB squamous cell carcinoma of the molar trigone with progression to mediastinal lymph nodes, lungs, and central nervous system after curative treatment and first-line palliative chemotherapy; second-line setting",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "Significant ex-smoker history; no other personal pathological antecedents reported",
+      "PRIOR_TREATMENTS": "Definitive curative-intent treatment for squamous cell carcinoma of the molar trigone (completed November 26, 2020 — specific modality not described in judgment but referenced as radiochemotherapy context); first-line palliative chemotherapy with carboplatin, paclitaxel, and cetuximab (until February 2023); cetuximab maintenance (until July 2023)",
+      "THERAPEUTIC_FAILURE": "Progression to mediastinal and pulmonary lymph nodes after curative treatment (disease-free interval 1 year 7 months); disease progression to pulmonary, mediastinal, and central nervous system levels after first-line palliative carboplatin, paclitaxel, and cetuximab",
+      "BIOMARKERS": "Programmed Death-Ligand 1 %: 10% | P16: positive | Microsatellite Instability status: NOT FOUND | Tumor Mutational Burden: NOT FOUND | Human Epidermal Growth Factor Receptor 2: NOT FOUND | Epidermal Growth Factor Receptor: NOT FOUND | Anaplastic Lymphoma Kinase: NOT FOUND | ROS1: NOT FOUND | KRAS: NOT FOUND | B-Raf Proto-Oncogene: NOT FOUND",
+      "METASTASIS_SITES": "Mediastinal lymph nodes; lungs; central nervous system",
+      "MEDICAL_JUSTIFICATION": "Treating oncologist Dr. Amy Mora Brenes requested pembrolizumab combined with capecitabine as second-line palliative therapy. FDA has approved pembrolizumab as monotherapy for recurrent or metastatic squamous cell head and neck cancer with disease progression during or after platinum-containing chemotherapy. The prescribing physician cited KEYNOTE-048. However, the Central Pharmacotherapy Committee found that at Programmed Death-Ligand 1 10%, the estimated overall survival benefit was under 2 months. The forensic medical opinion concluded that the proposed combination (pembrolizumab plus capecitabine) did not correspond to the KEYNOTE-012 protocol and KEYNOTE-048 results were not applicable to this second-line metastatic setting.",
+      "URGENCY": "Implied urgency — patient suffered acute health deterioration during the proceedings (emergency on September 26, 2023)",
+      "RISK_DETERIORATION": "Progressive disease with central nervous system involvement; acute health emergency during proceedings",
+      "RISK_HOSPITALIZATION": "Acute health deterioration requiring emergency care during proceedings (September 26, 2023)",
+      "RISK_DEATH": "Stage IVB squamous cell carcinoma with multi-site metastatic progression including central nervous system involvement in second-line setting",
+      "REQUESTED_TREATMENT": "Pembrolizumab (non-LOM) in combination with capecitabine for second-line palliative therapy (dose and schedule not specified in judgment)",
+      "JUDICIAL_DECISION": "Denied",
+      "DECISION_GROUNDS": "The Constitutional Chamber denied the amparo, relying on the independent forensic medical opinion (Dictamen Medico Legal No. 2023-0007814) which concluded that the proposed capecitabine-pembrolizumab combination did not correspond to the KEYNOTE-012 protocol and therefore could not be confirmed as the most beneficial regimen for this patient. The forensic opinion further found that the use of pembrolizumab combined with chemotherapy could not be justified via KEYNOTE-048 because the present case involved second-line metastatic therapy rather than first-line treatment as studied in KEYNOTE-048. The Court applied its established jurisprudence that when the independent forensic medical evaluation does not support the requested treatment, the amparo cannot be granted, as the third-party technical criterion is determinative. The Central Pharmacotherapy Committee's technical finding that Programmed Death-Ligand 1 at 10% does not meet the threshold for meaningful overall survival benefit (less than 2 additional months) was corroborated by the forensic opinion.",
+      "COURT_CITATIONS": "Sentencia nro. 2017-018660 (November 21, 2017); Sentencia 1739-92; Articles 10 and 48 of the Political Constitution; Article 73 of the Political Constitution; Dictamen Medico Legal No. 2023-0007814; KEYNOTE-048 study; KEYNOTE-012 study; Article 12 of the International Covenant on Economic, Social and Cultural Rights (PIDESC); General Comment 14 of the PIDESC Committee; Article 21 of the Political Constitution; Article 16 of the General Law of Public Administration"
+    },
+    "missing_from_no": "Patient age (61 years); ex-smoker history; disease-free interval after curative treatment (1 year 7 months); cetuximab maintenance phase (until July 2023); Programmed Death-Ligand 1 threshold issue (10% versus required 20% per KEYNOTE-048 for meaningful benefit); P16 positive status; forensic medical opinion outcome (did not support pembrolizumab); judicial decision (Denied); acute health emergency during proceedings (September 26, 2023); specific combination therapy requested (pembrolizumab plus capecitabine); treating physician (Dr. Amy Mora Brenes).",
+    "possibly_incorrect": "Column O states 'carboplatin + paclitaxel + cetuximab' — confirmed in document. Column O describes this as a 'second line' request — confirmed. Column N lists PDL-1 10% — confirmed in document. No conflicts detected.",
+    "error": null
+  }
+]

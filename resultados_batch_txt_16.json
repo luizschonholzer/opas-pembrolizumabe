@@ -1,0 +1,284 @@
+[
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2024-07-24_(05332-2025) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2024-07-24_(05332-2025) .pdf.txt",
+    "rows": [
+      {
+        "row": 183,
+        "case": "21045 - 2025",
+        "N": "Not about pembrolizumab",
+        "O": ""
+      },
+      {
+        "row": 184,
+        "case": "14922 - 2025",
+        "N": "Not about pembrolizumab",
+        "O": ""
+      },
+      {
+        "row": 188,
+        "case": "07629 - 2025",
+        "N": "Not about pembrolizumab",
+        "O": ""
+      },
+      {
+        "row": 189,
+        "case": "05373 - 2025",
+        "N": "Not about pembrolizumab",
+        "O": ""
+      },
+      {
+        "row": 190,
+        "case": "01109 - 2025",
+        "N": "Not about pembrolizumab",
+        "O": ""
+      },
+      {
+        "row": 197,
+        "case": "05332 - 2025",
+        "N": "Invasive triple-negative breast carcinoma cT3N1M0",
+        "O": "Ki67 70%. The goal is to achieve Pathological Complete Response (pCR) before surgery to ensure 'better long-term outcomes'."
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Refractory relapsed classical Hodgkin lymphoma, Stage Four B (Stage IVB), triple-refractory",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "52 years old (female)",
+      "CLINICAL_HISTORY": "Diagnosed in 2011 with classical Hodgkin lymphoma Stage Two B (IIB) with nodular sclerosis, treated with EBVD chemotherapy protocol plus radiotherapy to the neck. Relapsed in 2019 (Stage Three B / IIIB), retreated with EBVD plus etoposide and radiotherapy to a pathological fracture of the spine. In 2021, underwent autologous stem cell transplant. In 2022, experienced second relapse; treated with GDP chemotherapy protocol which was changed to CHOEP due to complications (hypoacusis), while awaiting approval of Pembrolizumab. Once Pembrolizumab was approved via a prior amparo proceeding (expediente 22-015044-0007-CO), treatment was initiated and continued uninterrupted. In July 2024, a third relapse occurred (now Stage IVB); Pembrolizumab was discontinued due to disease progression confirmed by biopsy on April 19, 2024, showing refractory Hodgkin lymphoma. As of that point, no further treatment lines were available and the patient was declared palliative with oral therapy and referred to Palliative Medicine.",
+      "SYMPTOMS": "Symptom B (fever, night sweats, weight loss), fatigue, pain requiring opioid use, difficulty sleeping, mild pedal edema",
+      "DISEASE_SEVERITY": "Terminal phase; triple-refractory Hodgkin lymphoma with no remaining curative treatment lines; palliative management only; prognosis described as unfavorable with palliative response durations reported up to 5 months median",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "EBVD chemotherapy plus radiotherapy to the neck (2011); EBVD plus etoposide plus radiotherapy to spine (2019 relapse); GDP chemotherapy (changed to CHOEP due to hypoacusis complication) (2022); autologous stem cell transplant (2021); Pembrolizumab (initiated 2022, discontinued July 2024 due to disease progression); oral palliative chemotherapy (after July 2024)",
+      "THERAPEUTIC_FAILURE": "Pembrolizumab was discontinued in April/July 2024 due to confirmed disease progression and reappearance of lymphadenopathies on biopsy; disease considered refractory to all treatment lines including Pembrolizumab; no further active treatment lines available",
+      "BIOMARKERS": "Programmed Death-Ligand 1 %: NOT FOUND | Microsatellite Instability status: NOT FOUND | Tumor Mutational Burden: NOT FOUND | Human Epidermal Growth Factor Receptor 2: NOT FOUND | Epidermal Growth Factor Receptor: NOT FOUND | Anaplastic Lymphoma Kinase: NOT FOUND | ROS1: NOT FOUND | KRAS: NOT FOUND | B-Raf Proto-Oncogene: NOT FOUND | Others: NOT FOUND",
+      "METASTASIS_SITES": "NOT FOUND (Stage IVB denotes advanced/disseminated disease; specific sites not detailed in this document)",
+      "MEDICAL_JUSTIFICATION": "The case before the court was not a request for Pembrolizumab but rather a petition for early total withdrawal of mandatory complementary pension funds (Regimen Obligatorio de Pensiones Complementarias, ROP) on grounds of terminal illness. Pembrolizumab appears as a prior failed treatment. The medical justification for the pension withdrawal was that the patient is in the terminal phase of triple-refractory Hodgkin lymphoma with no further treatment options and an unfavorable prognosis.",
+      "URGENCY": "High — patient confirmed to be in terminal phase with no curative treatment options and unfavorable short-term prognosis",
+      "RISK_DETERIORATION": "High — triple-refractory lymphoma in terminal phase; progression documented; palliative treatments offer median response duration of up to 5 months",
+      "RISK_HOSPITALIZATION": "High — disease in terminal phase; patient already referred to Palliative Medicine",
+      "RISK_DEATH": "High — medical-legal expert confirmed terminal phase; no specific survival estimate possible but prognosis described as very unfavorable",
+      "REQUESTED_TREATMENT": "Early total withdrawal of mandatory complementary pension funds (ROP) on grounds of terminal illness (this document does not request Pembrolizumab; Pembrolizumab was a prior failed treatment)",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Constitutional Chamber (Sala Constitucional) declared the amparo resource well-founded by majority vote. The court found that the patient is in the terminal phase of triple-refractory Hodgkin lymphoma based on the forensic medical opinion rendered by the Legal Medicine Department of the Judicial Investigation Organization (OIJ), which confirmed that the patient's prognosis is unfavorable and that palliative treatments offer median response durations of only up to 5 months. The court applied its established precedent that patients in a terminal condition are entitled to a full lump-sum withdrawal of their ROP pension funds, as the installment-based delivery system becomes arbitrary, unreasonable, and disproportionate when applied to a person who may die imminently and has no prospect of utilizing the funds for long-term needs. The court ordered BN Vital pension operator to deliver the totality of the patient's accumulated ROP funds within eight business days. Two magistrates (Rueda Leal and Garro Vargas) filed a dissent, arguing that the patient had not formally demonstrated terminal illness through the required CCSS certification and that the court was improperly varying regulatory parameters by summary amparo proceedings.",
+      "COURT_CITATIONS": "Sala Constitucional voto 2020-004814 (March 10, 2020); Sala Constitucional sentencia 2024013254 (May 17, 2024); Sala Constitucional sentencia 2022016945 (July 19, 2022); Article 22 of Ley de Proteccion al Trabajador; Article 6 of Acuerdo SUPEN-3-10 Reglamento de Beneficios del Regimen de Capitalizacion Individual; Article 57 of Ley de la Jurisdiccion Constitucional; Article 71 of Ley de la Jurisdiccion Constitucional; Tribunal Contencioso Administrativo resolution N 226-2009 (May 21, 2009); Sala Constitucional sentencia 440-98"
+    },
+    "missing_from_no": "The N/O columns for row 197 describe the case as 'Invasive triple-negative breast carcinoma cT3N1M0' with Ki67 70% and a goal of Pathological Complete Response before surgery — this is entirely incorrect for the actual content of this document. The document (Resolution 05332-2025) concerns a 52-year-old female patient with refractory relapsed classical Hodgkin lymphoma (Stage IVB, triple-refractory) who had already failed Pembrolizumab and was seeking early pension fund withdrawal (ROP) on grounds of terminal illness. There is no mention of breast carcinoma, cT3N1M0 staging, Ki67, or Pathological Complete Response in this document. The rows 183, 184, 188, 189, 190 are correctly marked as 'Not about pembrolizumab' since those case numbers do not appear in this document (the document covers only case 05332-2025 / expediente 24-034134-0007-CO), though secondary cases referenced as pensioners with other conditions do appear in cited precedents.",
+    "possibly_incorrect": "Row 197 N: 'Invasive triple-negative breast carcinoma cT3N1M0' is incorrect — the correct primary diagnosis is Refractory relapsed classical Hodgkin lymphoma Stage IVB. Row 197 O: 'Ki67 70%. The goal is to achieve Pathological Complete Response (pCR) before surgery' is incorrect — there is no breast carcinoma, no Ki67 measurement, and no surgical pCR goal in this document. The document concerns pension fund withdrawal for a terminal Hodgkin lymphoma patient. Possible data entry error: this N/O data appears to belong to a different case (likely a triple-negative breast cancer case).",
+    "error": null
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2025-04-22_(11559-2025) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2025-04-22_(11559-2025) .pdf.txt",
+    "rows": [
+      {
+        "row": 185,
+        "case": "11559-2025",
+        "N": "Hodgkin lymphoma with nodular sclerosis (IIIBX)",
+        "O": "Has failed all conventional treatment lines (ABVD and DHAP chemotherapy) and is not eligible for radiotherapy or bone marrow transplant due to disease progression."
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Classical Hodgkin lymphoma, Stage Three B Bulky (IIIBX), refractory",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "31 years old (male)",
+      "CLINICAL_HISTORY": "Diagnosed with classical Hodgkin lymphoma Stage Three B Bulky (IIIBX) in January 2024. Initially received ABVD chemotherapy protocol; achieved partial response at mid-treatment but showed disease progression at the end of treatment. Considered not a candidate for radiotherapy. Changed to DHAP chemotherapy with the goal of achieving remission for subsequent autologous bone marrow transplant (auto TCM). After 4 cycles of DHAP, clear disease progression was documented by computed tomography. Patient has ECOG Performance Status 0 with preserved organ function. Treating physician then requested Pembrolizumab as third-line monotherapy. The Central Committee of Pharmacotherapy (Comite Central de Farmacoterapia) denied approval on February 21, 2025, citing insufficient evidence on overall survival and quality of life from the KEYNOTE-087 and KEYNOTE-204 studies. The case was elevated to forensic medicine evaluation.",
+      "SYMPTOMS": "NOT FOUND (ECOG Performance Status 0 noted; specific symptoms not detailed beyond disease progression)",
+      "DISEASE_SEVERITY": "Refractory/relapsed classical Hodgkin lymphoma with documented progression after two lines of chemotherapy (ABVD and DHAP); not eligible for radiotherapy or bone marrow transplant due to insufficient remission; disease considered chemoresistant",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND (ECOG Performance Status 0 documented — no functional limitations)",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "ABVD chemotherapy protocol (partial response mid-treatment, progression at end of treatment); DHAP chemotherapy (4 cycles; clear disease progression by computed tomography)",
+      "THERAPEUTIC_FAILURE": "ABVD produced only partial response and ended in disease progression; DHAP (4 cycles) produced clear disease progression documented by computed tomography; patient not eligible for radiotherapy or autologous bone marrow transplant due to lack of remission",
+      "BIOMARKERS": "Programmed Death-Ligand 1 %: NOT FOUND | Microsatellite Instability status: NOT FOUND | Tumor Mutational Burden: NOT FOUND | Human Epidermal Growth Factor Receptor 2: NOT FOUND | Epidermal Growth Factor Receptor: NOT FOUND | Anaplastic Lymphoma Kinase: NOT FOUND | ROS1: NOT FOUND | KRAS: NOT FOUND | B-Raf Proto-Oncogene: NOT FOUND | Others: NOT FOUND",
+      "METASTASIS_SITES": "NOT FOUND",
+      "MEDICAL_JUSTIFICATION": "Treating hematologist Dr. Rafael Rojas Saurez argued that Pembrolizumab has demonstrated anti-tumor activity and durability of response in patients with relapsed or refractory Hodgkin lymphoma regardless of prior treatment, citing KEYNOTE-204 (phase 3 randomized controlled trial showing statistically significant improvement in progression-free survival compared to brentuximab vedotin) and KEYNOTE-087 (phase 2 study showing 71.9% anti-tumor activity in the refractory/relapsed population). The forensic medical expert (OIJ dictamen medico legal 2025-0000437, April 10, 2025), following interconsultation with a hematology specialist, concluded that Pembrolizumab is the most beneficial treatment for this patient's refractory classical Hodgkin lymphoma.",
+      "URGENCY": "High — patient with refractory disease and no remaining standard treatment options after two failed chemotherapy lines; not eligible for transplant",
+      "RISK_DETERIORATION": "High — documented progression after two chemotherapy lines; not in remission; ineligible for bone marrow transplant consolidation",
+      "RISK_HOSPITALIZATION": "High — had prior intensive care unit admission due to chemotherapy side effects; disease continues to progress",
+      "RISK_DEATH": "High — refractory disease after two lines of chemotherapy with no remaining standard treatment options",
+      "REQUESTED_TREATMENT": "Pembrolizumab monotherapy (non-List Official of Medications drug) as third-line treatment for refractory classical Hodgkin lymphoma, at 200 mg intravenously every 3 weeks",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Constitutional Chamber granted the amparo resource, ordering the Caja Costarricense de Seguro Social to provide Pembrolizumab immediately. The court applied its established jurisprudence that when a conflict arises between the treating physician and the Central Committee of Pharmacotherapy regarding a non-official medication, the court may seek a third independent opinion from the Legal Medicine Department of the OIJ to resolve the dispute. The forensic medical dictamen (2025-0000437 of April 10, 2025), based on clinical evaluation, medical documentation, hematology specialist interconsultation, and evidence-based medicine literature, concluded that Pembrolizumab is the most beneficial treatment for the patient's refractory classical Hodgkin lymphoma. The court found that the denial of Pembrolizumab by the Central Committee of Pharmacotherapy violated the patient's fundamental right to health, and ordered that the treatment be administered at the prescribed dose and duration under strict supervision of the treating physician, subject to variation if clinical circumstances contraindicate the medication.",
+      "COURT_CITATIONS": "Sala Constitucional sentencia 2017-018660 (November 21, 2017); Article 71 of Ley de la Jurisdiccion Constitucional; Article 73 of the Constitution of Costa Rica; Articles 10 and 48 of the Constitution of Costa Rica; Ley Constitutiva de la CCSS; Article 12 of the Pacto Internacional de Derechos Economicos Sociales y Culturales (PIDESC); Article 21 of the Constitution of Costa Rica; Observation 14 of the PIDESC Commission on the right to health; Article 16 of the Ley General de la Administracion Publica; KEYNOTE-087 study (Lancet, Blood 2019); KEYNOTE-204 study (Lancet Oncol. 2021 May)"
+    },
+    "missing_from_no": "The N column correctly identifies the diagnosis as Hodgkin lymphoma with nodular sclerosis (IIIBX). However, the O column omits the following clinically important details: the patient's age (31 years old), the specific chemotherapy protocols used (ABVD and DHAP — both mentioned, though DHAP is noted in O), that the patient fell into intensive care due to chemotherapy toxicity from DHAP cycles, the ECOG Performance Status 0, the forensic medical finding that Pembrolizumab is the most beneficial treatment, the judicial grant of the amparo and the order to provide the medication immediately, and the prior admission to intensive care during treatment.",
+    "possibly_incorrect": "The O column states the patient 'is not eligible for radiotherapy or bone marrow transplant due to disease progression' — this is accurate. However, the N column states 'IIIBX' which is correct per the document. No material conflicts detected between the N/O and the document content for the clinical characterization, though the N/O description is incomplete.",
+    "error": null
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2025-03-21_(08747-2025) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2025-03-21_(08747-2025) .pdf.txt",
+    "rows": [
+      {
+        "row": 186,
+        "case": "08747 - 2025",
+        "N": "Metastatic rectal cancer",
+        "O": "After rectal surgery in 2023, attempted adjuvant chemotherapy (Oxaliplatin and Capecitabine), but only tolerated 3 cycles before discontinuing due to severe toxicity (intolerance)."
+      },
+      {
+        "row": 187,
+        "case": "09078 - 2025",
+        "N": "Not about pembrolizumab",
+        "O": ""
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Metastatic adenocarcinoma of the rectum with extensive local and hepatic disease (recurrent disease; prior pT3N0M0 adenocarcinoma of the rectum treated surgically in 2023, with new metastatic presentation in 2024)",
+      "SECONDARY_DIAGNOSES": "History of cervical carcinoma (treated with surgery and radiotherapy in 2000); arterial hypertension",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "63 years old (female) — the document records 62 years in some places and 63 in others; the forensic medical report states 63 years",
+      "CLINICAL_HISTORY": "History of cervical carcinoma in 2000 treated with surgery and radiotherapy (prior pelvic irradiation). In August 2023, diagnosed with rectal adenocarcinoma; no neoadjuvant treatment administered due to prior pelvic radiation history. On August 31, 2023, underwent low anterior resection of rectum; biopsy confirmed pT3N0M0 adenocarcinoma. Indicated adjuvant chemotherapy with oxaliplatin and capecitabine; only completed 3 cycles before discontinuation due to intolerance. Control rectoscopy in October 2024 revealed an ulcerated rectal lesion; biopsy confirmed adenocarcinoma. Computed tomography on November 6, 2024 showed multiple hepatic metastases with central lesions in both hepatic lobes. Carcinoembryonic antigen (CEA) not elevated. Evaluated and classified as metastatic hepatic disease not eligible for surgical treatment due to extent of disease. Molecular analysis revealed alteration of mismatch repair proteins: MSH2 positive, MSH6 positive, PMS2 positive, MLH1 loss. On December 23, 2024, treating physician informed patient of disease recurrence. Request for Pembrolizumab submitted; Central Committee of Pharmacotherapy denied approval on January 22, 2025.",
+      "SYMPTOMS": "Intermittent pain at the rectal lesion site; ECOG Performance Status 1",
+      "DISEASE_SEVERITY": "Metastatic rectal adenocarcinoma with extensive local and hepatic disease; not eligible for surgical resection due to extent of hepatic involvement; prior adjuvant chemotherapy discontinued due to intolerance; Mismatch Repair Deficient tumor",
+      "FUNCTIONAL_LIMITATIONS": "ECOG Performance Status 1 (mild functional limitation; ambulatory but with symptoms)",
+      "COMORBIDITIES": "Arterial hypertension; history of cervical carcinoma (treated 2000 with surgery and radiotherapy, resulting in prior pelvic radiation — precluding use of radiotherapy for rectal cancer)",
+      "PRIOR_TREATMENTS": "Surgery for cervical carcinoma plus radiotherapy (2000); low anterior resection of rectum (August 31, 2023, pT3N0M0); adjuvant chemotherapy with oxaliplatin and capecitabine (3 cycles only, discontinued due to intolerance)",
+      "THERAPEUTIC_FAILURE": "Adjuvant chemotherapy with oxaliplatin and capecitabine was discontinued after only 3 cycles due to intolerance (severe toxicity); disease recurred with hepatic metastases as of October-November 2024",
+      "BIOMARKERS": "Programmed Death-Ligand 1 %: NOT FOUND | Microsatellite Instability status: Mismatch Repair Deficient (MSH2 positive, MSH6 positive, PMS2 positive, MLH1 loss confirmed) | Tumor Mutational Burden: NOT FOUND | Human Epidermal Growth Factor Receptor 2: NOT FOUND | Epidermal Growth Factor Receptor: NOT FOUND | Anaplastic Lymphoma Kinase: NOT FOUND | ROS1: NOT FOUND | KRAS: NOT FOUND | B-Raf Proto-Oncogene: NOT FOUND | Others: NOT FOUND",
+      "METASTASIS_SITES": "Multiple hepatic metastases (central lesions in both hepatic lobes); local rectal disease (ulcerated rectal lesion)",
+      "MEDICAL_JUSTIFICATION": "Treating oncologist Dr. Ronald Badilla Gonzalez requested Pembrolizumab based on the KEYNOTE-177 study (phase 3 randomized trial for first-line treatment of Microsatellite Instability-High / Mismatch Repair Deficient metastatic colorectal cancer), which demonstrated response rate of 83% versus 35% with chemotherapy, progression-free survival of 16.5 months versus 8.2 months, and 5-year progression-free survival of 34% versus 7.6%. Patient's tumor was Mismatch Repair Deficient and patient had failed prior chemotherapy due to intolerance. The forensic medical expert (OIJ dictamen medico legal 2024-0001757, March 12, 2025), following oncology specialist interconsultation with Dr. Maria Jose Ibarra Valldeperas, concluded that Pembrolizumab is the most beneficial treatment given the patient's Mismatch Repair Deficient tumor profile, offering superior progression-free survival compared to conventional chemotherapy.",
+      "URGENCY": "High — metastatic disease not eligible for surgery; patient intolerant to standard chemotherapy; Mismatch Repair Deficient tumor without alternative approved institutional treatment",
+      "RISK_DETERIORATION": "High — extensive hepatic and local disease; ineligible for surgery; prior chemotherapy intolerance limits treatment options",
+      "RISK_HOSPITALIZATION": "Moderate to High — patient with active metastatic disease and limited treatment tolerance",
+      "RISK_DEATH": "High — metastatic adenocarcinoma with extensive hepatic involvement and no viable surgical or conventional chemotherapy option",
+      "REQUESTED_TREATMENT": "Pembrolizumab (non-List Official of Medications drug) as first-line treatment for metastatic Mismatch Repair Deficient colorectal adenocarcinoma, based on KEYNOTE-177 evidence",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Constitutional Chamber granted the amparo resource by majority, ordering the Caja Costarricense de Seguro Social to provide Pembrolizumab immediately. The court found that the denial of Pembrolizumab by the Central Committee of Pharmacotherapy violated the patient's fundamental right to health. The court applied its established precedent of deferring to the treating physician's clinical judgment when a non-official medication is at issue, and further reinforced this by relying on the independent forensic medical evaluation. The forensic expert — citing a specialist in medical oncology — concluded that Pembrolizumab is the most beneficial treatment for the patient, given her Mismatch Repair Deficient rectal adenocarcinoma, superior progression-free survival compared to chemotherapy, and absence of contraindications. The court ordered Pembrolizumab to be administered under strict medical supervision at the prescribed dose and duration. One magistrate (Castillo Viquez) filed a dissent, arguing that the patient has received healthcare from the system and that there exists a divergence of technical criteria, and that granting the amparo would affect the equity and financial sustainability of the public health system.",
+      "COURT_CITATIONS": "Sala Constitucional sentencia 2014-001072 (January 28, 2014); Sala Constitucional sentencia 2009-08694 (May 26, 2009); Sala Constitucional sentencia 2004-003363 (March 31, 2004); Sala Constitucional sentencia 2007-003018 (March 6, 2007); Sala Constitucional sentencia 2017-018660 (November 21, 2017); Article 71 of Ley de la Jurisdiccion Constitucional; Article 52 of Ley de la Jurisdiccion Constitucional; Articles 10 and 48 of the Constitution of Costa Rica; Article 73 of the Constitution of Costa Rica; Articles 11 and 13 of Ley General de la Administracion Publica; Article 16 of Ley General de la Administracion Publica; Article 12 of PIDESC; Sala Segunda de la Corte Suprema de Justicia resolution 366 (July 16, 2003); KEYNOTE-177 study (Lancet Oncol. 2022)"
+    },
+    "missing_from_no": "The N/O for row 186 is partially accurate but omits: the Mismatch Repair Deficient biomarker status (MSH2 positive, MSH6 positive, PMS2 positive, MLH1 loss) which is clinically critical for the Pembrolizumab indication; the history of cervical carcinoma with prior pelvic radiotherapy (which precluded neoadjuvant radiotherapy for the rectal cancer); the specific staging as pT3N0M0 at surgery in 2023 and the subsequent metastatic staging in 2024; multiple hepatic metastases confirmed by computed tomography; ECOG Performance Status 1; the fact that the Comite Central de Farmacoterapia denied approval; and the judicial grant of the amparo with immediate order to provide Pembrolizumab. The O column correctly identifies the prior surgery and adjuvant chemotherapy intolerance after 3 cycles.",
+    "possibly_incorrect": "The O column states 'Oxaliplatin and Capecitabine' — the document confirms oxaliplatino and capecitabina (consistent). The O column states the chemotherapy was 'adjuvant' — the document confirms post-surgical adjuvant context (consistent). No material conflicts detected, but the description is incomplete regarding the Mismatch Repair Deficient status which is the key biomarker justifying Pembrolizumab use.",
+    "error": null
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2024-11-24_(35510-2024) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2024-11-24_(35510-2024) .pdf.txt",
+    "rows": [
+      {
+        "row": 191,
+        "case": "35510 - 2024",
+        "N": "Right triple-negative breast carcinoma, stage IIB cT2N1M0",
+        "O": "Neoadjuvant treatment was initiated with carboplatin and taxane-based chemotherapy followed by anthracyclines; Pembrolizumab was also requested to be administered concomitantly with neoadjuvant chemotherapy."
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Triple-negative breast carcinoma of the right breast, invasive ductal carcinoma Grade Three, clinical Stage Two B (cT2N1M0)",
+      "SECONDARY_DIAGNOSES": "Hypothyroidism; anxious depressive disorder",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "49 years old (female)",
+      "CLINICAL_HISTORY": "Patient self-palpated a breast mass and underwent private imaging (mammography and breast ultrasound) revealing a solid lesion and ipsilateral axillary lymphadenopathy. Private biopsy reported invasive ductal carcinoma Grade Three, immunohistochemistry: estrogen receptor negative, progesterone receptor negative, Ki67 90%, Human Epidermal Growth Factor Receptor 2 equivocal (2+); SISH performed — no Human Epidermal Growth Factor Receptor 2 gene amplification detected (confirmed triple-negative). Physical examination revealed a 6 cm mass in the upper quadrants of the breast and a deep axillary lymph node of 1 cm. Case reviewed in multidisciplinary session and decision made to administer neoadjuvant treatment. Initiated carboplatin and taxane-based chemotherapy; patient was also completing that phase and preparing to initiate cyclophosphamide and epirubicin; Pembrolizumab was requested to be administered concomitantly with neoadjuvant chemotherapy. The Central Committee of Pharmacotherapy denied approval on September 19, 2024, citing that the KEYNOTE-522 evidence requires pembrolizumab and chemotherapy to be initiated concomitantly, and that the patient had already started chemotherapy before the pembrolizumab request was submitted.",
+      "SYMPTOMS": "Palpable breast mass",
+      "DISEASE_SEVERITY": "Early-stage high-risk triple-negative breast carcinoma (Stage Two B, cT2N1M0); no distant metastases documented; scheduled for curative-intent surgery after neoadjuvant treatment",
+      "FUNCTIONAL_LIMITATIONS": "ECOG Performance Status 0 (noted in CCSS report)",
+      "COMORBIDITIES": "Hypothyroidism (treated with levothyroxine); anxious depressive disorder (treated with fluoxetine)",
+      "PRIOR_TREATMENTS": "Carboplatin plus paclitaxel (neoadjuvant chemotherapy, already initiated at time of Pembrolizumab request); planned subsequent anthracycline-based chemotherapy (cyclophosphamide and epirubicin)",
+      "THERAPEUTIC_FAILURE": "NOT FOUND (no therapeutic failure; treatment is in neoadjuvant phase aimed at Pathological Complete Response before surgery)",
+      "BIOMARKERS": "Programmed Death-Ligand 1 %: NOT FOUND (document states no Programmed Death-Ligand 1 measurement required for triple-negative breast cancer indication per clinical guidelines and KEYNOTE-522) | Microsatellite Instability status: NOT FOUND | Tumor Mutational Burden: NOT FOUND | Human Epidermal Growth Factor Receptor 2: equivocal (2+) by immunohistochemistry; SISH confirmed no gene amplification (effectively Human Epidermal Growth Factor Receptor 2 negative / triple-negative) | Epidermal Growth Factor Receptor: NOT FOUND | Anaplastic Lymphoma Kinase: NOT FOUND | ROS1: NOT FOUND | KRAS: NOT FOUND | B-Raf Proto-Oncogene: NOT FOUND | Others: Ki67 90%; estrogen receptor negative; progesterone receptor negative",
+      "METASTASIS_SITES": "NOT FOUND (non-metastatic disease, cT2N1M0; no distant metastases mentioned)",
+      "MEDICAL_JUSTIFICATION": "Treating oncologist Dr. Karen Melissa Rodriguez Masis requested Pembrolizumab for concomitant administration with neoadjuvant chemotherapy based on KEYNOTE-522 data showing that Pathological Complete Response rates are significantly higher in patients receiving Pembrolizumab with neoadjuvant chemotherapy (64.8% versus 51.2%), and that achieving Pathological Complete Response is associated with favorable long-term overall survival and progression-free survival outcomes — especially in triple-negative tumors. The patient meets high-risk criteria (Stage Two B, T2N1M0, triple-negative, large tumor, positive lymph node). The forensic medical expert (OIJ dictamen medico legal 2024-0008190, November 1, 2024) with oncology specialist interconsultation (Dr. Maria Jose Ibarra Valldeperas) concluded that the patient benefits from adding Pembrolizumab as soon as possible to her ongoing neoadjuvant chemotherapy to maximize Pathological Complete Response and improve long-term outcomes.",
+      "URGENCY": "High — patient currently receiving neoadjuvant chemotherapy; adding Pembrolizumab should occur as soon as possible to maximize Pathological Complete Response before planned surgery",
+      "RISK_DETERIORATION": "Moderate to High — triple-negative breast cancer is biologically aggressive; failure to achieve Pathological Complete Response is associated with worse long-term prognosis",
+      "RISK_HOSPITALIZATION": "Moderate — patient is in active treatment but no acute hospitalization risk noted",
+      "RISK_DEATH": "Moderate to High — triple-negative breast cancer Stage Two B with Ki67 90% carries significant long-term mortality risk if Pathological Complete Response is not achieved",
+      "REQUESTED_TREATMENT": "Pembrolizumab (non-List Official of Medications drug) for concomitant administration with neoadjuvant chemotherapy for high-risk early-stage triple-negative breast carcinoma, based on KEYNOTE-522 data; approved by United States Food and Drug Administration in July 2021 for this indication",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Constitutional Chamber granted the amparo resource by majority, ordering the Caja Costarricense de Seguro Social to provide Pembrolizumab immediately. The court relied on its established jurisprudence of deferring to the treating physician's clinical judgment when conflicts arise with the Central Committee of Pharmacotherapy, and further confirmed this by the independent forensic medical evaluation. The forensic expert concluded that the patient benefits from adding Pembrolizumab to her ongoing neoadjuvant chemotherapy as soon as possible to maximize the probability of achieving Pathological Complete Response before surgery, which is strongly correlated with superior long-term outcomes in triple-negative breast cancer. The court ordered that Pembrolizumab be administered under strict medical supervision in the prescribed doses, following the forensic medical expert's recommendations, subject to variation if clinical contraindications emerge. One magistrate (Castillo Viquez) filed a dissent arguing that the patient had already received healthcare from the system, that there is a divergence of technical criteria, and that granting the amparo would affect the equity and financial sustainability of the public health system.",
+      "COURT_CITATIONS": "Sala Constitucional Voto 2014-001072 (January 28, 2014); Sala Constitucional sentencia 2009-08694 (May 26, 2009); Sala Constitucional sentencia 2004-003363 (March 31, 2004); Sala Constitucional sentencia 2007-003018 (March 6, 2007); Article 71 of Ley de la Jurisdiccion Constitucional; Sala Constitucional sentencia 5130-94; KEYNOTE-522 clinical trial (United States Food and Drug Administration approval July 2021)"
+    },
+    "missing_from_no": "The N column correctly identifies the diagnosis as right triple-negative breast carcinoma Stage Two B (cT2N1M0). The O column correctly notes the neoadjuvant chemotherapy and Pembrolizumab request. Missing from N/O: patient age (49 years), comorbidities (hypothyroidism and anxious depressive disorder on levothyroxine and fluoxetine), Ki67 of 90%, Human Epidermal Growth Factor Receptor 2 equivocal with SISH confirmation of no amplification, the specific reason for Central Committee denial (that pembrolizumab and chemotherapy must be initiated concomitantly per KEYNOTE-522, and patient had already started chemotherapy), the forensic medical finding supporting Pembrolizumab, and the judicial grant of the amparo.",
+    "possibly_incorrect": "The N column states 'cT2N1M0' — the document confirms this staging (consistent). The O column states carboplatin and taxane-based chemotherapy followed by anthracyclines — the document confirms carboplatin and paclitaxel followed by cyclophosphamide and epirubicin (consistent with the description). No material conflicts detected.",
+    "error": null
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2024-11-20_(34625-2024) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2024-11-20_(34625-2024) .pdf.txt",
+    "rows": [
+      {
+        "row": 192,
+        "case": "34625 - 2024",
+        "N": "Cervical cancer stage IV with PD-L1 CPS 5 expression",
+        "O": "NI"
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Squamous cell carcinoma of the cervix, Stage Four (metastatic disease), with recurrence in the retroperitoneum and cervix; Programmed Death-Ligand 1 Combined Positive Score 5",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "46 years old (female)",
+      "CLINICAL_HISTORY": "Patient was diagnosed with cervical cancer in June 2021, at which time she received chemotherapy, radiotherapy, and brachytherapy. In June 2024, the cancer recurred despite prior List Official of Medications treatments. At the time of the amparo filing (October 2024), the patient was receiving chemotherapy and was not a surgical candidate. Her treating physician (Dr. Silvia Alfaro Cartin, Oncology Service, Hospital Dr. Rafael Angel Calderon Guardia) evaluated her and found persistent and recurrent cervical carcinoma with metastatic disease in the retroperitoneum and cervix, with Programmed Death-Ligand 1 Combined Positive Score of 5. Pembrolizumab was requested for combined use with chemotherapy. The Central Committee of Pharmacotherapy denied the request on September 26, 2024 (oficio GM-CCF-5183-2024), stating no complete health technology evaluation had been performed, and that evidence (KEYNOTE-826 study) required pembrolizumab and chemotherapy to be initiated concomitantly, which was not the case here (patient already on chemotherapy — extratemporal request). ECOG Performance Status 0 noted as of October 9, 2024.",
+      "SYMPTOMS": "NOT FOUND (specific symptoms not detailed; ECOG Performance Status 0 documented)",
+      "DISEASE_SEVERITY": "Stage Four persistent and recurrent cervical carcinoma with metastatic disease in retroperitoneum and cervix; not eligible for surgery; disease recurred after complete treatment including chemotherapy, radiotherapy, and brachytherapy",
+      "FUNCTIONAL_LIMITATIONS": "ECOG Performance Status 0 (no functional limitations)",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Chemotherapy, radiotherapy, and brachytherapy (2021, at initial diagnosis); ongoing chemotherapy (at time of amparo, 2024)",
+      "THERAPEUTIC_FAILURE": "Disease recurred in June 2024 despite initial multimodal treatment (chemotherapy, radiotherapy, brachytherapy) administered in 2021; current chemotherapy ongoing but Pembrolizumab requested as addition",
+      "BIOMARKERS": "Programmed Death-Ligand 1 %: Combined Positive Score 5 (Programmed Death-Ligand 1 CPS 5) | Microsatellite Instability status: NOT FOUND | Tumor Mutational Burden: NOT FOUND | Human Epidermal Growth Factor Receptor 2: NOT FOUND | Epidermal Growth Factor Receptor: NOT FOUND | Anaplastic Lymphoma Kinase: NOT FOUND | ROS1: NOT FOUND | KRAS: NOT FOUND | B-Raf Proto-Oncogene: NOT FOUND | Others: NOT FOUND",
+      "METASTASIS_SITES": "Retroperitoneum; recurrent disease in cervix",
+      "MEDICAL_JUSTIFICATION": "Treating oncologist requested Pembrolizumab combined with chemotherapy based on KEYNOTE-826 study, which evaluated patients with persistent, recurrent, or metastatic cervical cancer with Programmed Death-Ligand 1 Combined Positive Score greater than or equal to 1. The high Programmed Death-Ligand 1 expression (Combined Positive Score 5) predicts adequate therapeutic response. The forensic medical expert (OIJ dictamen medico legal 2024-0008523, November 18, 2024) concluded that pembrolizumab combined with chemotherapy is the best therapeutic alternative for this patient, as it has demonstrated improvement in overall survival compared to chemotherapy alone, and that the high Programmed Death-Ligand 1 expression predicts an adequate therapeutic response.",
+      "URGENCY": "High — Stage Four recurrent cervical cancer; not eligible for surgery; disease progressed despite prior multimodal treatment",
+      "RISK_DETERIORATION": "High — metastatic recurrent disease with Programmed Death-Ligand 1 expression indicating responsiveness to immunotherapy",
+      "RISK_HOSPITALIZATION": "High — advanced metastatic disease currently requiring chemotherapy",
+      "RISK_DEATH": "High — Stage Four recurrent cervical carcinoma with metastatic involvement of retroperitoneum",
+      "REQUESTED_TREATMENT": "Pembrolizumab (non-List Official of Medications drug) combined with chemotherapy for persistent, recurrent, or metastatic cervical cancer with Programmed Death-Ligand 1 Combined Positive Score 5, based on KEYNOTE-826 evidence",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Constitutional Chamber granted the amparo resource, ordering the Caja Costarricense de Seguro Social to provide Pembrolizumab immediately. The court applied its established jurisprudence that when a dispute exists between the treating physician and the Central Committee of Pharmacotherapy, an independent opinion from the Legal Medicine Department of the OIJ is sought to resolve the conflict. The forensic medical expert confirmed that Pembrolizumab combined with chemotherapy is the most beneficial treatment for the patient, as it has demonstrated improved overall survival in patients with recurrent or metastatic cervical cancer, and that the high Programmed Death-Ligand 1 expression (Combined Positive Score 5) predicts an adequate therapeutic response. The court concluded that the denial of Pembrolizumab by the Central Committee violated the patient's fundamental right to health. The court ordered Pembrolizumab to be administered at the prescribed dose and duration under strict supervision of the treating physician, taking into account the forensic medical expert's recommendations.",
+      "COURT_CITATIONS": "Sala Constitucional sentencia 2017-018660 (November 21, 2017); Article 71 of Ley de la Jurisdiccion Constitucional; Articles 10 and 48 of the Constitution of Costa Rica; Article 73 of the Constitution of Costa Rica; Article 45 of Ley de la Jurisdiccion Constitucional; Article 52 of Ley de la Jurisdiccion Constitucional; KEYNOTE-826 clinical trial"
+    },
+    "missing_from_no": "The N column correctly identifies the diagnosis and Programmed Death-Ligand 1 Combined Positive Score 5. The O column is listed as 'NI' (no information). Missing from O: patient age (46 years), prior treatments (2021 multimodal treatment), recurrence in June 2024 despite prior treatment, ECOG Performance Status 0, specific metastasis sites (retroperitoneum), reason for Central Committee denial (extratemporal request — pembrolizumab must be initiated concomitantly with chemotherapy per KEYNOTE-826, but patient was already receiving chemotherapy), the forensic medical finding supporting Pembrolizumab, and the judicial grant of the amparo.",
+    "possibly_incorrect": "No conflicts detected between the N/O and the document. The N description is accurate. The O is simply absent ('NI'), not incorrect.",
+    "error": null
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2024-09-03_(25329-2024) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2024-09-03_(25329-2024) .pdf.txt",
+    "rows": [
+      {
+        "row": 193,
+        "case": "25329 - 2024",
+        "N": "Triple-negative breast cancer T4N0M0",
+        "O": "Preoperative [neoadjuvant] treatment"
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Triple-negative breast cancer of the right breast, invasive ductal carcinoma Grade Two, clinical Stage T4N0M0 (non-metastatic)",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "68 years old (female)",
+      "CLINICAL_HISTORY": "Patient self-palpated a mass in the right breast in April 2024. Private ultrasound confirmed a solid lesion. Biopsy reported invasive ductal carcinoma Grade Two, cT4N0M0, with negative hormone receptors and Ki67 of 40%; no evidence of metastatic disease by computed tomography. Referred to Hospital Mexico. Oncologist decided on neoadjuvant (preoperative) treatment approach, with the goal of subsequent non-conservative mastectomy. Initiated neoadjuvant chemotherapy with paclitaxel and carboplatin (weekly sessions; at time of amparo filing, patient was on session 10 of 12). Pembrolizumab was requested for perioperative use combined with chemotherapy based on KEYNOTE-522 data. The Central Committee of Pharmacotherapy denied approval on June 20, 2024 (oficio GM-CCF-3542-2024), citing that KEYNOTE-522 results were preliminary (study ongoing with 2025 estimated completion), that patients over 65 years did not benefit from pembrolizumab in the study analysis, that interruptions to chemotherapy made the patient's profile more similar to the every-3-weeks subgroup (which showed no significant benefit), and that available institutional chemotherapy options were adequate. The treating oncologist and head of oncology service supported the use of Pembrolizumab.",
+      "SYMPTOMS": "Palpable mass in right breast",
+      "DISEASE_SEVERITY": "Triple-negative breast cancer Stage T4N0M0 (locally advanced, non-metastatic); biologically aggressive tumor; scheduled for mastectomy after neoadjuvant chemotherapy",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND (no ECOG Performance Status mentioned in this document)",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Paclitaxel and carboplatin neoadjuvant chemotherapy (10 of 12 weekly sessions completed at time of amparo; planned subsequent epirubicin and cyclophosphamide)",
+      "THERAPEUTIC_FAILURE": "NOT FOUND (no therapeutic failure; treatment is in neoadjuvant phase)",
+      "BIOMARKERS": "Programmed Death-Ligand 1 %: NOT FOUND (document does not mention specific Programmed Death-Ligand 1 measurement) | Microsatellite Instability status: NOT FOUND | Tumor Mutational Burden: NOT FOUND | Human Epidermal Growth Factor Receptor 2: negative (triple-negative — estrogen receptor negative, progesterone receptor negative, Human Epidermal Growth Factor Receptor 2 negative) | Epidermal Growth Factor Receptor: NOT FOUND | Anaplastic Lymphoma Kinase: NOT FOUND | ROS1: NOT FOUND | KRAS: NOT FOUND | B-Raf Proto-Oncogene: NOT FOUND | Others: Ki67 40%; estrogen receptor negative; progesterone receptor negative",
+      "METASTASIS_SITES": "NOT FOUND (no metastatic disease on computed tomography)",
+      "MEDICAL_JUSTIFICATION": "Treating oncologist Dr. Denis Landaverde Recinos (Head of Oncology, Hospital Mexico) presented the case in an oncology session on May 28, 2024 and obtained collegial support for perioperative Pembrolizumab combined with chemotherapy based on KEYNOTE-522, which demonstrated increased complete pathological response rates and possible improvement in overall survival; the drug is approved by United States Food and Drug Administration and European Medicines Agency for this indication and registered in Costa Rica. The forensic medical expert (OIJ dictamen medico legal 2024-0006309, August 28, 2024) concluded that Pembrolizumab used preoperatively is the most beneficial treatment for the patient, as scientific evidence demonstrates increased Pathological Complete Response when used as neoadjuvant therapy combined with chemotherapy.",
+      "URGENCY": "High — patient currently in active neoadjuvant chemotherapy phase; Pembrolizumab should be added as soon as possible to maximize Pathological Complete Response before planned mastectomy",
+      "RISK_DETERIORATION": "Moderate to High — T4N0M0 triple-negative breast cancer is locally advanced and biologically aggressive; failure to achieve Pathological Complete Response is associated with higher recurrence risk",
+      "RISK_HOSPITALIZATION": "Moderate — patient in active chemotherapy but no acute hospitalization risk described",
+      "RISK_DEATH": "Moderate to High — triple-negative breast cancer T4N0M0 with Ki67 40% carries significant mortality risk if adequate surgical and pathological response is not achieved",
+      "REQUESTED_TREATMENT": "Pembrolizumab (non-List Official of Medications drug) for perioperative use combined with neoadjuvant chemotherapy for triple-negative breast cancer, based on KEYNOTE-522 data; approved by United States Food and Drug Administration and European Medicines Agency",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Constitutional Chamber granted the amparo resource by majority, ordering the Caja Costarricense de Seguro Social to provide Pembrolizumab immediately. The court applied its established jurisprudence regarding the primacy of the treating physician's clinical judgment over the Central Committee of Pharmacotherapy in cases involving non-official medications, as confirmed by Sala Constitucional sentencia 2017-018660. The court relied on the independent forensic medical evaluation by the OIJ Legal Medicine Department, which concluded that Pembrolizumab used preoperatively is the most beneficial treatment because scientific evidence demonstrates increased Pathological Complete Response when combined with neoadjuvant chemotherapy. The court found that denial of Pembrolizumab violated the patient's fundamental right to health and ordered its administration at the prescribed dose and duration under strict medical supervision. One magistrate (Castillo Viquez) filed a dissent, arguing that the patient has received healthcare from the system, that a divergence of technical criteria exists, and that granting the amparo would affect the equity and financial sustainability of the public health system.",
+      "COURT_CITATIONS": "Sala Constitucional sentencia 2017-018660 (November 21, 2017); Article 71 of Ley de la Jurisdiccion Constitucional; Articles 10 and 48 of the Constitution of Costa Rica; KEYNOTE-522 clinical trial (United States Food and Drug Administration approval July 2021; European Medicines Agency approval)"
+    },
+    "missing_from_no": "The N column correctly identifies triple-negative breast cancer T4N0M0. The O column ('Preoperative [neoadjuvant] treatment') is minimally descriptive. Missing from N/O: patient age (68 years), Ki67 of 40%, Grade Two invasive ductal carcinoma, the specific neoadjuvant chemotherapy regimen (paclitaxel and carboplatin), the specific reason for Central Committee denial (patient is over 65 years old — KEYNOTE-522 subgroup analysis showed no benefit in this age group; study ongoing; interruptions to chemotherapy; evidence considered preliminary), the forensic medical finding supporting Pembrolizumab, and the judicial grant of the amparo.",
+    "possibly_incorrect": "No conflicts detected. The N and O are accurate but incomplete. Note: the N/O does not mention the patient's age (68) or the fact that the Central Committee specifically argued patients over 65 years did not benefit in the KEYNOTE-522 subgroup analysis — this is a clinically important nuance absent from N/O.",
+    "error": null
+  }
+]

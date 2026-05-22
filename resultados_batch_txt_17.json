@@ -1,0 +1,51 @@
+[
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2024-05-17_(13342-2024) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2024-05-17_(13342-2024) .pdf.txt",
+    "rows": [
+      {
+        "row": 196,
+        "case": "13254 - 2024",
+        "N": "Not about pembrolizumab",
+        "O": "",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2024-05-17_(13342-2024) .pdf.txt"
+      },
+      {
+        "row": 198,
+        "case": "13342 - 2024",
+        "N": "Metastatic gastric cancer with 6% PDL-1 positive expression",
+        "O": "Loss of expression of PMS2 and MSH6. HER2 negative. Due to the presence of metastatic and unresectable disease, palliative chemotherapy with FOLFOX regimen was initiated in January 2024.",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2024-05-17_(13342-2024) .pdf.txt"
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Metastatic gastric adenocarcinoma (moderately differentiated)",
+      "SECONDARY_DIAGNOSES": "Peritoneal implant; invasion of the hepatic capsule and duodenal ligament",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "74 years old, female",
+      "CLINICAL_HISTORY": "The patient began workup for anemic syndrome. A gastroscopy performed on October 30, 2023 documented a neoplastic lesion on the lesser curvature, with biopsy positive for moderately differentiated adenocarcinoma. Diagnostic laparoscopy in December 2023 reported peritoneal implant and invasion of the hepatic capsule and duodenal ligament. Due to metastatic and unresectable disease, palliative chemotherapy with FOLFOX regimen was initiated in January 2024. The treating physician submitted a request for Pembrolizumab on February 21, 2024. The Local Pharmacotherapy Committee forwarded the case to the Central Pharmacotherapy Committee on February 27, 2024. The Central Pharmacotherapy Committee (session 2024-12, March 6, 2024) denied the request. A constitutional appeal (recurso de amparo) was filed on April 13, 2024. The court ordered a forensic medical evaluation on April 26, 2024. Legal Medical Opinion No. 2024-0003416 dated May 13, 2024 concluded that Pembrolizumab is the most beneficial treatment for the patient's condition.",
+      "SYMPTOMS": "Anemic syndrome",
+      "DISEASE_SEVERITY": "Metastatic and unresectable gastric cancer with peritoneal implant and invasion of the hepatic capsule and duodenal ligament",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "Hypertension; hypothyroidism; type 2 diabetes mellitus",
+      "PRIOR_TREATMENTS": "Palliative chemotherapy with FOLFOX regimen initiated January 2024",
+      "THERAPEUTIC_FAILURE": "NOT FOUND — palliative chemotherapy with FOLFOX was ongoing; no documented failure is mentioned",
+      "BIOMARKERS": "Programmed Death-Ligand 1: 6% (Combined Positive Score) | Microsatellite Instability status: loss of expression of PMS2 and MSH6, indicating microsatellite instability | Tumor Mutational Burden: NOT FOUND | Human Epidermal Growth Factor Receptor 2: negative | Epidermal Growth Factor Receptor: NOT FOUND | Anaplastic Lymphoma Kinase: NOT FOUND | ROS1: NOT FOUND | KRAS: NOT FOUND | B-Raf Proto-Oncogene: NOT FOUND | others: NOT FOUND",
+      "METASTASIS_SITES": "Peritoneum (peritoneal implant); hepatic capsule; duodenal ligament",
+      "MEDICAL_JUSTIFICATION": "The treating oncologist requested Pembrolizumab to be combined with the patient's current chemotherapy, as clinical trials have demonstrated prolonged survival in patients with this oncological diagnosis. At the time of the request, there was no other immunotherapy agent in the institution's therapeutic arsenal proven to improve survival in patients at this clinical stage and biomarker status. Legal Medical Opinion No. 2024-0003416 (May 13, 2024) confirmed that Pembrolizumab is the most beneficial treatment for the patient's condition, given that several clinical trials have demonstrated that this drug improves survival probability in patients whose tumors express microsatellite instability and the PD-L1 protein, as in this patient's case.",
+      "URGENCY": "NOT FOUND — no explicit urgency classification stated, though the constitutional appeal and court-ordered forensic evaluation suggest clinical urgency",
+      "RISK_DETERIORATION": "NOT FOUND — implied by the metastatic and unresectable nature of the disease and the medical opinion supporting treatment",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "NOT FOUND — implied by the medical opinion stating that Pembrolizumab improves survival probability in patients with this condition",
+      "REQUESTED_TREATMENT": "Pembrolizumab (to be administered in combination with ongoing FOLFOX chemotherapy, at the dose and for the duration prescribed by the treating physician)",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Constitutional Chamber found that the denial of the Central Pharmacotherapy Committee's endorsement was illegitimate because the court-ordered forensic medical evaluation (Legal Medical Opinion No. 2024-0003416, May 13, 2024) clearly established that Pembrolizumab is the most beneficial treatment for the patient's health condition. The court noted that clinical trials have demonstrated that Pembrolizumab improves survival probability in patients whose tumors express microsatellite instability and the PD-L1 protein, precisely as in this patient's case. Faced with the discrepancy between the treating physician's criteria and the Central Pharmacotherapy Committee's denial, the court exercised its authority to order an independent forensic evaluation, and upon receipt of the expert opinion supporting the treatment, concluded that continued denial would violate the patient's fundamental rights. The court therefore ordered the defendants — the acting Medical Director and the Coordinator of the Central Pharmacotherapy Committee of the Caja Costarricense de Seguro Social — to take all necessary measures to provide the patient with Pembrolizumab for the duration and at the dose prescribed by the treating physician, subject to ongoing clinical supervision and provided that no contraindication arises. The institution was also ordered to pay costs, damages, and losses caused by its actions.",
+      "COURT_CITATIONS": "Article 71 of the Ley de la Jurisdicción Constitucional (Constitutional Jurisdiction Law) — cited regarding criminal penalties (imprisonment of three months to two years or fines of twenty to sixty days) applicable to anyone who receives and fails to comply with an order issued within a constitutional appeal (recurso de amparo); Reglamento sobre Expediente Electrónico ante el Poder Judicial, approved by Corte Plena in session 27-11 of August 22, 2011, Article XXVI, published in Boletín Judicial No. 19 of January 26, 2012; Agreement approved by Consejo Superior del Poder Judicial in session 43-12 of May 3, 2012, Article LXXXI — cited regarding disposal of paper documents and electronic devices not retrieved within 30 business days"
+    },
+    "missing_from_no": "The N/O columns for row 198 do not capture the following information present in the document: (1) the patient's comorbidities (hypertension, hypothyroidism, type 2 diabetes mellitus); (2) the specific metastasis sites (peritoneum, hepatic capsule, duodenal ligament); (3) the clinical symptom that prompted workup (anemic syndrome); (4) the date and findings of the diagnostic laparoscopy (December 2023); (5) the procedural history including the Local and Central Pharmacotherapy Committee sessions and dates; (6) the court-ordered forensic medical evaluation and Legal Medical Opinion No. 2024-0003416; (7) the judicial decision (granted) and its specific grounds; (8) the legal citations including Article 71 of the Ley de la Jurisdicción Constitucional. Row 196 is labeled 'Not about pembrolizumab' but the document file associated with it (the same txt_path) is in fact the case 13342-2024 which is entirely about pembrolizumab — this label appears to refer to a different case (13254-2024) that may not be present in this document.",
+    "possibly_incorrect": "Row 196 is labeled 'Not about pembrolizumab' with case number 13254-2024, yet the txt_path for row 196 points to the same document as row 198 (case 13342-2024), which is entirely about pembrolizumab. This suggests the txt_path assignment for row 196 may be incorrect, or row 196 refers to a separate case not contained in this document. No conflicts detected between the N/O entries for row 198 and the document content — the document confirms metastatic gastric cancer with 6% PDL-1 positivity (Combined Positive Score), loss of expression of PMS2 and MSH6 (microsatellite instability), HER2 negative, and initiation of palliative FOLFOX chemotherapy in January 2024, all consistent with the N/O values.",
+    "error": null
+  }
+]

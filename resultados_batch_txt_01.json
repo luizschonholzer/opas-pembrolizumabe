@@ -1,0 +1,518 @@
+[
+  {
+    "country": "Argentina",
+    "pdf_name": "14838_2025.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Argentina__14838_2025.pdf.txt",
+    "rows": [
+      {
+        "row": 2,
+        "case": "14838/2025",
+        "N": "Câncer de pulmão",
+        "O": "NI"
+      },
+      {
+        "row": 4,
+        "case": "CCF 011768/2025",
+        "N": "Not about pembrolizumab",
+        "O": "Not about pembrolizumab"
+      },
+      {
+        "row": 6,
+        "case": "CCF 016494/2025",
+        "N": "Advanced-stage cervical cancer",
+        "O": ""
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Lung cancer (specific histological subtype, anatomical location, laterality, and disease stage not stated in the document)",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "NOT FOUND",
+      "CLINICAL_HISTORY": "Patient is affiliated to OSECAC health insurance and was diagnosed with lung cancer. Treating physician prescribed Pembrolizumab. Patient filed an amparo (constitutional health rights) action on or before October 7, 2025. A precautionary measure was granted on October 15, 2025 ordering full 100% coverage of Pembrolizumab. The defendant (OSECAC) remained silent throughout the proceedings. On October 29, 2025 the case was declared concluded for final judgment, and on November 14, 2025 the Federal Prosecutor rendered opinion. Final judgment issued February 23, 2026.",
+      "SYMPTOMS": "NOT FOUND",
+      "DISEASE_SEVERITY": "NOT FOUND — the document states only that the patient suffers from lung cancer (\"CANCER DE PULMON\") without specifying stage, tumor-node-metastasis classification, or performance status",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "NOT FOUND",
+      "THERAPEUTIC_FAILURE": "NOT FOUND",
+      "BIOMARKERS": "NOT FOUND",
+      "METASTASIS_SITES": "NOT FOUND",
+      "MEDICAL_JUSTIFICATION": "The treating physician, who knows the patient best, prescribed Pembrolizumab as the treatment necessary for the patient's lung cancer. The document references that the treating physician, after performing the corresponding studies, prescribes the treatment that will provide the best results for the patient.",
+      "URGENCY": "NOT FOUND",
+      "RISK_DETERIORATION": "The court noted that denying coverage leads to a state of defenselessness that undoubtedly violates the fundamental right to health.",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "The court invoked the right to life as the first natural right of the human person, and emphasized that life and health protection are essential, citing constitutional case law (Fallos: 302:1284; 310:112; 323:1339; 325:292; 326:4931).",
+      "REQUESTED_TREATMENT": "Pembrolizumab — full 100% coverage requested, dosed and administered according to the treating physician's prescription; specific dose, route, and frequency not stated in the document",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Federal Civil and Commercial Court No. 7 of Buenos Aires granted the amparo action, ordering OSECAC to provide 100% integral coverage of Pembrolizumab for as long as the treating physicians indicate. The court held that the defendant's refusal to cover the prescribed oncological treatment constituted manifest arbitrariness and illegality under Article 43 of the National Constitution, violating the patient's fundamental right to health. The decision relied on the constitutional right to life and health (Articles 43 and 75 inc. 22 of the National Constitution), the International Covenant on Economic, Social and Cultural Rights (Article 12), the National Health Insurance System Law 23.661, and the Mandatory Medical Program (Resolution 201/2002, Annex I, Article 7.3), which mandates 100% coverage of oncological medications. The court further held that the Mandatory Medical Program constitutes a minimum floor of benefits, not a maximum, and that health institutions must go beyond its minimum requirements when a patient's health and life are at stake.",
+      "COURT_CITATIONS": "Article 43 of the National Constitution (amparo action); Article 75 inc. 22 of the National Constitution (international human rights treaties); Article 12 of the International Covenant on Economic, Social and Cultural Rights; Fallos: 321:2823; Fallos: 325:292; Fallos: 326:4931; Fallos: 302:1284; Fallos: 310:112; Fallos: 323:1339; Fallos: 316:479; Fallos: 321:1684; Causa A.186 XXXIV \"Asociación Benghalensis\" (June 1, 2000); Law 23.660 (Arts. 1 inc. a, 3, 15, 27, 28); Law 23.661 (Arts. 2, 9, 15, 19, 21, 28, 40); Decrees 492/95 and 1615/96; Resolution 247/96 MS and AS; Resolution 939/00 (Ministry of Health); Resolution 201/2002 (Ministry of Health), Annex I, Art. 7.3; CNCCFed. Sala III cause \"D.P.C.S. c/Obra Social de Poder Judicial\"; CNCCFed. Sala II cause L.A.P. c/ Swiss Medical SA, Expte. 4870/2011 (23.11.2017); CNCCFed. Sala I cause 4092/2017 (26/9/17); CFSM Sala I causes 40.649/14/CA1 and 35.600/14/CA1 (17/10/14); CNFed. Civ. y Com. Sala II causes 15.214/04, 1.721/07, 11.006/05; Law 16.986, Arts. 8, 14, 17; Law 27.423, Arts. 16 inc. a, 16 inc. b, 16 inc. e, 16 inc. g, 19, 21, 48, 51, 54; Resolution 36/2026 (CSJN, 11.02.2026); CSJN Fallos 316:1533; 322:523; 325:742 (IVA on attorney fees)"
+    },
+    "missing_from_no": "The N column records only 'Câncer de pulmão' (lung cancer in Portuguese) and the O column is 'NI' (not informed). Missing from N and O: the document is a final judgment (not merely a preliminary note); the defendant is OSECAC; the action is an amparo de salud; court: Federal Civil and Commercial Court No. 7, Buenos Aires; judge: Javier Pico Terrero; date of judgment: February 23, 2026; Pembrolizumab was prescribed and granted at 100% coverage for as long as indicated by treating physicians; no clinical details (stage, subtype, biomarkers, prior treatments) are available in the document; costs imposed on defendant.",
+    "possibly_incorrect": "Row 4 is labeled 'CCF 011768/2025' and Row 6 'CCF 016494/2025' — neither of these case numbers appears in this document. This document covers only case 14838/2025 (E., E.D. c/ OSECAC). The N and O values for rows 4 and 6 ('Not about pembrolizumab' and 'Advanced-stage cervical cancer') cannot be verified from this document and appear to belong to different PDF files. No conflict detected for row 2 except that the N value is in Portuguese ('Câncer de pulmão') while the document is in Spanish ('CANCER DE PULMON').",
+    "error": null
+  },
+  {
+    "country": "Argentina",
+    "pdf_name": "CCF 000104_2024.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Argentina__CCF 000104_2024.pdf.txt",
+    "rows": [
+      {
+        "row": 3,
+        "case": "013326/2024",
+        "N": "procedural issue",
+        "O": "procedural issue"
+      },
+      {
+        "row": 8,
+        "case": "CCF 000104/2024",
+        "N": "Triple-negative apocrine breast carcinoma",
+        "O": "Underwent chemotherapy"
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Triple-negative apocrine breast carcinoma (early-stage disease, diagnosed November 2023; specific stage, anatomical location, and laterality not stated in the document)",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "NOT FOUND",
+      "CLINICAL_HISTORY": "In November 2023, the patient M.S.P. was diagnosed with triple-negative apocrine breast carcinoma. On December 28, 2023, her treating oncologist Dr. José Cardoso prescribed a neoadjuvant chemo-immunotherapy regimen consisting of Paclitaxel 80 mg/m2 (DT123) for 12 weekly cycles, Carboplatin AUC 1.5 (DT148) for 12 weekly cycles, and Pembrolizumab 2 mg/kg (DT120) for 4 cycles every 21 days, as pre-surgical neoadjuvant treatment. On January 12, 2024, the patient filed an amparo action against PAMI (INSSJP). On January 15, 2024, the case was referred to the Forensic Medical Corps for urgent opinion. On January 25, 2024, a preliminary injunction was granted ordering 100% coverage of the triple-drug regimen. On February 22, 2024, the preliminary injunction was confirmed by Chamber I of the Federal Civil and Commercial Court. On May 31, 2024, a coverage extension was granted to add Doxorubicin 60 mg/m2 for 4 cycles every 21 days and Cyclophosphamide 600 mg/m2 for 4 cycles every 21 days. On March 6, 2025, the case was declared a pure question of law. On July 10, 2025, the Federal Prosecutor issued his opinion. Final judgment was issued October 9, 2025.",
+      "SYMPTOMS": "NOT FOUND",
+      "DISEASE_SEVERITY": "Early-stage triple-negative apocrine breast carcinoma. The Forensic Medical Corps noted the case concerned early-stage disease (estadio temprano). Specific tumor-node-metastasis staging, ECOG Performance Status, and other severity indicators not stated.",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Neoadjuvant chemo-immunotherapy regimen prescribed and partially administered under court-ordered coverage: Paclitaxel 80 mg/m2 weekly for 12 cycles; Carboplatin AUC 1.5 weekly for 12 cycles; Pembrolizumab 2 mg/kg every 21 days for 4 cycles; Doxorubicin 60 mg/m2 every 21 days for 4 cycles (added May 2024); Cyclophosphamide 600 mg/m2 every 21 days for 4 cycles (added May 2024). These treatments were court-ordered, not failed prior treatments — they constitute the requested treatment regimen.",
+      "THERAPEUTIC_FAILURE": "NOT FOUND — the document does not describe failure of prior treatments; the neoadjuvant regimen was requested as first-line pre-surgical treatment",
+      "BIOMARKERS": "Triple-negative breast cancer status confirmed (receptor profile: negative for estrogen receptor, progesterone receptor, and Human Epidermal Growth Factor Receptor 2, implied by the diagnosis of triple-negative carcinoma). No further biomarker details stated.",
+      "METASTASIS_SITES": "NOT FOUND — the document describes early-stage (non-metastatic) disease",
+      "MEDICAL_JUSTIFICATION": "Treating oncologist Dr. José Cardoso indicated that the chemo-immunotherapy combination (Pembrolizumab plus chemotherapy) was the most efficient treatment scheme for the patient's triple-negative apocrine breast carcinoma, significantly improving overall survival chances. The Forensic Medical Corps concluded that the combination of Pembrolizumab and chemotherapy is approved for triple-negative breast cancer in early-stage disease, citing the KEYNOTE study showing a pathological complete response rate of 63% for patients receiving Pembrolizumab plus chemotherapy versus 56% for chemotherapy alone. The scientific consensus regarding the advantages of neoadjuvant chemo-immunotherapy prior to surgery in patients with this diagnosis was considered indisputable.",
+      "URGENCY": "NOT FOUND explicitly, though the case was referred to the Forensic Medical Corps on an urgent basis (\"con carácter urgente\") and a preliminary injunction was granted promptly.",
+      "RISK_DETERIORATION": "NOT FOUND explicitly stated",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "The court referenced that neoadjuvant chemo-immunotherapy significantly improves overall survival chances (\"chances de sobrevida global\"). The court also cited jurisprudence emphasizing the imprescindible need to exercise amparo as an exceptional remedy for safeguarding the fundamental right to life and health.",
+      "REQUESTED_TREATMENT": "Pembrolizumab 100 mg vial, dose 2 mg/kg (DT120), intravenous, every 21 days for 4 cycles, as part of a neoadjuvant chemo-immunotherapy regimen in combination with Paclitaxel 80 mg/m2 weekly for 12 cycles and Carboplatin AUC 1.5 weekly for 12 cycles; later extended to also include Doxorubicin 60 mg/m2 every 21 days for 4 cycles and Cyclophosphamide 600 mg/m2 every 21 days for 4 cycles; all at 100% coverage",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Federal Civil and Commercial Court No. 10 of Buenos Aires granted the amparo action in full, ordering PAMI (Instituto Nacional de Servicios Sociales para Jubilados y Pensionados) to provide 100% integral coverage of the entire chemo-immunotherapy regimen (Paclitaxel, Carboplatin, Pembrolizumab, Doxorubicin, and Cyclophosphamide) as prescribed and for as long as the treating physician indicates. The court held that PAMI's position — that the scheme was outside its oncological protocols — lacked solid legal foundation given the clear applicable legal provisions, notably Resolution 201/2002 (Ministry of Health) mandating 100% coverage of oncological medications, and Resolution 1991/2005 making the Mandatory Medical Program a minimum floor, not a maximum. The court placed decisive weight on the Forensic Medical Corps opinion confirming the scientific evidence in favor of the Pembrolizumab-plus-chemotherapy combination for early-stage triple-negative breast cancer (KEYNOTE study data), and applied the established principle that courts must follow the treating physician's prescription. The court further relied on constitutional rights to health under Articles 42 and 75 inc. 22 of the National Constitution and international treaties including Article 25 of the Universal Declaration of Human Rights, Article XI of the American Declaration of the Rights and Duties of Man, and Article 12 of the International Covenant on Economic, Social and Cultural Rights.",
+      "COURT_CITATIONS": "Articles 42 and 75 inc. 22 of the National Constitution; Article 25 of the Universal Declaration of Human Rights (DUDH); Article XI of the American Declaration of the Rights and Duties of Man; Article 12 of the International Covenant on Economic, Social and Cultural Rights (PIDESC) (Law 23.313); Fallos: 323:1339; Fallos: 323:3229; Fallos: 324:3569; Fallos: 330:3725; Cause \"Lifschitz, Graciela B. y otros v. Estado Nacional\" L.1153.XXXVII (CSJN, 15/06/04); Cause \"Duich Dusan, Federico c/ Cemic s/ amparo\" (Procuradora Fiscal, 24/04/2014); Law 23.661, Arts. 2, 28; Law 24.754; Resolution 201/2002 (Ministry of Health), Arts. 7.3 and 7.4, Annex II; Resolution 310/2004, Art. 2; Resolution 1991/2005 (Ministry of Health and Environment); CNCCFed. Sala I cause 798/05 (27/12/05); CNCCFed. Sala I cause 630/03 (15/04/03); CNCCFed. Sala I causes 8545 (06/10/01) and 630/03 (15/04/03); CNCCFed. Sala I causes 7841 (07/02/01), 9696/09 (01/12/09), 10762/09 (16/08/11); CNCCFed. Sala III cause 5289/07 (20/09/07); CNCCFed. Sala I cause 7578/09 (10/12/09); CNCCFed. Sala I causes 3.181/10, 7112/09, 5265/10, 3687/10, 2150/10, 3073/07; CNCCFed. Sala III causes 6.057/10, 1634/10; CNCCFed. Sala I cause 1303/13 (01/04/14); CNCCFed. Sala I cause 4320/13 (05/09/13); Forensic Medical Corps opinion (KEYNOTE study data); Patricia Barbado, \"La accesibilidad a las prestaciones de salud de las personas con discapacidad según la jurisprudencia\", SJA 3/6/09; Law 16.986, Arts. 8, 14, 17; Law 27.423, Arts. 16, 48; Resolution SGA No. 2226/25; Resolution No. 1781/22 (Superintendency of Health Services), Arts. 4 and 5"
+    },
+    "missing_from_no": "Row 3 (case 013326/2024) is labeled 'procedural issue' in both N and O — this case number does not appear in the document, which covers only CCF 000104/2024. For row 8 (CCF 000104/2024): the N and O columns are partially informative but missing key clinical details: (1) diagnosis is apocrine (apocrino) breast carcinoma, specifically triple-negative — the word 'apocrine' is present but the neoadjuvant treatment context is omitted from O; (2) the specific treatment regimen requested (Pembrolizumab 2 mg/kg every 21 days for 4 cycles, in combination with Paclitaxel and Carboplatin, later extended to Doxorubicin and Cyclophosphamide) is not reflected; (3) early-stage (non-metastatic) disease was confirmed by the Forensic Medical Corps; (4) the KEYNOTE clinical trial evidence (63% vs 56% pathological complete response rate) is not mentioned; (5) the defendant is PAMI (INSSJP); (6) the judgment was granted in full on October 9, 2025; (7) treating physician: Dr. José Cardoso (oncologist).",
+    "possibly_incorrect": "Row 8, O column states 'Underwent chemotherapy' — this is potentially misleading. The document does not indicate that prior chemotherapy had been administered and failed. Rather, the chemotherapy (Paclitaxel and Carboplatin) was part of the requested neoadjuvant regimen, not a completed prior treatment. The framing 'underwent chemotherapy' could suggest a prior failed course, which is not accurate per the document.",
+    "error": null
+  },
+  {
+    "country": "Argentina",
+    "pdf_name": "CCF 002700_2025_CA002.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Argentina__CCF 002700_2025_CA002.pdf.txt",
+    "rows": [
+      {
+        "row": 5,
+        "case": "CCF 002700/2025",
+        "N": "Advanced-grade urothelial carcinoma with liver and lung metastasis",
+        "O": "Oncological treatment since 2017"
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Advanced urothelial carcinoma, Stage Four, with liver metastasis and lung metastasis",
+      "SECONDARY_DIAGNOSES": "Disability certificate issued (certificate of discapacidad) — the underlying cause is the advanced urothelial carcinoma",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "NOT FOUND",
+      "CLINICAL_HISTORY": "Patient L.C.M. was diagnosed with advanced urothelial carcinoma Stage Four with hepatic and pulmonary metastasis. Her treating physician prescribed Pembrolizumab 100 mg and Enfortumab Vedotin 1.25 mg. A disability certificate was issued. On March 5, 2025, the patient filed an amparo action against OSDE requesting 100% coverage of both medications and reimbursement of expenses already incurred. OSDE rejected coverage on the grounds that the medications were not in the Mandatory Medical Program (PMO) and were not approved by ANMAT for this indication. On February 2, 2026, the first-instance court partially granted the action — ordering full coverage of the medication regimen but rejecting reimbursement as beyond the scope of the chosen legal avenue. Both parties appealed. On March 2, 2026, the Federal Prosecutor of the Court of Appeals issued his opinion. On April 30, 2026, the Third Chamber of the Federal Civil and Commercial Court of Appeals confirmed the first-instance judgment, dismissing both appeals.",
+      "SYMPTOMS": "NOT FOUND",
+      "DISEASE_SEVERITY": "Advanced urothelial carcinoma Stage Four (Etapa IV) with hepatic and pulmonary metastasis. Disability certificate issued. Specific tumor-node-metastasis classification, ECOG Performance Status, and other severity indicators not stated.",
+      "FUNCTIONAL_LIMITATIONS": "Disability certificate (certificado de discapacidad) was issued, indicating significant functional impairment, though specific functional limitations are not described.",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "NOT FOUND — the document does not specify prior treatment history beyond the fact that the combination of Pembrolizumab and Enfortumab Vedotin was indicated by the treating physician",
+      "THERAPEUTIC_FAILURE": "NOT FOUND — no prior treatment failure is described in this appellate decision",
+      "BIOMARKERS": "NOT FOUND",
+      "METASTASIS_SITES": "Liver (hepatic metastasis); Lung (pulmonary metastasis)",
+      "MEDICAL_JUSTIFICATION": "Treating physician prescribed Pembrolizumab 100 mg and Enfortumab Vedotin 1.25 mg for Stage Four advanced urothelial carcinoma with hepatic and pulmonary metastasis. The court adopted the reasoning of the Federal Prosecutor of the Court of Appeals in its entirety, finding OSDE's refusal to cover the medications unjustified in the face of the clear legal framework applicable to the case.",
+      "URGENCY": "NOT FOUND explicitly",
+      "RISK_DETERIORATION": "NOT FOUND explicitly stated",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "NOT FOUND explicitly, though the gravity of Stage Four metastatic urothelial carcinoma is implicitly recognized by the court's reliance on the right to health and life.",
+      "REQUESTED_TREATMENT": "Pembrolizumab 100 mg, doses and frequency as prescribed by the treating physician, at 100% coverage; Enfortumab Vedotin 1.25 mg, as prescribed by the treating physician, at 100% coverage; also reimbursement of prior expenses (rejected by courts)",
+      "JUDICIAL_DECISION": "Granted — confirmed on appeal (the first-instance judgment granting coverage was confirmed; reimbursement was denied)",
+      "DECISION_GROUNDS": "The Third Chamber of the Federal Civil and Commercial Court of Appeals confirmed the first-instance judgment ordering OSDE to provide 100% integral coverage of Pembrolizumab and Enfortumab Vedotin as prescribed. The Chamber fully adopted the reasoning of the Federal Prosecutor of the Court of Appeals. The appellate court rejected OSDE's argument that it was not obligated to cover medications outside the PMO, applying the established principle that the PMO constitutes a minimum floor of coverage, not a maximum limitation, and that health insurers may — and must — expand coverage to meet patients' individual needs. The court found OSDE's conduct, in refusing to cover treatment for a patient with a confirmed Stage Four metastatic condition and a disability certificate, constituted manifest illegality and arbitrariness. Costs were imposed on OSDE as the substantially defeated party. The reimbursement claim was rejected as exceeding the procedural scope of the amparo action.",
+      "COURT_CITATIONS": "Articles 14 and 17 of Law 16.986 (amparo); Article 68 of the Code of Civil and Commercial Procedure; Laws 27.423, Arts. 16, 19, 48, 51 (attorney fees); Resolution SGA No. 538/2026 (attorney fee values); Article 30 of Law 27.423 (appellate attorney fees); Article 109 of the Judicial Rules (judicial leave); Mandatory Medical Program (PMO); prior analogous decisions of the same Chamber",
+      "missing_from_no": "N column correctly identifies the diagnosis as advanced urothelial carcinoma with liver and lung metastasis. O column states 'Oncological treatment since 2017' — this specific date (2017) does not appear in the document at all. The document does not mention any prior oncological treatment history. Additional information missing from N and O: (1) Stage Four explicitly stated; (2) disability certificate issued; (3) Enfortumab Vedotin was co-requested and co-granted alongside Pembrolizumab; (4) defendant is OSDE; (5) appellate decision dated April 30, 2026 confirmed first-instance judgment; (6) reimbursement request was denied; (7) judge at first instance (unnamed in this appellate ruling); (8) appellate judges: Fernando Alcides Uriarte and Juan Perozziello Vizier.",
+      "possibly_incorrect": "O column states 'Oncological treatment since 2017' — this specific date does not appear anywhere in the document. The document is an appellate decision and does not mention the patient's prior treatment history or any treatment dating to 2017. This value appears to be unverifiable from this document and may be incorrect or derived from a different source.",
+      "error": null
+    }
+  },
+  {
+    "country": "Argentina",
+    "pdf_name": "CCF 013076_2025.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Argentina__CCF 013076_2025.pdf.txt",
+    "rows": [
+      {
+        "row": 7,
+        "case": "CCF 013076/2025",
+        "N": "Endometrioid endometrial carcinoma Stage IV: pT3a pN1a M1 (ovary, fallopian tube, sigmoid margin)",
+        "O": "Underwent chemotherapy"
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Endometrioid endometrial carcinoma, Stage Four: pT3a pN1a M1, with metastasis to the ovary, fallopian tube, and sigmoid margin",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "64 years old",
+      "CLINICAL_HISTORY": "The patient A.S.R.D., 64 years old, is a retired woman affiliated to PAMI (INSSJP). She was diagnosed with endometrioid endometrial carcinoma Stage Four (pT3a pN1a M1 — ovary, fallopian tube, sigmoid margin). She underwent chemotherapy treatments, but the disease progressed. Her treating physician subsequently prescribed continuation of chemotherapy with Pembrolizumab and Lenvatinib. PAMI rejected coverage, stating the scheme was outside current PAMI oncological protocols and offering standard chemotherapy instead. On August 22, 2025, the patient filed an amparo action. On September 10, 2025, the Forensic Medical Corps issued its opinion. On September 11, 2025, a preliminary injunction was granted. On October 28, 2025, Chamber I of the Court of Appeals declared the defendant's appeal against the injunction abandoned. On October 9, 2025, PAMI filed its report under Article 8 of Law 16.986. On October 22, 2025, the case was declared a pure question of law. On November 6, 2025, the Federal Prosecutor issued his opinion. On December 2, 2025, the case was called for final judgment. Final judgment issued December 19, 2025.",
+      "SYMPTOMS": "NOT FOUND",
+      "DISEASE_SEVERITY": "Stage Four endometrioid endometrial carcinoma: pT3a pN1a M1 (metastasis to ovary, fallopian tube, and sigmoid margin). Disease progression despite prior chemotherapy. Specific ECOG Performance Status not stated.",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Chemotherapy (unspecified regimen, cycles, and duration) — prescribed and administered but resulted in disease progression; specific drugs, doses, and cycles not stated in the document",
+      "THERAPEUTIC_FAILURE": "Disease progression despite prior chemotherapy treatments — the document states: \"realizó tratamientos de quimioterapia y que, no obstante, la enfermedad progresó\" (she underwent chemotherapy treatments but the disease progressed)",
+      "BIOMARKERS": "NOT FOUND",
+      "METASTASIS_SITES": "Ovary; Fallopian tube; Sigmoid margin",
+      "MEDICAL_JUSTIFICATION": "The treating physician prescribed Pembrolizumab and Lenvatinib following disease progression on chemotherapy. The Forensic Medical Corps (dated September 10, 2025) opined that \"the treatment with Lenvatinib and Pembrolizumab indicated by the specialist is a valid option for the present case. Its institution as soon as possible is prudent.\"",
+      "URGENCY": "The Forensic Medical Corps stated that it is prudent to institute treatment at the earliest possible opportunity (\"a la mayor brevedad posible\"). The preliminary injunction was granted the day after the Forensic Medical Corps opinion.",
+      "RISK_DETERIORATION": "The court stated that PAMI's conduct leads its affiliate to a state of defenselessness and abandonment that undoubtedly violates her fundamental rights to health and life. The Forensic Medical Corps recommended urgent institution of treatment.",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "The court found that the refusal of treatment violates the fundamental rights to health and life recognized in the National Constitution. The Forensic Medical Corps opinion underscored the need to treat at the earliest possible opportunity.",
+      "REQUESTED_TREATMENT": "Pembrolizumab 100 mg vial (2 vials per pack, 4 mL per vial) — dose and frequency as prescribed by treating physicians; Lenvatinib 10 mg capsules (30 capsules per pack, 2 packs) — dose and frequency as prescribed; 100% integral coverage requested for both medications for as long as treating physicians indicate",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Federal Civil and Commercial Court No. 8 of Buenos Aires granted the amparo action in full, ordering PAMI to provide 100% integral, continuous, and uninterrupted coverage of Pembrolizumab and Lenvatinib as prescribed. The court held that PAMI's refusal, based solely on the scheme not being in its current oncological protocols while offering only standard chemotherapy, constituted manifest illegality and arbitrariness under Article 1 of Law 16.986, violating the patient's constitutional rights to health and life. The court applied the principle that the Mandatory Medical Program is a minimum floor of services, not a maximum ceiling, and that health insurers cannot deny coverage of necessary treatments by invoking internal protocols that contradict clear applicable law (Resolutions 201/02 and 1991/05). The court gave decisive weight to the Forensic Medical Corps opinion of September 10, 2025, which validated Lenvatinib and Pembrolizumab as a valid treatment option and recommended urgent institution. The judgment was issued in conformity with the Federal Prosecutor's opinion.",
+      "COURT_CITATIONS": "Article 1 of Law 16.986 (amparo — illegality and manifest arbitrariness); Article 43 of the National Constitution; Article 75 inc. 22 of the National Constitution; Article 12 of the International Covenant on Economic, Social and Cultural Rights (adopted by the UN on December 16, 1966, ratified by Law 23.313); Article 25 inc. 1 of the Universal Declaration of Human Rights; CSJN Fallos 302:1284; CNFed. Civ. y Com. Sala I cause 22354/95; Sala II cause 39356/95 (13.02.96); Sala III cause 16725/95 (29.05.95); CNFed. Sala 2 causes 215/12 (18/04/12), 9054/08 (27.02.09), 9916/09 (26.05.10), 5570/10 (03.03.11); CNFed. Sala 1 cause 14/06 (27.04.06); CNFed. Sala 3 cause 5411/07 (09.10.08); Resolution 201/2002 (Ministry of Health); Resolution 1991/2005 (Ministry of Health); CNFed. Civ. y Com. Sala III cause 4343/02 (21.03.05); Forensic Medical Corps opinion (10/09/2025); CNFed. Civ. y Com. Sala I cause 22.354 (02.06.95); CNFed. Civ. y Com. Sala I cause 16.173 (13.06.95); Article 14 of Law 16.986 (costs); Law 27.423 Arts. 16, 19, 29, 51; CSJN Accord 30/23; Resolution 3160/25; Article 7 of CSJN Accord 10/25 (publication)"
+    },
+    "missing_from_no": "N column correctly records the diagnosis with staging. O column states 'Underwent chemotherapy' which is accurate but incomplete. Missing from N and O: (1) patient age is 64 years old; (2) the patient is a retired woman affiliated to PAMI; (3) chemotherapy resulted in disease progression (therapeutic failure); (4) Lenvatinib 10 mg was co-prescribed and co-granted alongside Pembrolizumab 100 mg; (5) the judgment was granted on December 19, 2025; (6) the Forensic Medical Corps validated the regimen and recommended urgent treatment; (7) specific metastatic sites: ovary, fallopian tube, sigmoid margin (already in N); (8) defendant is PAMI (INSSJP); (9) judge: Marcelo Gota.",
+    "possibly_incorrect": "No conflicts detected between the N and O column values and the document content. The N column accurately records the diagnosis and staging as stated in the document.",
+    "error": null
+  },
+  {
+    "country": "Argentina",
+    "pdf_name": "CCF 000023_2025.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Argentina__CCF 000023_2025.pdf.txt",
+    "rows": [
+      {
+        "row": 9,
+        "case": "CCF 000023/2025",
+        "N": "Cervical cancer Stage III C",
+        "O": "Recent diagnosis and use for primary treatment without recurrence"
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Squamous cell carcinoma of the endocervix (cervix uteri), locally advanced Stage Three C, confirmed by MRI dated October 18, 2024",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "NOT FOUND",
+      "CLINICAL_HISTORY": "Between June and August 2024, the patient M.M.O. received medical attention at the Sanatorio Las Lomas emergency department (Nordelta branch) due to recurrent episodes of metrorrhagia (abnormal uterine bleeding). After undergoing various studies, a PAP smear was performed, which diagnosed squamous cell carcinoma of the endocervix, confirmed by MRI dated October 18, 2024, more precisely as \"Cervix Cancer Stage III C.\" On December 9, 2024, the treating oncologist Dr. Juan Miguel Álvarez prescribed chemo-immunotherapy with Pembrolizumab 200 mg and Dexamethasone 8 mg, to be administered at Hospital Británico. The patient formally requested coverage from Medicus via electronic request registered under solicitud F4847803. Medicus appeared to accept the request in its online system but never issued the corresponding authorizations. After several complaints, Medicus informed that it was authorizing only radiotherapy plus chemotherapy (Carboplatin 450 mg) but NOT Pembrolizumab, citing absence of demonstrated benefit for incorporation into therapeutic guidelines. On January 7, 2025, the patient filed an amparo action. On January 7, 2025, the court ordered the defendant to report and advise whether it would provide coverage. On January 9, 2025, Medicus filed its response arguing Pembrolizumab was only indicated for Stage IVB or recurrent cervical cancer, not newly diagnosed Stage IIIC. On January 17, 2025, the case was referred to the Forensic Medical Corps. On January 23, 2025, the Forensic Medical Corps issued its report. On January 24, 2025, a preliminary injunction was granted ordering 100% coverage of Pembrolizumab 200 mg and Dexamethasone 8 mg. On April 10, 2025, Medicus filed its detailed report opposing the action. On April 11, 2025, the case was declared a pure question of law. On April 25, 2025, the Federal Prosecutor rendered his opinion. Final judgment issued September 5, 2025.",
+      "SYMPTOMS": "Recurrent episodes of metrorrhagia (abnormal uterine bleeding) between June and August 2024",
+      "DISEASE_SEVERITY": "Squamous cell carcinoma of the endocervix, locally advanced Stage Three C (\"Cáncer de Cérvix Estadio III C\"), treatment-naive at the time of diagnosis. Confirmed by MRI dated October 18, 2024. The Forensic Medical Corps described the patient as having \"locally advanced disease, without having received any treatment.\" Specific tumor-node-metastasis classification and ECOG Performance Status not stated.",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "No prior treatments — the patient had a recent diagnosis and had not received any treatment prior to the requested regimen",
+      "THERAPEUTIC_FAILURE": "NOT FOUND — there was no prior treatment to fail; the patient had not received any prior oncological treatment",
+      "BIOMARKERS": "NOT FOUND",
+      "METASTASIS_SITES": "NOT FOUND — Stage IIIC cervical cancer is locally advanced without distant metastasis",
+      "MEDICAL_JUSTIFICATION": "The treating oncologist Dr. Juan Miguel Álvarez prescribed Pembrolizumab 200 mg plus Carboplatin AUC 5 and concurrent radiotherapy (Intensity Modulated Radiation Therapy) in accordance with the ENGOT-cx11/GOG-3047/KEYNOTE-A18 study, which demonstrated increased progression-free survival in patients with locally advanced treatment-naive cervical cancer. The regimen was approved by ANMAT on December 2, 2024 (Disposition D1-2024-10761-APNANMAT#MS). The Forensic Medical Corps concluded that the scheme requested by the treating oncologist — Carboplatin plus Pembrolizumab concurrent with radiotherapy — \"would be a valid treatment option for the patient\" given her locally advanced disease stage without prior treatment.",
+      "URGENCY": "NOT FOUND explicitly, though the preliminary injunction was granted within days of the Forensic Medical Corps report, indicating the court recognized urgency.",
+      "RISK_DETERIORATION": "The court stated that ANMAT approval of the regimen and the Forensic Medical Corps validation of the treatment as appropriate for the patient's specific clinical presentation of locally advanced treatment-naive cervical cancer supports the need for treatment continuity. The court cited that abandonment of a treatment already begun is inadvisable.",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "The court applied constitutional and international human rights law protecting the right to health and life. The gravity of Stage IIIC cervical cancer without treatment is implicitly recognized throughout the judgment.",
+      "REQUESTED_TREATMENT": "Pembrolizumab 200 mg, intravenous, at Hospital Británico, dose and frequency as prescribed by the treating physician, concurrent with Carboplatin AUC 5 and Intensity Modulated Radiation Therapy (IMRT); Dexamethasone 8 mg tablets also included; all at 100% coverage",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Federal Civil and Commercial Court No. 10 of Buenos Aires granted the amparo action in full, ordering Medicus S.A. to provide 100% integral coverage of immunotherapy with Pembrolizumab 200 mg at Hospital Británico and Dexamethasone 8 mg tablets, as prescribed by the treating physician. The court rejected Medicus's argument that Pembrolizumab was only indicated for Stage IVB or recurrent cervical cancer, holding that the Forensic Medical Corps opinion — which confirmed the regimen's validity for locally advanced treatment-naive Stage IIIC disease based on the KEYNOTE-A18 study and ANMAT approval dated December 2, 2024 — was determinative. The court applied the principle that courts must follow the treating physician's prescription, and that health entities cannot prioritize economic considerations over patient health. The court relied on the constitutional right to health (Articles 42 and 75 inc. 22 of the National Constitution), international human rights treaties, the Mandatory Medical Program (Resolution 201/2002) mandating 100% coverage of oncological medications including gynecological cancer prevention and treatment programs (Annex 1, Section 1.1.3), and the principle that the PMO is a minimum floor, not a maximum ceiling.",
+      "COURT_CITATIONS": "Articles 42 and 75 inc. 22 of the National Constitution; Article 25 of the Universal Declaration of Human Rights (DUDH); Article XI of the American Declaration of the Rights and Duties of Man; Article 12 of the International Covenant on Economic, Social and Cultural Rights (PIDESC); Fallos 323:1339; Fallos 323:3229; Fallos 324:3569; Fallos 330:3725; Cause \"Lifschitz, Graciela B. y otros v. Estado Nacional\" L.1153.XXXVII (CSJN, 15/06/04); Cause \"Duich Dusan, Federico c/ Cemic s/ amparo\" (Procuradora Fiscal, 24/04/2014); Law 23.661, Arts. 2 and 28; Law 24.754; Resolution 201/2002 (Ministry of Health), Arts. 7.3 and 7.4 and Annex I Section 1.1.3; Resolution 310/2004, Art. 2; Resolution 1991/2005 (Ministry of Health and Environment); CNCCFed. Sala I cause 798/05 (27/12/05); CNCCFed. Sala I cause 630/03 (15/04/03); CNCCFed. Sala I causes 8545 (06/10/01) and 630/03 (15/04/03); CNCCFed. Sala I causes 7841 (07/02/01), 9696/09 (01/12/09), 10762/09 (16/08/11); CNCCFed. Sala III cause 5289/07 (20/09/07); CNCCFed. Sala I cause 3.181/10, 7112/09, 5265/10, 3687/10, 2150/10, 3073/07; CNCCFed. Sala III causes 6.057/10, 1634/10; CNCCFed. Sala I cause 1303/13 (01/04/14); CNCCFed. Sala I cause 4320/13 (05/09/13); ENGOT-cx11/GOG-3047/KEYNOTE-A18 clinical study (referenced in Forensic Medical Corps opinion); ANMAT Disposition D1-2024-10761-APNANMAT#MS (02/12/2024); Patricia Barbado, \"La accesibilidad a las prestaciones de salud de las personas con discapacidad según la jurisprudencia\", SJA 3/6/09; Law 16.986, Arts. 8, 14 (costs); Law 27.423, Arts. 16, 48 (attorney fees); Resolution SGA 1860/25; Resolution No. 1781/22 (Superintendency of Health Services), Arts. 4 and 5"
+    },
+    "missing_from_no": "N column correctly identifies cervical cancer Stage IIIC. O column states 'Recent diagnosis and use for primary treatment without recurrence' which is essentially correct but incomplete. Missing from N and O: (1) histological subtype is squamous cell carcinoma of the endocervix; (2) the treatment requested includes Pembrolizumab 200 mg concurrent with Carboplatin and IMRT radiotherapy (KEYNOTE-A18 regimen); (3) ANMAT approved this specific regimen on December 2, 2024; (4) the Forensic Medical Corps confirmed validity of the treatment for treatment-naive Stage IIIC locally advanced disease; (5) the initial symptom was recurrent metrorrhagia (June–August 2024); (6) Dexamethasone 8 mg was also included in the requested treatment; (7) defendant is Medicus S.A.; (8) judgment granted September 5, 2025; (9) treating physician: Dr. Juan Miguel Álvarez (oncologist); (10) treatment to be provided at Hospital Británico.",
+    "possibly_incorrect": "No conflicts detected. The O column description of 'recent diagnosis and use for primary treatment without recurrence' accurately reflects the clinical situation documented.",
+    "error": null
+  },
+  {
+    "country": "Argentina",
+    "pdf_name": "CCF 004030_2020_CA001.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Argentina__CCF 004030_2020_CA001.pdf.txt",
+    "rows": [
+      {
+        "row": 10,
+        "case": "CCF 004030/2020/CA001",
+        "N": "Advanced-stage renal cancer",
+        "O": "NI"
+      },
+      {
+        "row": 11,
+        "case": "CCF 000453/2016/CA001",
+        "N": "NI",
+        "O": ""
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Advanced renal cell carcinoma (renal cancer at advanced stage; histological subtype specified as renal cell carcinoma — \"carcinoma de células renales avanzado\" — per ANMAT's designation; specific laterality and anatomical subtype not stated in the document)",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "NOT FOUND",
+      "CLINICAL_HISTORY": "The patient S.P. is affiliated to Galeno Argentina S.A. under Plan 330 Plata. He was diagnosed with advanced renal cancer. On July 20, 2020, he made a prior administrative claim via email to Galeno for coverage of Pembrolizumab and Axitinib. On July 28, 2020, he filed an amparo action with a precautionary measure against Galeno Argentina S.A. On July 29, 2020, the first-instance judge requested Galeno to state whether it would provide coverage. On August 4, 2020, Galeno responded, arguing the prescription had been issued by a physician outside its medical network and that it had offered interconsultation with Dr. Juan Pablo Re at the Sanatorio La Trinidad de San Isidro (a provider within its network). The case was reviewed by the Forensic Medical Corps and by ANMAT (email response dated August 27, 2020). On August 27, 2020, the first-instance judge granted the preliminary injunction ordering Galeno to provide 100% coverage of the prescribed oncological medications. Galeno appealed the injunction. The appeal was decided on May 27, 2021 by the Third Chamber of the Federal Civil and Commercial Court of Appeals, which confirmed the injunction.",
+      "SYMPTOMS": "NOT FOUND",
+      "DISEASE_SEVERITY": "Advanced renal cell carcinoma. ANMAT confirmed the medications are indicated as first-line treatment for patients with advanced renal cell carcinoma. Specific tumor-node-metastasis staging, ECOG Performance Status, and other severity indicators not stated.",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "NOT FOUND — no prior treatment history described; the requested regimen appears to be first-line treatment per ANMAT's characterization",
+      "THERAPEUTIC_FAILURE": "NOT FOUND — no prior treatment failure described; ANMAT confirmed the medications are indicated as first-line treatment",
+      "BIOMARKERS": "NOT FOUND",
+      "METASTASIS_SITES": "NOT FOUND",
+      "MEDICAL_JUSTIFICATION": "The treating oncologist (unnamed in the document) prescribed Pembrolizumab (Keytruda) 200 mg (1 vial every 21 days) and Axitinib 5 mg (2 tablets per day) for advanced renal cancer. ANMAT confirmed in its email response of August 27, 2020 that the prescribed medication is indicated as first-line treatment in patients with advanced renal cell carcinoma. Neither the Forensic Medical Corps nor the defendant's medical audit provided scientific arguments contradicting ANMAT's statement.",
+      "URGENCY": "NOT FOUND explicitly, though the preliminary injunction was granted within days of the case being heard, indicating recognized urgency.",
+      "RISK_DETERIORATION": "The court noted that a decision denying coverage — based on purely contractual arguments — could cause worsening of the patient's living conditions (\"agravamiento de las condiciones de vida del afiliado\").",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "The court cited the right to health and physical integrity recognized by the National Constitution and international human rights treaties, noting the gravity of the oncological condition. The court cited Fallos: 302:1284 (Corte Suprema) regarding the right whose protection is sought compromising health and physical integrity.",
+      "REQUESTED_TREATMENT": "Pembrolizumab (Keytruda) 200 mg, intravenous, 1 vial every 21 days, at 100% coverage; Axitinib 5 mg oral tablets, 2 tablets per day, at 100% coverage; both as first-line treatment for advanced renal cell carcinoma",
+      "JUDICIAL_DECISION": "Granted — preliminary injunction confirmed on appeal",
+      "DECISION_GROUNDS": "The Third Chamber of the Federal Civil and Commercial Court of Appeals confirmed the preliminary injunction ordering Galeno Argentina S.A. to provide 100% coverage of Pembrolizumab (Keytruda) 200 mg and Axitinib 5 mg. The chamber rejected Galeno's appeal on two grounds: first, Galeno's contractual argument that the prescription was made by a physician outside its network was dismissed because the Plan 330 Plata contract provided for reimbursement for out-of-network consultations, and Galeno failed to produce a copy of the contract demonstrating otherwise; second, the argument that the medications were not in the Mandatory Medical Program was rejected under the established principle that the PMO is a minimum floor of obligatory services, not a maximum limitation, and health insurers must cover oncological medications at 100% under Resolution 201/2002, Article 7.3. The chamber also gave decisive weight to ANMAT's confirmation that the prescribed medications are first-line treatment for advanced renal cell carcinoma, noting Galeno's medical audit provided no scientific opposition to this. The court applied the principle that in cases of oncological patients facing life-threatening conditions, the right to health must prevail, and the treating physician who knows the patient best is best positioned to determine the most appropriate treatment.",
+      "COURT_CITATIONS": "Article 265 of the Code of Civil and Commercial Procedure (grounds of appeal requirements); Resolution 201/02 (Ministry of Health), Art. 7.3 (100% coverage of oncological medications); Resolution 1991/05 (Ministry of Health); Mandatory Medical Program (PMO); Sala III causes 630/03 (15.04.03), 14/06 (27.04.06), 220/11 (08.02.11), 8545 (06.11.01), 5233/98 (22.03.01); Sala III cause 4920/11 (23.10.18); ANMAT response (27/08/2020); Corte Suprema Fallos: 302:1284; Article 25 inc. 1 of the Universal Declaration of Human Rights; Article 12 inc. 2(d) of the International Covenant on Economic, Social and Cultural Rights; Article 75 inc. 22 of the National Constitution; Sala III causes 22.354/95 (02.06.95), 53.078/95 (18.04.96), 1251/97 (18.12.97), 436/99 (08.06.99), 7208/98 (04.11.99), 53/01 (15.02.01), 2038/03 (10.07.03); C.S. Mendoza Sala I (01.03.93); C.Fed. La Plata Sala 3 (08.05.00); Tribunal de Superintendencia de la Cámara Resolution 90/21"
+    },
+    "missing_from_no": "Row 10: N column states 'Advanced-stage renal cancer' which is correct. O column is 'NI' (not informed). Missing from O: (1) Pembrolizumab (Keytruda) 200 mg every 21 days was prescribed as first-line treatment; (2) Axitinib 5 mg twice daily was co-prescribed alongside Pembrolizumab; (3) the defendant is Galeno Argentina S.A.; (4) the document is an appellate decision dated May 27, 2021 confirming the preliminary injunction; (5) ANMAT confirmed the medications as first-line treatment for advanced renal cell carcinoma; (6) Galeno's appeal was based on contractual arguments about its medical network. Row 11: Case number CCF 000453/2016/CA001 does not appear in this document — this document covers only case 4030/2020/CA1. N and O are both 'NI'/empty which is appropriate as this case is not addressed in this document.",
+    "possibly_incorrect": "Row 11 (CCF 000453/2016/CA001) — no information found in this document. The 'NI' value is appropriate. No conflicts detected for row 10.",
+    "error": null
+  },
+  {
+    "country": "Brazil",
+    "pdf_name": "ARE 1577738.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Brazil__ARE 1577738.pdf.txt",
+    "rows": [
+      {
+        "row": 16,
+        "case": "ARE 1577738",
+        "N": "Metastatic colorectal cancer",
+        "O": "NI"
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Metastatic colorectal cancer with Microsatellite Instability-High status",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "NOT FOUND",
+      "CLINICAL_HISTORY": "Patient Lucia Choptian da Silva is from Santa Catarina state. She filed an action requesting free provision of Pembrolizumab for treatment of metastatic Microsatellite Instability-High colorectal cancer. The first-instance court granted the request. The Ninth Panel of the Federal Regional Court of the Fourth Region (TRF4) reversed the first-instance decision, denying the medication based on the National Committee for Technology Incorporation (CONITEC) recommendation against incorporation of Pembrolizumab into the Unified Health System (SUS) for this indication, and applying STF (Supreme Federal Court) Themes 6 and 1234 and Binding Precedents 60 and 61. Declaratory motions were filed and rejected. The lower court denied admissibility of the extraordinary appeal. The present extraordinary appeal with agravo (ARE 1577738) was filed before the Supreme Federal Court. On November 5, 2025, Minister André Mendonça denied the agravo.",
+      "SYMPTOMS": "NOT FOUND",
+      "DISEASE_SEVERITY": "Metastatic colorectal cancer with Microsatellite Instability-High genetic profile. The document describes the condition as \"serious, progressive and metastatic\" (\"doença grave, progressiva e metastática\"). Specific tumor-node-metastasis staging, ECOG Performance Status, and other clinical severity details not stated.",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "SUS-provided treatments were used but described as ineffective: the patient alleged that \"treatments available at the SUS proved ineffective for her condition of Microsatellite Instability-High colorectal cancer.\" Specific drugs and regimens not described in the document.",
+      "THERAPEUTIC_FAILURE": "Patient alleged that all SUS-available treatments proved ineffective for her Microsatellite Instability-High colorectal cancer specifically due to her tumor's genetic profile, arguing that the mere formal existence of other SUS therapies — even if demonstrably ineffective for the specific genetic profile — cannot constitute an insurmountable barrier to the fundamental right to health.",
+      "BIOMARKERS": "Microsatellite Instability-High status — explicitly identified as the genetic profile of the patient's colorectal cancer; used to argue that available SUS treatments are ineffective for this specific molecular subtype",
+      "METASTASIS_SITES": "NOT FOUND — the document states metastatic disease but does not specify metastatic sites",
+      "MEDICAL_JUSTIFICATION": "The patient's treating physician and/or medical reports indicated Pembrolizumab as necessary for the Microsatellite Instability-High metastatic colorectal cancer for which SUS treatments proved ineffective. However, this justification was found insufficient by the TRF4 and by the STF because CONITEC issued a final recommendation against incorporating Pembrolizumab for this indication.",
+      "URGENCY": "The patient requested urgent relief (suspension of the TRF4 decision and provisional judicial protection) arguing continuation of treatment was urgent given the macroprinciple of human dignity.",
+      "RISK_DETERIORATION": "Patient argued that the denial of Pembrolizumab constitutes a violation of fundamental rights to life, health, and human dignity, implying risk of clinical deterioration.",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "The patient argued that the denial of Pembrolizumab violates fundamental rights to life, health, and human dignity, and that life and human dignity are at stake.",
+      "REQUESTED_TREATMENT": "Pembrolizumab 100 mg (Keytruda) — continuous provision, free of charge, for as long as treatment is needed, as first-line or subsequent-line treatment for Microsatellite Instability-High metastatic colorectal cancer",
+      "JUDICIAL_DECISION": "Denied",
+      "DECISION_GROUNDS": "The Supreme Federal Court (STF), through Minister André Mendonça, denied the extraordinary appeal with agravo (ARE 1577738), upholding the TRF4 decision that had reversed the first-instance grant of Pembrolizumab. The STF held that the TRF4 correctly applied the consolidated STF jurisprudence on the matter, specifically Themes 6 and 1234 of the General Repercussion system and Binding Precedents 60 and 61 of the STF, which govern the judicial provision of non-incorporated medications in the SUS. The court found that the TRF4 decision was in conformity with the parameters established by the STF, notably items 4.2 and 4.3 of Theme 1234, which restrict judicial analysis to legality review of the administrative non-incorporation act and place on the plaintiff the burden of proving, with evidence-based medicine (specifically randomized clinical trials, systematic reviews, or meta-analyses), the drug's safety and efficacy, as well as the absence of a therapeutic substitute in the SUS. The STF further held that verifying any alleged discrepancy between the TRF4 decision and the alleged violation of constitutional provisions would require re-examination of the factual and evidentiary record, which is prohibited in extraordinary appeals under Binding Precedent 279 of the STF. The STF also noted that CONITEC issued a final recommendation against incorporating Pembrolizumab for metastatic colorectal cancer in the SUS, and that this recommendation is the controlling factor under the applicable legal framework.",
+      "COURT_CITATIONS": "Articles 1 inc. III, 5 caput, 6 and 196 of the Federal Constitution (raised by appellant); STF Theme 6 of the General Repercussion System (RE 566.471); STF Theme 1234 of the General Repercussion System (RE 1.366.243/SC), items 4.2 and 4.3; STF Binding Precedent No. 60; STF Binding Precedent No. 61; STF Binding Precedent No. 279 (prohibition of factual re-examination in extraordinary appeals); Articles 19-Q and 19-R of Law 8.080/1990; Decree 7.646/2011; CONITEC recommendation against incorporating Pembrolizumab for metastatic colorectal cancer; Article 489 sec. 1 items V and VI of the Code of Civil Procedure; Article 927 inc. III sec. 1 of the Code of Civil Procedure; Article 1.021 sec. 4 of the Code of Civil Procedure (fine for manifestly inadmissible motions); Article 1.026 secs. 2 to 4 of the Code of Civil Procedure (fine for dilatory declaratory motions); Article 85 sec. 11 of the Code of Civil Procedure (attorney fee increase); Article 21 sec. 1 of the STF Internal Rules; RE 1.467.845-AgR/SP (Rel. Min. Luís Roberto Barroso, Tribunal Pleno, 09/02/2024); ARE 1.321.696-ED-AgR/MG (Min. André Mendonça, Segunda Turma, 06/06/2022); ARE 1.107.805-AgR/SP (Rel. Min. Roberto Barroso, Primeira Turma, 13/12/2019); Rcl 45.289-AgR/DF (Min. Dias Toffoli, 04/10/2021); Rcl 24.841-ED-AgR/SP (Min. Luiz Fux, Primeira Turma, 20/04/2017); MS 37.637-AgR/DF (Min. Roberto Barroso, Tribunal Pleno, 17/05/2021); MS 35.272-AgR-segundo/DF (Min. Edson Fachin, Segunda Turma, 16/06/2020)"
+    },
+    "missing_from_no": "N column states 'Metastatic colorectal cancer' which is correct. O column is 'NI' (not informed). Missing from O: (1) the patient's colorectal cancer has Microsatellite Instability-High status — this is clinically critical as it is the molecular rationale for Pembrolizumab; (2) the request was denied at the appellate level (TRF4) and confirmed denied by the STF (decision dated November 5, 2025); (3) CONITEC issued a final recommendation against incorporating Pembrolizumab for this indication in the SUS; (4) STF Themes 6 and 1234 and Binding Precedents 60 and 61 were the controlling legal framework; (5) all SUS-available treatments were alleged to be ineffective due to the specific genetic profile.",
+    "possibly_incorrect": "No conflicts detected. N column accurately identifies metastatic colorectal cancer.",
+    "error": null
+  },
+  {
+    "country": "Brazil",
+    "pdf_name": "RE 1581191.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Brazil__RE 1581191.pdf.txt",
+    "rows": [
+      {
+        "row": 17,
+        "case": "RE 1581191",
+        "N": "Hodgkin Lymphoma – Nodular Sclerosis (ICD10: C81)",
+        "O": "Refractory and relapsed Hodgkin's lymphoma. Underwent surgery and bone marrow transplant."
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Hodgkin Lymphoma — Nodular Sclerosis subtype (ICD-10: C81), refractory and relapsed after surgery and bone marrow transplant",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "C81 — Hodgkin lymphoma (as stated in the document: \"Linfoma de Hodgkin – Esclerose Nodular (CID10: C81)\")",
+      "PATIENT_AGE": "NOT FOUND",
+      "CLINICAL_HISTORY": "Patient Jessica Ana Paula de Souza Andre is from Paraná state and receives treatment at the Hospital Ministro Costa Cavalcanti (HMCC), an institution credentialed as CACON/UNACON. The patient was diagnosed with Hodgkin Lymphoma — Nodular Sclerosis (CID10: C81). She underwent surgery and bone marrow transplant but her disease progressed despite these treatments. She was identified as having refractory and relapsed Hodgkin Lymphoma. A medical report by a specialist physician at HMCC indicated Pembrolizumab and prescribed its use for disease control. A technical note attached to the case confirmed anti-PD1 drugs have global response rates of approximately 80% with survival benefit. The case was originally filed as proceeding No. 5013555-87.2023.4.04.7002/PR. The TRF4 (Tenth Panel) granted the request at the appellate level, ordering provision of Pembrolizumab, citing the patient's dignity and the fact that treatment had already been initiated (event 52 of the lower proceedings). The Union (federal government) filed a Recurso Extraordinário (extraordinary appeal) before the STF, arguing the TRF4's decision diverged from the STF's standard regarding evidence-based medicine requirements. On February 1, 2026, Minister Nunes Marques determined remand of the case to the court of origin for application of Articles 1039, 1040, and 1041 of the Code of Civil Procedure.",
+      "SYMPTOMS": "NOT FOUND",
+      "DISEASE_SEVERITY": "Refractory and relapsed Hodgkin Lymphoma — Nodular Sclerosis — disease progression after surgery and autologous bone marrow transplant, with exhaustion of all SUS-available medications.",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Surgery (type and date not specified); Autologous bone marrow transplant; All SUS-available medications for Hodgkin Lymphoma — all exhausted without achieving disease control. Technical note states the patient has used all medications available in the SUS.",
+      "THERAPEUTIC_FAILURE": "Disease progression despite surgery and bone marrow transplant. The technical note states the patient is refractory and relapsed after autologous transplant or ineligible for transplant and relapsed after salvage regimens, with all available SUS medications exhausted.",
+      "BIOMARKERS": "NOT FOUND",
+      "METASTASIS_SITES": "NOT FOUND",
+      "MEDICAL_JUSTIFICATION": "A specialist physician at Hospital Ministro Costa Cavalcanti concluded in the medical report that Pembrolizumab is indicated for control of the refractory and relapsed Hodgkin Lymphoma. The technical note states that anti-PD1 drugs (including Pembrolizumab) have global response rates of approximately 80% with survival benefit for refractory and relapsed Hodgkin Lymphoma. The CONITEC's own Technical Report No. 543 (on the Clinical Protocol and Therapeutic Guidelines for Hodgkin Lymphoma in Adults) acknowledged suggestions received in public consultation for inclusion of Nivolumab and Pembrolizumab for relapsed/refractory patients after autologous transplant or ineligible for transplant, though CONITEC had not yet evaluated these medications formally.",
+      "URGENCY": "Treatment had already been initiated at the time of the TRF4 decision, making suspension particularly harmful. The TRF4 found it unreasonable to suspend treatment in progress absent proven inefficacy.",
+      "RISK_DETERIORATION": "The TRF4 found that withdrawal of medication already in use could cause further harm to the patient's health (\"a hipótese de retirada da medicação poderia trazer ainda mais prejuízos à saúde do paciente\").",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "The TRF4 relied on the principle of human dignity in ordering continued provision of the medication, finding that suspension of an ongoing treatment solely for lack of formal evidence of superiority — when human dignity and emotional and psychological integrity are at stake — was unreasonable.",
+      "REQUESTED_TREATMENT": "Pembrolizumab (PEMBROLIZUMABE) — dose and frequency not specified in the document — for treatment of refractory and relapsed Hodgkin Lymphoma — Nodular Sclerosis; provided through Hospital Ministro Costa Cavalcanti",
+      "JUDICIAL_DECISION": "Other — case remanded to court of origin by STF for reconsideration under Articles 1039, 1040, and 1041 of the Code of Civil Procedure (STF found TRF4's reasoning diverged from the STF's evidence-based medicine standard in Theme 6; the underlying TRF4 decision had granted the medication but STF determined it must be reconsidered in light of the correct standard)",
+      "DECISION_GROUNDS": "The Supreme Federal Court, through Minister Nunes Marques, determined that the TRF4's reasoning diverged from the STF's paradigm in Theme 6 (RE 566.471) regarding the requirement for evidence-based medicine proof of the drug's efficacy, accuracy, effectiveness, and safety. The TRF4 had ordered continued provision of Pembrolizumab primarily because treatment had already been initiated and suspension would violate human dignity, without fully addressing the evidence-based medicine requirements. The STF found this reasoning insufficient under the standard established in Theme 6, which requires randomized clinical trials, systematic reviews, or meta-analyses as proof of the medication's superiority over available SUS therapies. The STF remanded the case for the lower court to apply the STF precedent correctly under Articles 1039, 1040, and 1041 of the Code of Civil Procedure. The Union's extraordinary appeal alleged violation of Articles 196 and 198 of the Federal Constitution and argued that the CONITEC had not been asked to evaluate the medication, placing the evidentiary burden on the patient.",
+      "COURT_CITATIONS": "Articles 196 and 198 caput and section 1 of the Federal Constitution (raised by appellant Union); STF Theme 6 (RE 566.471); STF Theme 1234 (RE 1.366.243); STF STA 175-AgR (2010); STJ REsp 1.657.156 (Tema Repetitivo 106); CONITEC Technical Report No. 543 (Clinical Protocol and Therapeutic Guidelines for Hodgkin Lymphoma in Adults); CNJ Recommendation No. 146 of November 28, 2023, Art. 17; Law 8.080/1990, Arts. 19-Q and 19-R; Decree 7.646/2011; Articles 1.039, 1.040, and 1.041 of the Code of Civil Procedure; STF Binding Precedents 60 and 61; Precedents: ARE 1.565.758/PR (Min. Cármen Lúcia); Rcl 87278/ES (Min. Dias Toffoli); RE 1.338.356 AgR (Min. Nunes Marques, DJ 17.05.2022); ARE 1.321.696-ED-AgR (Min. André Mendonça, DJ 29.06.2022); ARE 1.387.540 AgR (Min. Flávio Dino, DJ 23.04.2024); Article 1.021 sec. 4 of the Code of Civil Procedure"
+    },
+    "missing_from_no": "N column correctly identifies Hodgkin Lymphoma — Nodular Sclerosis with ICD-10 C81. O column states 'Refractory and relapsed Hodgkin's lymphoma. Underwent surgery and bone marrow transplant.' which is substantially correct. Missing from N and O: (1) all SUS-available medications were exhausted; (2) the technical note confirmed 80% global response rate for anti-PD1 drugs in this indication; (3) CONITEC Technical Report No. 543 had acknowledged suggestions to include Pembrolizumab for this indication but had not formally evaluated it; (4) the STF remanded the case rather than granting or denying outright — the TRF4 had granted but STF found the reasoning incomplete; (5) treatment was being administered at Hospital Ministro Costa Cavalcanti (CACON/UNACON credentialed); (6) the Union (federal government) was the appellant before the STF; (7) STF decision dated February 1, 2026.",
+    "possibly_incorrect": "No conflicts detected. The O column accurately reflects the clinical history described in the document.",
+    "error": null
+  },
+  {
+    "country": "Brazil",
+    "pdf_name": "ARE 1572092.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Brazil__ARE 1572092.pdf.txt",
+    "rows": [
+      {
+        "row": 28,
+        "case": "ARE 1572092",
+        "N": "MALIGNANT NEOPLASM OF THE OVARY",
+        "O": ""
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Malignant neoplasm of the ovary (specific histological subtype, staging, and clinical details not described in the document; the document refers only to the title of the lower court's acórdão and the ICD classification)",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND — the document does not specify an ICD-10 code; the diagnosis is referred to only as \"neoplasia maligna do ovário\" (malignant neoplasm of the ovary)",
+      "PATIENT_AGE": "NOT FOUND",
+      "CLINICAL_HISTORY": "Patient Edineia de Jesus Viana is from Paraná state. She filed an action requesting judicial provision of Pembrolizumab for treatment of malignant neoplasm of the ovary. A SUS public health policy exists for this condition. A court expert/physician was consulted. The first-instance court granted the request. The TRF4 reversed the first-instance decision, finding that while the plaintiff had a right to adequate treatment (not the best available market treatment), the requested medication's superiority over SUS-available treatments had not been demonstrated with concrete data, and no conclusive studies demonstrating superiority were presented. The lower court denied admissibility of the extraordinary appeal. The present extraordinary appeal with agravo (ARE 1572092) was filed before the STF. On October 7, 2025, Minister Edson Fachin (acting as President of the STF) denied the agravo.",
+      "SYMPTOMS": "NOT FOUND",
+      "DISEASE_SEVERITY": "Malignant neoplasm of the ovary — specific stage, tumor-node-metastasis classification, ECOG Performance Status, and other clinical details not stated in the document.",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "NOT FOUND — the document does not describe prior treatments; a SUS treatment policy exists for ovarian cancer",
+      "THERAPEUTIC_FAILURE": "The TRF4 noted that the diminished superiority of the requested medication over SUS-provided drugs was not supported by concrete data — the drug's superiority and the SUS treatments' inadequacy were not demonstrated with conclusive studies.",
+      "BIOMARKERS": "NOT FOUND",
+      "METASTASIS_SITES": "NOT FOUND",
+      "MEDICAL_JUSTIFICATION": "The plaintiff's physician provided a medical opinion supporting Pembrolizumab. However, the TRF4 found this insufficient — citing the principle that public health policy cannot be set aside on the basis of an isolated medical opinion, even of a court-appointed expert, absent concrete evidence of significant superiority.",
+      "URGENCY": "NOT FOUND",
+      "RISK_DETERIORATION": "NOT FOUND explicitly stated in the STF decision",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "NOT FOUND explicitly stated in the STF decision",
+      "REQUESTED_TREATMENT": "Pembrolizumab (PEMBROLIZUMABE) — dose, route, frequency, and line of treatment not specified in the document — for treatment of malignant neoplasm of the ovary",
+      "JUDICIAL_DECISION": "Denied",
+      "DECISION_GROUNDS": "The Supreme Federal Court, through Minister Edson Fachin (acting as President), denied the extraordinary appeal with agravo, upholding the TRF4 decision that had reversed the first-instance grant. The STF held that to overcome the TRF4's factual findings, the plaintiff would need to have the factual and evidentiary record re-examined, which is not permissible in extraordinary appeals (Binding Precedent 279 of the STF). The TRF4's decision was based on findings that: (a) there is no unconditional right to the best available market treatment — only to adequate treatment; (b) the court may only require the state to fund a superior alternative treatment if the plaintiff demonstrates significantly better outcomes than SUS-provided treatments, or if the SUS refuses any treatment; (c) the STJ's Tema Repetitivo 106 and the STF's Theme 6 requirements were not met because the plaintiff failed to demonstrate with conclusive studies the superiority of Pembrolizumab over available SUS medications; (d) a diminished therapeutic superiority, without concrete data, does not establish error in the CONITEC's decision not to incorporate the drug. The STF also applied its internal rule allowing fee increases for unsuccessful extraordinary appeals.",
+      "COURT_CITATIONS": "Articles 5, 6, and 196 of the Federal Constitution (raised by appellant); STJ Tema Repetitivo No. 106 (REsp 1.657.156); STF Theme 6 (RE 566.471); STF Binding Precedent No. 61; STF Binding Precedent No. 279 (prohibition of factual re-examination); Article 85 sec. 11 of the Code of Civil Procedure (attorney fee increase); Article 13 inc. V(c) of the STF Internal Rules; RE 1.237.969-AgR (Primeira Turma, Min. Alexandre de Moraes, DJe 12/02/2020); ARE 1.165.382-AgR (Segunda Turma, Min. Edson Fachin, DJe 03/03/2020); RE 1066713-AgR (Primeira Turma, Min. Marco Aurélio, DJe 20/02/2020)"
+    },
+    "missing_from_no": "N column states 'MALIGNANT NEOPLASM OF THE OVARY' which is accurate but entirely generic. O column is empty. Missing from O: (1) the request for Pembrolizumab was denied — both by the TRF4 and by the STF (decision dated October 7, 2025); (2) CONITEC did not incorporate Pembrolizumab for this indication; (3) plaintiff was unable to demonstrate with conclusive studies the superiority of Pembrolizumab over SUS-available treatments; (4) SUS does provide a public health policy for ovarian cancer; (5) first-instance had granted the request but TRF4 reversed; (6) the applicable legal standard (STF Theme 6 and STJ Tema 106) was not met. Also missing from N: histological subtype, staging, biomarker status (e.g., BRCA mutation status, which is often relevant in ovarian cancer Pembrolizumab cases) — however, these are not described in the document itself.",
+    "possibly_incorrect": "No conflicts detected. The N column value is accurate based on the document.",
+    "error": null
+  },
+  {
+    "country": "Brazil",
+    "pdf_name": "ARE 1378749.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Brazil__ARE 1378749.pdf.txt",
+    "rows": [
+      {
+        "row": 38,
+        "case": "ARE 1378749",
+        "N": "Metastatic colon adenocarcinoma to liver",
+        "O": ""
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Metastatic colon adenocarcinoma with hepatic (liver) metastasis",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "NOT FOUND",
+      "CLINICAL_HISTORY": "The plaintiff is the estate (espólio) of João Luiz de Castro e Silva Filho (deceased), suggesting the patient died during or after the litigation. The patient was diagnosed with metastatic colon adenocarcinoma with liver metastasis. He underwent prior chemotherapy treatments that did not produce satisfactory results. His treating physician determined he needed a change of therapy due to disease progression and prescribed Keytruda (Pembrolizumab 10 mg/kg IV). The patient requested coverage from health plan operator Unimed-Rio Cooperativa de Trabalho Médico do Rio de Janeiro. Unimed-Rio refused coverage on the grounds that Pembrolizumab had no ANVISA registration at the time (April 2016). The first-instance court in Rio de Janeiro granted the request in full. Unimed-Rio appealed. The 25th Civil Panel of the Rio de Janeiro Court of Justice partially granted the appeal — it upheld denial of coverage for the period April to September 2016 (when the drug lacked ANVISA registration) but maintained the obligation to provide Pembrolizumab from October 2016 onward (when ANVISA registration was obtained: October 3, 2016). Both parties filed declaratory motions which were rejected. The present extraordinary appeal with agravo (ARE 1378749) was filed before the STF challenging the partial reversal. On June 6, 2022, Minister Dias Toffoli denied the agravo.",
+      "SYMPTOMS": "Disease progression; need for change of therapy",
+      "DISEASE_SEVERITY": "Metastatic colon adenocarcinoma with hepatic metastasis; disease progressed after prior chemotherapy. Specific tumor-node-metastasis staging, ECOG Performance Status, and other severity details not stated.",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Chemotherapy (unspecified regimen, cycles, and duration) — administered but did not produce satisfactory results; disease progressed requiring change of therapy",
+      "THERAPEUTIC_FAILURE": "Prior chemotherapy treatments did not produce satisfactory results (\"não apresentaram resultados satisfatórios\"); disease progressed necessitating a change of therapy to Pembrolizumab",
+      "BIOMARKERS": "NOT FOUND",
+      "METASTASIS_SITES": "Liver (hepatic metastasis)",
+      "MEDICAL_JUSTIFICATION": "Medical reports by the treating physician indicated the necessity of Pembrolizumab (Keytruda 10 mg/kg IV) for the patient's metastatic colon adenocarcinoma with liver metastasis, given the urgency of the clinical situation and disease progression after prior chemotherapy. The court found the treatment necessary and urgent based on these medical reports.",
+      "URGENCY": "The treating physician's reports indicated that Pembrolizumab was needed urgently to avoid aggravation of the patient's condition (\"evitar o agravo da doença\"). The court stated the urgency was evident from the medical reports.",
+      "RISK_DETERIORATION": "Medical reports stated that Pembrolizumab was necessary to avoid aggravation of the disease. Without it, the patient's clinical condition would worsen.",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "NOT FOUND explicitly, though the document refers to the estate (espólio) of the deceased patient, implying the patient did not survive the litigation period.",
+      "REQUESTED_TREATMENT": "Pembrolizumab (Keytruda) 10 mg/kg, intravenous, continuous provision as prescribed by the treating physician; second-line treatment after chemotherapy failure for metastatic colon adenocarcinoma with hepatic metastasis; coverage through private health plan Unimed-Rio",
+      "JUDICIAL_DECISION": "Partially Granted — the STF denied the extraordinary appeal, confirming the appellate court's partial grant: coverage denied for April–September 2016 (pre-ANVISA registration period); coverage maintained from October 2016 onward (post-ANVISA registration)",
+      "DECISION_GROUNDS": "The Supreme Federal Court, through Minister Dias Toffoli, denied the extraordinary appeal with agravo (ARE 1378749), confirming the Rio de Janeiro Court of Justice's partial reversal of the first-instance grant. The STF held that the constitutional provisions cited (Articles 6 and 23 of the Federal Constitution) lacked the required prior judicial consideration (prequestionamento), making the extraordinary appeal inadmissible under STF Binding Precedents 282 and 356. As to the remaining constitutional claims, the STF found that the court of origin based its decision on infraconstitutional legislation (Law 9.656/98, Article 10, V), the STJ's precedents on non-ANVISA-registered medications (REsp 1.726.563/SP and 1.712.163/SP), and the Enunciados Nos. 6 and 26 of the First Health Law Conference, meaning any alleged constitutional violation would be indirect or reflexive (ofensa reflexa), which is insufficient to support an extraordinary appeal. The STF confirmed that private health plan operators are not obligated to provide medications without ANVISA registration (per Article 10, V of Law 9.656/98), but must provide coverage once the medication obtains ANVISA registration.",
+      "COURT_CITATIONS": "Articles 1 inc. III, 5 caput and inc. XL, 6 caput, 23 inc. II, 196, and 199 of the Federal Constitution (raised by appellant); STF Binding Precedents 279 and 454 (prohibition of factual re-examination and review of contractual clauses); STF Binding Precedents 282 and 356 (prequestionamento requirement); Law 9.656/98, Article 10 inc. V (private health plan exclusions); Enunciados Nos. 6 and 26 of the First Health Law Conference; STJ REsp 1.726.563/SP and REsp 1.712.163/SP (obligation limited to ANVISA-registered medications); ANVISA registration of Pembrolizumab (October 3, 2016); Article 85 sec. 11 and secs. 2 and 3 of the Code of Civil Procedure (attorney fee increase); ARE 1.378.037/SP (Min. Ricardo Lewandowski, DJe 01/06/2022); ARE 1.344.112/SP (Min. Cármen Lúcia, DJe 09/12/2021); ARE 1.223.043/MS (Min. Alexandre de Moraes, DJe 09/08/2019); RE 1.138.298/SP (Min. Dias Toffoli, DJe 06/09/2018); ARE 1.274.842/SP-AgR (Min. Luiz Fux, Tribunal Pleno, DJe 21/10/2020); ARE 1.053.341/PE-AgR-Segundo (Min. Roberto Barroso, Primeira Turma, DJe 06/08/2019); RE 1.138.298/SP-AgR (Min. Cármen Lúcia, Segunda Turma, DJe 29/03/2019); AI 551.533/MG-AgR (Min. Gilmar Mendes, DJ 03/03/06); Article 21 sec. 1 of the STF Internal Rules"
+    },
+    "missing_from_no": "N column states 'Metastatic colon adenocarcinoma to liver' which is accurate. O column is empty. Missing from O: (1) prior chemotherapy was administered but failed (disease progression); (2) the Pembrolizumab request was partially granted — denied for April–September 2016 and granted from October 2016 onward based on ANVISA registration date; (3) the plaintiff is the estate of the deceased patient (João Luiz de Castro e Silva Filho), indicating the patient died; (4) the defendant is Unimed-Rio (private health plan); (5) ANVISA registered Pembrolizumab on October 3, 2016; (6) STF decision dated June 6, 2022; (7) the legal framework was private health plan law (Law 9.656/98), not SUS law.",
+    "possibly_incorrect": "No conflicts detected. N column accurately reflects the diagnosis.",
+    "error": null
+  },
+  {
+    "country": "Brazil",
+    "pdf_name": "Rcl 80821 MC-Ref.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Brazil__Rcl 80821 MC-Ref.pdf.txt",
+    "rows": [
+      {
+        "row": 40,
+        "case": "Rcl 80821 MC-Ref",
+        "N": "MALIGNANT NEOPLASM OF THE BREAST",
+        "O": "Prescribed in combination with chemotherapy"
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Malignant neoplasm of the breast — triple-negative breast cancer (ICD-10: C50 — Malignant Neoplasm of the Breast, as stated in the document)",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "C50 — Malignant Neoplasm of the Breast (as stated in the document: \"CID C50 – NEOPLASIA MALIGNA DA MAMA\")",
+      "PATIENT_AGE": "NOT FOUND",
+      "CLINICAL_HISTORY": "Patient Susana Junges Feliponi is from Santa Catarina state. She was diagnosed with triple-negative breast cancer (ICD C50). She sought judicial provision of Pembrolizumab in combination with conventional chemotherapy. Despite robust evidentiary support (medical reports, examination results, technical notes, and scientific studies), the federal judge dismissed her claims in the original action. Her appeal to the TRF4 requesting suspension of effect of the first-instance decision was denied on the grounds that the medication provided no significant advantage over standard chemotherapy and had a high cost for an individual situation. The patient then filed a reclamação before the STF (Rcl 80821) alleging the TRF4 decision violated Binding Precedents 60 and 61, which reinforce the theses of Themes 6 and 1234 of the General Repercussion system. On June 13, 2025, Minister Edson Fachin granted a preliminary injunction ordering provision of Pembrolizumab, ad referendum of the Second Panel. On August 6, 2025, the Second Panel unanimously endorsed (referendou) the preliminary injunction.",
+      "SYMPTOMS": "NOT FOUND",
+      "DISEASE_SEVERITY": "Triple-negative breast cancer (CID C50) — the specialty physician's report described the management of this condition as difficult and the SUS-available chemotherapy as insufficient to contain the disease's progression. Specific staging, tumor-node-metastasis classification, and ECOG Performance Status not stated.",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "SUS-available chemotherapy — alleged to be insufficient to contain the cancer's progression",
+      "THERAPEUTIC_FAILURE": "The treating physician stated that SUS-available chemotherapy is insufficient to contain the advancement of the triple-negative breast cancer, necessitating the addition of Pembrolizumab to the regimen.",
+      "BIOMARKERS": "Triple-negative breast cancer status (negative for estrogen receptor, progesterone receptor, and Human Epidermal Growth Factor Receptor 2, implied by the diagnosis). The NATJUS (Judicial Technical Support Unit) review confirmed scientific evidence of the drug's benefit in disease-free survival.",
+      "METASTASIS_SITES": "NOT FOUND",
+      "MEDICAL_JUSTIFICATION": "The treating specialist physician stated in the medical report that the combination of Pembrolizumab with conventional chemotherapy is indispensable to improve efficacy outcomes of the treatment. The indication is based on: (1) the KEYNOTE-522 randomized phase 3 clinical trial, which after five years showed event-free survival of 81.3% in the Pembrolizumab group versus 72.3% in the placebo group, a 37% reduction in event risk; (2) meta-analysis studies demonstrating positive effects of adding immunotherapy to chemotherapy. The NATJUS issued a favorable opinion (parecer favorável) with scientific evidence that Pembrolizumab provides benefit in disease-free survival. The CONITEC had not evaluated Pembrolizumab for this specific indication.",
+      "URGENCY": "The urgency of the treatment and the risk of irreparable harm to the patient's health justified the grant of provisional urgent relief (tutela provisória de urgência).",
+      "RISK_DETERIORATION": "The treating physician stated that SUS-available chemotherapy alone is insufficient to contain the disease's advancement. The risk of irreparable harm to health was recognized by the STF as justifying the preliminary injunction.",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "The risk of irreparable harm to health and the gravity of the disease were recognized as justifying urgent judicial intervention. The periculum in mora is described as inherent to the gravity of the disease.",
+      "REQUESTED_TREATMENT": "Pembrolizumab (PEMBROLIZUMABE) — dose and frequency as prescribed by treating physician — in combination with conventional chemotherapy, for treatment of triple-negative breast cancer; provision by the state (public health system)",
+      "JUDICIAL_DECISION": "Granted — preliminary injunction granted and unanimously endorsed (referendado) by the STF Second Panel on August 6, 2025",
+      "DECISION_GROUNDS": "The Second Panel of the Supreme Federal Court unanimously endorsed the preliminary injunction ordering provision of Pembrolizumab for the patient with triple-negative breast cancer, finding elements indicating fulfillment of the requirements of the binding tesis of Theme 6. The court identified three key factors: (1) the NATJUS issued a favorable opinion pointing to scientific evidence that Pembrolizumab provides benefit in disease-free survival; (2) CONITEC had not evaluated Pembrolizumab for this specific indication (treating it as a non-evaluation rather than a negative evaluation), satisfying the requirement regarding absence of CONITEC evaluation; (3) the urgency of treatment and risk of irreparable harm to health justified provisional urgent protection. The court applied Binding Precedents 60 and 61 of the STF, finding the TRF4's decision violated them by failing to properly apply the standards of Themes 6 and 1234. The KEYNOTE-522 phase 3 randomized controlled trial evidence (event-free survival 81.3% vs 72.3% at five years) and meta-analysis data on immunotherapy combination benefits were cited.",
+      "COURT_CITATIONS": "STF Binding Precedent No. 60; STF Binding Precedent No. 61; STF Theme 6 (RE 566.471); STF Theme 1234 (RE 1.366.243); KEYNOTE-522 phase 3 randomized clinical trial (5-year event-free survival data: 81.3% Pembrolizumab group vs 72.3% placebo group); Meta-analysis studies on immunotherapy addition to chemotherapy; NATJUS favorable opinion (with scientific evidence of disease-free survival benefit); ICD C50 (Malignant Neoplasm of the Breast); Emenda Regimental 58/22 of the STF (referendo procedure); Original proceedings: Processo No. 5013997-39.2025.4.04.0000 (TRF4); Original proceedings No. 5015849-51.2024.4.04.7205 (first instance); STF Constitucional art. 102 (reclamação jurisdiction); Articles 1 and 2 of the Federal Constitution (human dignity — macroprincípio); Law 10.742/2003, Art. 7 (CMED); CAP (Coeficiente de Adequação de Preço); CNJ Recommendation No. 146 (28.11.2023), Art. 9"
+    },
+    "missing_from_no": "N column states 'MALIGNANT NEOPLASM OF THE BREAST' which is accurate. O column states 'Prescribed in combination with chemotherapy' which is correct but incomplete. Missing from N and O: (1) triple-negative breast cancer subtype is clinically critical; (2) ICD C50 is explicitly stated; (3) NATJUS issued a favorable opinion with scientific evidence — this is key to understanding why this case was granted when similar cases were not; (4) CONITEC had not evaluated Pembrolizumab for this specific indication (absence of evaluation, not negative evaluation); (5) the KEYNOTE-522 phase 3 RCT evidence (81.3% vs 72.3% event-free survival at 5 years); (6) the decision is a preliminary injunction endorsed by the STF Second Panel on August 6, 2025; (7) SUS-available chemotherapy was deemed insufficient to contain disease progression; (8) periculum in mora was found inherent to the gravity of the disease.",
+    "possibly_incorrect": "No conflicts detected. The O column value is accurate based on the document.",
+    "error": null
+  },
+  {
+    "country": "Brazil",
+    "pdf_name": "Rcl 79725 MC.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Brazil__Rcl 79725 MC.pdf.txt",
+    "rows": [
+      {
+        "row": 41,
+        "case": "Rcl 79725 MC",
+        "N": "Renal cancer",
+        "O": "PRESCRIPTION AS ADJUVANT TO NEPHRECTOMY"
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Renal cancer — Pembrolizumab prescribed as adjuvant therapy following nephrectomy (specific histological subtype, staging, and clinical details not stated in the document)",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "NOT FOUND",
+      "CLINICAL_HISTORY": "Patient V.R. is from Santa Catarina state. The patient was diagnosed with renal cancer and underwent nephrectomy (surgical removal of the kidney). Following nephrectomy, the treating physician prescribed Pembrolizumab as adjuvant treatment. The patient sought judicial provision of Pembrolizumab from the public health system. Despite robust evidence, the first-instance court dismissed the action. The TRF4 denied the appeal for suspension of effect (pedido de efeito suspensivo à apelação), finding no significant advantage of the medication beyond the high cost for an individual situation. The patient filed a reclamação before the STF (Rcl 79725) alleging violation of Binding Precedents 60 and 61. On May 27, 2025, Minister Edson Fachin granted a preliminary injunction ordering provision of Pembrolizumab as adjuvant therapy, ad referendum of the Second Panel. On June 16, 2025, the Second Panel unanimously endorsed (referendou) the preliminary injunction.",
+      "SYMPTOMS": "NOT FOUND",
+      "DISEASE_SEVERITY": "Renal cancer post-nephrectomy, requiring adjuvant Pembrolizumab — indicating high-risk features for recurrence. Specific staging, tumor-node-metastasis classification, ECOG Performance Status, and other details not stated in the document.",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Nephrectomy (surgical removal of kidney) — performed prior to the prescription of Pembrolizumab as adjuvant therapy",
+      "THERAPEUTIC_FAILURE": "NOT FOUND — Pembrolizumab is prescribed as adjuvant therapy post-nephrectomy, not due to failure of prior drug treatment",
+      "BIOMARKERS": "NOT FOUND — NATJUS confirmed scientific evidence of benefit in disease-free survival for adjuvant use of Pembrolizumab, but specific biomarkers are not mentioned",
+      "METASTASIS_SITES": "NOT FOUND — adjuvant use post-nephrectomy suggests absence of distant metastasis (or recently resected localized disease)",
+      "MEDICAL_JUSTIFICATION": "The treating physician prescribed Pembrolizumab as adjuvant therapy following nephrectomy. The NATJUS issued a favorable opinion pointing to scientific evidence that Pembrolizumab provides benefit in disease-free survival in adjuvant use. CONITEC had not evaluated Pembrolizumab for this specific indication (adjuvant use post-nephrectomy for renal cancer).",
+      "URGENCY": "The urgency of the treatment and the risk of irreparable harm to the patient's health justified the grant of provisional urgent relief.",
+      "RISK_DETERIORATION": "The risk of irreparable harm to health and the gravity of the disease were recognized as justifying urgent judicial intervention. The periculum in mora is described as inherent to the gravity of the disease.",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "The risk of irreparable harm to health and the gravity of the renal cancer condition, particularly in the post-nephrectomy adjuvant setting, were recognized.",
+      "REQUESTED_TREATMENT": "Pembrolizumab (PEMBROLIZUMABE) — dose and frequency as prescribed by treating physician — as adjuvant therapy following nephrectomy for renal cancer; provision by the state (public health system)",
+      "JUDICIAL_DECISION": "Granted — preliminary injunction granted and unanimously endorsed (referendado) by the STF Second Panel on June 16, 2025",
+      "DECISION_GROUNDS": "The Second Panel of the Supreme Federal Court unanimously endorsed the preliminary injunction ordering provision of Pembrolizumab as adjuvant therapy post-nephrectomy for renal cancer, finding elements indicating fulfillment of the requirements of the binding tesis of Theme 6. The court identified three key factors: (1) the NATJUS issued a favorable opinion pointing to scientific evidence that adjuvant Pembrolizumab provides benefit in disease-free survival; (2) CONITEC had not evaluated Pembrolizumab for this specific indication (adjuvant post-nephrectomy), satisfying the requirement regarding absence of CONITEC evaluation; (3) the urgency of treatment and risk of irreparable harm to health justified provisional urgent protection. The court found the TRF4 decision violated Binding Precedents 60 and 61 by failing to properly apply Themes 6 and 1234 standards. The STF applied its jurisprudence on the exceptional judicial provision of non-SUS-incorporated medications when NATJUS supports the scientific evidence.",
+      "COURT_CITATIONS": "STF Binding Precedent No. 60; STF Binding Precedent No. 61; STF Theme 6 (RE 566.471); STF Theme 1234 (RE 1.366.243); NATJUS favorable opinion (with scientific evidence of disease-free survival benefit in adjuvant use); Original proceedings: TRF4 Processo No. 5011813-13.2025.4.04.0000; Emenda Regimental 58/22 of the STF (referendo procedure); STF Constitution art. 102 (reclamação jurisdiction)"
+    },
+    "missing_from_no": "N column states 'Renal cancer' which is accurate but generic. O column states 'PRESCRIPTION AS ADJUVANT TO NEPHRECTOMY' which is correct and clinically significant. Missing from N: (1) histological subtype of renal cancer not specified; (2) no staging information; (3) the treatment context is adjuvant (post-nephrectomy, not metastatic). Missing from O/additional context: (1) NATJUS issued a favorable opinion with scientific evidence of disease-free survival benefit — this was the key element enabling the grant; (2) CONITEC had not evaluated Pembrolizumab for this specific adjuvant indication; (3) preliminary injunction was granted and unanimously endorsed by STF Second Panel on June 16, 2025; (4) periculum in mora was found inherent to the gravity of the disease; (5) TRF4 had denied the appeal finding no significant advantage over the cost — STF reversed this finding; (6) patient identity: V.R. (initials only).",
+    "possibly_incorrect": "No conflicts detected. The O column value accurately reflects the clinical context documented.",
+    "error": null
+  }
+]

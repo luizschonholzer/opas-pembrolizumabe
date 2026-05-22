@@ -4,10 +4,15 @@
 *.xlsx
 *.xls
 
+# Exceções — arquivos de saída gerados pela análise
+!OPAS_PDF_CLAUDE_ANALISE.xlsx
+!RELATORIO_CLAUDE_SDK_FINAL.txt
+
 # Logs e relatórios gerados
 *.txt
 stderr_log.txt
 log_analise.txt
+!RELATORIO_CLAUDE_SDK_FINAL.txt
 
 # Pasta temporária de extração
 temp_xlsx/

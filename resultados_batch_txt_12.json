@@ -1,0 +1,344 @@
+[
+  {
+    "country": "Guatemala",
+    "pdf_name": "6823-2025.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__6823-2025.pdf.txt",
+    "rows": [
+      {
+        "row": 126,
+        "case": "6823-2025",
+        "N": "Prostate cancer clinical stage IV castration-sensitive with metastasis",
+        "O": "NI"
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Prostate cancer, clinical stage Four, castration-sensitive, with bone metastases",
+      "SECONDARY_DIAGNOSES": "Acral lentiginous melanoma, clinical stage Four, with metastasis to lymph nodes",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "NOT FOUND",
+      "CLINICAL_HISTORY": "Patient is an affiliate of the Instituto Guatemalteco de Seguridad Social (IGSS). Diagnosed with prostate cancer stage Four castration-sensitive with bone metastases, managed previously with hormonal blockade using leuprolide. In relation to melanoma, on May 2, 2024, the patient underwent surgery for a lesion in the plantar region of the left foot, confirming the diagnosis of melanoma. On July 4, 2024, lymph node dissection was performed, with report of metastasis in 2 of the 3 resected lymph nodes. A PET-CT scan was performed on August 27, 2024, which reported: lesion in the right common iliac chain of 1.5 cm with SUVmax 9.8, left common iliac 1.1 cm SUVmax 3.8, left internal iliac 1 cm SUVmax 3.7, left obturator less than 1 cm SUVmax 3.3, right internal iliac 0.9 cm SUVmax 2.2, left superficial inguinal chain 1.3 cm SUVmax 5.5. The patient was offered systemic chemotherapy treatment at the medical oncology unit but decided to seek a second opinion with a private physician. A private oncologist prescribed Pembrolizumab based on the KEYNOTE-006 international guidelines and clinical studies.",
+      "SYMPTOMS": "NOT FOUND",
+      "DISEASE_SEVERITY": "Dual malignancy: castration-sensitive prostate cancer stage Four with bone metastases and acral lentiginous melanoma stage Four with lymph node metastases; disease described as grave (severe) and aggressive with threat of severe harm if not adequately treated",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Hormonal blockade with leuprolide (for prostate cancer); surgical excision of plantar lesion (May 2, 2024); lymph node dissection (July 4, 2024)",
+      "THERAPEUTIC_FAILURE": "Hormonal blockade with leuprolide did not prevent disease progression to stage Four with bone metastases; systemic chemotherapy offered by IGSS oncology unit was declined in favor of seeking second opinion and immunotherapy recommendation",
+      "BIOMARKERS": {
+        "Programmed Death-Ligand 1 %": "NOT FOUND",
+        "Microsatellite Instability status": "NOT FOUND",
+        "Tumor Mutational Burden": "NOT FOUND",
+        "Human Epidermal Growth Factor Receptor 2": "NOT FOUND",
+        "Epidermal Growth Factor Receptor": "NOT FOUND",
+        "Anaplastic Lymphoma Kinase": "NOT FOUND",
+        "ROS1": "NOT FOUND",
+        "KRAS": "NOT FOUND",
+        "B-Raf Proto-Oncogene": "NOT FOUND",
+        "others": "NOT FOUND"
+      },
+      "METASTASIS_SITES": "Bone metastases (prostate cancer); metastasis to lymph nodes (acral lentiginous melanoma): right common iliac chain, left common iliac, left internal iliac, left obturator, right internal iliac, and left superficial inguinal chain",
+      "MEDICAL_JUSTIFICATION": "Private oncologist Dr. Pedro Luis Lopez Oseida, specialist in Internal Medicine and Medical Oncology, certified that the patient presents dual diagnoses of prostate cancer stage Four castration-sensitive with bone metastases and acral lentiginous melanoma stage Four with lymph node metastases. Based on international guidelines and clinical studies KEYNOTE-006, the oncologist recommended Pembrolizumab (Keytruda) 100 mg/4 ml vial, dose 200 mg intravenous every 21 days, duration until disease progression, appearance of toxicity, or completion of 24 months, in order to provide the patient access to the suggested therapy through social security. The treating oncologist's certification and prescription provide the necessary scientific and factual basis for the amparo action.",
+      "URGENCY": "Urgent; the diseases are described as grave and aggressive. The court noted that requiring prior administrative exhaustion is unfeasible given the serious and aggressive nature of the diseases",
+      "RISK_DETERIORATION": "High; the court established that failing to provide the medication threatens the patient with severe damage, and that disease progression would continue without adequate treatment",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "High; the court stated that the constitutional protection must be granted because the rights to life and health are at risk, and that not providing the treatment threatens to violate the patient's right to life",
+      "REQUESTED_TREATMENT": "Pembrolizumab (Keytruda) vial 100 mg/4 ml, dose 200 mg intravenous every 21 days, duration: continue until disease progression, appearance of toxicity, or completion of 24 months",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Constitutional Court of Guatemala (Corte de Constitucionalidad) upheld the first-instance amparo ruling and declared the appeal by the IGSS without merit. The Court found that the rights to life and health are fundamental and that the State, through the IGSS, has a constitutional obligation to provide adequate medical treatment to its affiliates, including medications not on the basic list when supported by a qualified medical professional. The Court applied the dispositivo principle, under which the patient's preference for a specific medication must be respected when supported by adequate medical backing, under the responsibility of the patient and the treating physician. The Court rejected the IGSS arguments that ordering a specific branded medication contravenes the Law of State Contracting, holding that administrative and procurement procedures cannot nullify access to the medication claimed, since the rights to life and health prevail over formalistic, economic, and administrative arguments. The Court ordered the IGSS to continuously supply Pembrolizumab to the patient, conduct a complete special medical evaluation, maintain integral medical assistance, verify the drug's suitability and efficacy, and ensure uninterrupted supply, under penalty of a fine of two thousand quetzales to each member of the IGSS Board of Directors in case of non-compliance.",
+      "COURT_CITATIONS": "Articles 1, 2, 3, 93, 94, 95, 100 of the Constitution of Guatemala; Article 4(1) of the American Convention on Human Rights; Article 6(1) of the International Covenant on Civil and Political Rights; Article 12 of the International Covenant on Economic, Social and Cultural Rights (ICESCR); Articles 28(c) and 31 of the IGSS Organic Law; Law of Amparo, Personal Exhibition and Constitutionality (Ley de Amparo, Exhibicion Personal y de Constitucionalidad), Articles 1, 5, 6, 8, 49, 50, 60, 61, 62, 63, 64, 149, 163(c), 179, 185; Constitutional Court Agreement 1-2013, Articles 7 Bis, 35, 36, 46; Constitutional Court Agreement 3-89; Expedientes 4952-2024, 7314-2024, 7692-2024, 8155-2024, 7727-2024, 3332-2024, 4805-2024, 6497-2024, 8286-2024, 7064-2024, 7222-2024, 6386-2024, 4281-2024, 5114-2024, 6223-2024, 2011-2025, 2773-2025, 3898-2025, 6909-2024, 6399-2024, 3332-2024, 2740-2025, 3677-2025, 3822-2025"
+    },
+    "missing_from_no": "Column O is marked 'NI' (no information). The document contains significant additional information absent from N/O: (1) the secondary diagnosis of acral lentiginous melanoma stage Four with lymph node metastases; (2) prior treatment with leuprolide for prostate cancer; (3) surgical history including plantar lesion excision and lymph node dissection; (4) detailed PET-CT findings from August 27, 2024 with specific lymph node measurements and SUVmax values; (5) the fact that IGSS offered chemotherapy which the patient declined; (6) the name of the prescribing private oncologist (Dr. Pedro Luis Lopez Oseida, colegiado 19,416) and the specific clinical justification citing KEYNOTE-006; (7) the prescribed regimen details (200 mg IV every 21 days, up to 24 months); (8) the IGSS appeal arguments and the court's detailed reasoning on each.",
+    "possibly_incorrect": "Column N describes the diagnosis as 'Prostate cancer clinical stage IV castration-sensitive with metastasis', which is correct but incomplete — the document clearly establishes two concurrent diagnoses. The primary diagnosis in column N omits the equally important secondary diagnosis of acral lentiginous melanoma stage Four. No factual conflict with what is stated, but the single-diagnosis framing is substantially incomplete.",
+    "error": null
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "7103-2025.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__7103-2025.pdf.txt",
+    "rows": [
+      {
+        "row": 129,
+        "case": "7103-2025",
+        "N": "Endometrial Cancer EC IV.",
+        "O": "Metastatic to liver, retroperitoneal lymph nodes, axilla, and lumbar spine. Recurrence. Chemotherapy with Paclitaxel and Cisplatin (discontinued due to renal toxicity)."
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Endometrial cancer, stage Four (EC IV), metastatic",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "61 years old",
+      "CLINICAL_HISTORY": "Patient Alba Teresa Perez Zarate, 61 years old. In November 2016, diagnosed with infiltrating adenocarcinoma of the endometrium, endometrioid type, well-differentiated grade I, infiltrating more than 50% of the wall of the body and fundus of the uterus, extension to the isthmus, no infiltration of the endocervical canal, mild lymphovascular infiltration. Cervicitis with squamous metaplasia, atrophic ovaries, uterine tubes without abnormalities, vaginal mucosa without evidence of neoplasia, four lymph nodes without evidence of neoplasia. Received adjuvant radiotherapy (15 fractions). Disease-free period until recurrence of 4 years and 6 months. In September 2020, presented with pain in the left iliac fossa; CT scan showed retroperitoneal adenopathies and right iliac chain, left ureteral stenosis (at its mid portion), proximal hydroureter, moderate ipsilateral hydronephrosis, and a lesion at hepatic segment IV of 3.4 x 1.4 cm, hypodense. Renogram of October 1, 2020: right kidney normal appearance glomerular filtration rate 84%, left kidney glomerular filtration rate 16% without evidence of radiotracer excretion. Received chemotherapy with Paclitaxel plus Cisplatin (3 cycles), discontinued due to renal toxicity. Initiated liposomal Doxorubicin plus Bevacizumab (6 cycles); maintenance with Bevacizumab (end date unknown). PET-CT on February 24, 2023 showed disease progression; PET-CT on July 19, 2023 showed partial response. No information available regarding treatment from 2021 to September 2024; follow-up at IGSS Oncology. At time of private consultation, currently on chemotherapy with Paclitaxel plus Gemcitabine (3 cycles to date). Patient not a candidate for platinum-based therapy due to renal toxicity.",
+      "SYMPTOMS": "Pain in the left iliac fossa (September 2020 recurrence); transvaginal bleeding (initial presentation 2016)",
+      "DISEASE_SEVERITY": "Stage Four metastatic endometrial cancer with disease progression documented on PET-CT; patient has exhausted platinum-based therapy due to renal toxicity; disease described as evolved and life-threatening without adequate treatment",
+      "FUNCTIONAL_LIMITATIONS": "Karnofsky performance scale of 90 points (adequate functional status)",
+      "COMORBIDITIES": "Renal toxicity (contraindication to platinum-based chemotherapy)",
+      "PRIOR_TREATMENTS": "Radiotherapy (adjuvant, 15 fractions, 2016); Paclitaxel plus Cisplatin (3 cycles, discontinued due to renal toxicity, 2020); liposomal Doxorubicin plus Bevacizumab (6 cycles); maintenance Bevacizumab; Paclitaxel plus Gemcitabine (3 cycles, ongoing at time of consultation)",
+      "THERAPEUTIC_FAILURE": "Paclitaxel plus Cisplatin discontinued due to renal toxicity after 3 cycles. PET-CT of February 24, 2023 showed disease progression. The patient is not a candidate for platinum-based regimens due to renal toxicity. Current chemotherapy with Paclitaxel plus Gemcitabine had completed only 3 cycles with no reported response at the time of the private consultation.",
+      "BIOMARKERS": {
+        "Programmed Death-Ligand 1 %": "NOT FOUND",
+        "Microsatellite Instability status": "NOT FOUND",
+        "Tumor Mutational Burden": "NOT FOUND",
+        "Human Epidermal Growth Factor Receptor 2": "NOT FOUND",
+        "Epidermal Growth Factor Receptor": "NOT FOUND",
+        "Anaplastic Lymphoma Kinase": "NOT FOUND",
+        "ROS1": "NOT FOUND",
+        "KRAS": "NOT FOUND",
+        "B-Raf Proto-Oncogene": "NOT FOUND",
+        "others": "NOT FOUND"
+      },
+      "METASTASIS_SITES": "Liver (hepatic segment IV lesion 3.4 x 1.4 cm); retroperitoneal lymph nodes; left axillary lymph nodes; lumbar spine (L3 level)",
+      "MEDICAL_JUSTIFICATION": "Private oncologist Dr. Allan David Lopez Vasquez, colegiado 13,822, certified that the patient has a diagnosis of endometrial cancer stage Four (EC IV) with metastatic disease to the liver, retroperitoneal and axillary lymph nodes, and lumbar spine/L3. Given the history of disease recurrence, prior treatment lines, platinum intolerance, and the patient's adequate functional status (Karnofsky 90), the oncologist considered it necessary to initiate Keytruda (Pembrolizumab) 200 mg intravenous every 3 weeks until disease progression or unacceptable toxicity.",
+      "URGENCY": "Urgent; the patient expressed fear of losing her life due to disease evolution; the court found it is not necessary to require administrative exhaustion given the susceptibility and importance of the rights to life and health",
+      "RISK_DETERIORATION": "High; the patient stated that the treatments received had not produced improvement and the disease had evolved; the court found that without adequate treatment the disease would continue to progress",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "High; the patient expressed fear of losing her life; the court upheld the amparo protection based on the imminent risk to the patient's life and health",
+      "REQUESTED_TREATMENT": "Keytruda (Pembrolizumab) 200 mg intravenous every 3 weeks until disease progression or unacceptable toxicity",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Constitutional Court of Guatemala upheld the amparo granted in first instance by the Sixth Chamber of the Court of Appeals of Labor and Social Security. The Court held that the right to health, arising from the fundamental right to life, obligates the State through the IGSS to provide affiliates with the necessary medications, including those not on the basic list, when supported by qualified medical opinion. Applying the dispositivo principle, the Court privileged the patient's preference for the specific medication recommended by her private oncologist, under the responsibility of both patient and treating physician, and found that administrative and procurement constraints under the Law of State Contracting cannot serve as an obstacle to accessing the required medication. The Court ordered the IGSS to provide Pembrolizumab continuously to the patient, conduct a complete special medical evaluation, maintain integral medical assistance, and ensure uninterrupted supply of the medication, under penalty of a fine of two thousand quetzales in case of non-compliance within five days of receiving the enforcement order.",
+      "COURT_CITATIONS": "Articles 3, 93, 94, 100 of the Constitution of Guatemala; Article 12 of the International Covenant on Economic, Social and Cultural Rights; Article XI of the American Declaration of the Rights and Duties of Man; Articles 28(d) and 31 of the IGSS Organic Law; Law of Amparo, Exhibicion Personal y de Constitucionalidad, Articles 1, 5, 6, 8, 10, 42, 43, 45, 47, 60, 61, 63, 64, 66, 67, 149, 163(c), 185; Constitutional Court Agreement 1-2013, Articles 36 and 46; Expedientes 4279-2024, 6258-2024, 8937-2024, 3533-2024, 6429-2024, 7692-2024, 7516-2024, 1278-2024, 3606-2024, 4615-2023, 1749-2024, 3741-2024, 3972-2023, 1472-2023, 4696-2023, 1058-2023, 3069-2023, 6805-2023"
+    },
+    "missing_from_no": "The following information present in the document is absent from columns N and O: (1) patient's age (61 years); (2) detailed clinical history beginning in 2016, including the histopathological characteristics of the original tumor (endometrioid type, well-differentiated grade I, lymphovascular infiltration); (3) radiotherapy as adjuvant treatment; (4) disease-free period of 4 years and 6 months; (5) liposomal Doxorubicin plus Bevacizumab and maintenance Bevacizumab; (6) PET-CT findings showing disease progression in February 2023 and partial response in July 2023; (7) the patient's current Paclitaxel plus Gemcitabine regimen at time of amparo; (8) Karnofsky performance status of 90; (9) specific metastatic sites: left axillary lymph nodes and L3 lumbar spine; (10) the prescribing oncologist's identity and reasoning.",
+    "possibly_incorrect": "Column O states 'Chemotherapy with Paclitaxel and Cisplatin (discontinued due to renal toxicity).' The document confirms this is accurate. However, column O does not mention additional chemotherapy lines (liposomal Doxorubicin plus Bevacizumab, Bevacizumab maintenance, Paclitaxel plus Gemcitabine) which were also administered. The metastatic sites in column O ('liver, retroperitoneal lymph nodes, axilla, and lumbar spine') match the document. No factual conflicts detected.",
+    "error": null
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "7276-2025.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__7276-2025.pdf.txt",
+    "rows": [
+      {
+        "row": 130,
+        "case": "7276-2025",
+        "N": "Breast Cancer Stage IV",
+        "O": "Tumor Mutational Burden (TMB) of 37.01 mut/Mb. The case file details an exhaustive list of failed treatments administered by the IGSS: Doxorubicin, Cyclophosphamide, Paclitaxel, Carboplatin, Gemcitabine, Docetaxel, and hormonal therapy (Abemaciclib and Letrozole)."
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Breast cancer, stage Four, triple-negative, metastatic",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "68 years old (at the time of the amparo filing in May 2025)",
+      "CLINICAL_HISTORY": "Patient Gicela Bazini Porras de Vidal, affiliated with the IGSS. In the year 2023, diagnosed with 'breast cancer stage Four triple negative'. Received multiple lines of chemotherapy including doxorubicin/cyclophosphamide, paclitaxel/carboplatin, gemcitabine, and docetaxel, as well as hormonal therapy with abemaciclib and letrozole, without obtaining a favorable health response. A molecular test was performed detecting a Tumor Mutational Burden of 37.01 mut/Mb. The patient's private oncologist, Dr. Maria Alejandra Castillo Zamora, certified that the patient has a diagnosis of metastatic breast cancer and recommended Pembrolizumab. The patient submitted a written request to the IGSS Subgerencia de Prestaciones en Salud on May 19, 2025, but received no response before filing the amparo action on May 20, 2025. The court noted that the patient is 68 years old and therefore subject to enhanced state protection as a senior adult.",
+      "SYMPTOMS": "NOT FOUND",
+      "DISEASE_SEVERITY": "Stage Four triple-negative metastatic breast cancer; disease described as grave (severe), threatening severe harm if not adequately treated; patient failed multiple lines of chemotherapy and hormonal therapy without favorable response; advanced age (68 years) entails enhanced vulnerability and state protection",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Doxorubicin plus Cyclophosphamide; Paclitaxel plus Carboplatin; Gemcitabine; Docetaxel; hormonal therapy with Abemaciclib plus Letrozole",
+      "THERAPEUTIC_FAILURE": "All administered chemotherapy regimens (doxorubicin/cyclophosphamide, paclitaxel/carboplatin, gemcitabine, docetaxel) and hormonal therapy (abemaciclib and letrozole) failed to produce a favorable health response. A molecular test was then performed which detected a Tumor Mutational Burden of 37.01 mut/Mb, leading the private oncologist to recommend Pembrolizumab as the next therapeutic option.",
+      "BIOMARKERS": {
+        "Programmed Death-Ligand 1 %": "NOT FOUND",
+        "Microsatellite Instability status": "NOT FOUND",
+        "Tumor Mutational Burden": "37.01 mut/Mb",
+        "Human Epidermal Growth Factor Receptor 2": "NOT FOUND",
+        "Epidermal Growth Factor Receptor": "NOT FOUND",
+        "Anaplastic Lymphoma Kinase": "NOT FOUND",
+        "ROS1": "NOT FOUND",
+        "KRAS": "NOT FOUND",
+        "B-Raf Proto-Oncogene": "NOT FOUND",
+        "others": "Triple-negative breast cancer (negative for estrogen receptor, progesterone receptor, and Human Epidermal Growth Factor Receptor 2, inferred from 'triple negative' designation)"
+      },
+      "METASTASIS_SITES": "NOT FOUND (document states 'metastatic breast cancer' in the medical certification but does not specify particular metastatic sites)",
+      "MEDICAL_JUSTIFICATION": "Private oncologist Dr. Maria Alejandra Castillo Zamora, oncóloga médica, colegiado 13,888, certified that she evaluated the case of the patient and that the patient has a diagnosis of metastatic breast cancer; she considered that the patient currently requires treatment with Keytruda (Pembrolizumab) 200 mg intravenous every 3 weeks or 400 mg intravenous every 6 weeks until the presentation of unacceptable adverse events or clinical or radiological disease progression according to subsequent medical criteria and evaluations. The Tumor Mutational Burden of 37.01 mut/Mb supports the use of immunotherapy. Pembrolizumab is a monoclonal antibody that blocks the PD-1 protein, which prevents T-cells from attacking cancer cells; it is described as up to fifty thousand times more effective for the treatment of the disease, with significantly fewer adverse effects compared to other drugs.",
+      "URGENCY": "Urgent; the patient submitted an administrative request but received no response; the court held that given the susceptibility and importance of the rights to life and health, it is not necessary to require administrative exhaustion or waiting for administrative resolution, as delay in resolving such petitions puts the patient's health and life at risk",
+      "RISK_DETERIORATION": "High; all previous treatment lines failed; disease continues to evolve; further deterioration is expected without the requested medication",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "High; the court found that the right to life is in imminent risk given the grave disease and the failure of all previous treatments; the court specifically emphasized that the patient is 68 years old and subject to reinforced state protection",
+      "REQUESTED_TREATMENT": "Keytruda (Pembrolizumab) 200 mg intravenous every 3 weeks or 400 mg intravenous every 6 weeks, until the presentation of unacceptable adverse events or clinical or radiological disease progression according to subsequent medical criteria and evaluations",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Constitutional Court of Guatemala confirmed the first-instance amparo ruling granting Pembrolizumab to the patient and dismissed the IGSS appeal. The Court held that the rights to life and health are fundamental, and that the IGSS, as the entity responsible for social security by constitutional mandate, must provide affiliates with the medications recommended by their qualified treating physicians, including medications not on the basic list. The Court applied the dispositivo principle to privilege the patient's preference for Pembrolizumab, supported by the medical certification and prescription of a specialized oncologist, under the responsibility of both the patient and her treating physician. Administrative arguments regarding the Law of State Contracting and the prohibition on purchasing specific branded medications were rejected, as the IGSS must resolve procurement through its available administrative mechanisms and cannot use procedural or economic constraints to deny access to constitutionally protected rights. The Court also noted the patient's age of 68 years as conferring reinforced constitutional protection as a senior adult, and ordered the IGSS to provide the medication continuously, conduct a complete medical evaluation, ensure uninterrupted supply, and comply within five days under penalty of a fine of two thousand quetzales to each member of the IGSS Board of Directors.",
+      "COURT_CITATIONS": "Articles 1, 2, 3, 93, 94, 95, 100 of the Constitution of Guatemala; Article 12 of the International Covenant on Economic, Social and Cultural Rights; Article XI of the American Declaration of the Rights and Duties of Man; Articles 28(d) and 31 of the IGSS Organic Law; Law of Amparo, Exhibicion Personal y de Constitucionalidad, Articles 1, 5, 6, 8, 49, 50, 60, 61, 62, 63, 64, 149, 163(c), 185; Constitutional Court Agreement 1-2013, Articles 35, 36, 46; Expedientes 1752-2024, 4160-2024, 4847-2024, 6246-2023, 6798-2023, 5880-2022, 6156-2024, 6579-2024, 3742-2025, 4283-2024, 6419-2024, 6720-2024, 6156-2024, 1244-2024, 2130-2024, 6927-2024, 4275-2024, 4304-2024, 1867-2024, 8274-2024"
+    },
+    "missing_from_no": "The following information is present in the document but absent from columns N and O: (1) patient's age (68 years) and the legal significance of senior adult status conferring reinforced state protection; (2) the specific year of diagnosis (2023); (3) that the triple-negative designation means the tumor is negative for estrogen receptor, progesterone receptor, and Human Epidermal Growth Factor Receptor 2; (4) the description of Pembrolizumab's mechanism of action (PD-1 blocking antibody); (5) the fact that the patient submitted an unanswered formal administrative request to the IGSS before filing the amparo; (6) the prescribing oncologist's full identity (Dr. Maria Alejandra Castillo Zamora, colegiado 13,888); (7) the precise dosing options (200 mg every 3 weeks or 400 mg every 6 weeks); (8) the IGSS appeal arguments and the court's point-by-point responses.",
+    "possibly_incorrect": "Column N states 'Breast Cancer Stage IV' which matches the document. Column O correctly identifies the Tumor Mutational Burden of 37.01 mut/Mb. However, column O attributes the treatment list to 'the IGSS' (administered by the IGSS), while the document is ambiguous — the patient describes having received 'multiple lines of treatment with chemotherapies' without clearly distinguishing which were IGSS versus private. The document does state the IGSS provides medicines per its institutional oncologist, but the specific list of failed treatments in column O (doxorubicin, cyclophosphamide, paclitaxel, carboplatin, gemcitabine, docetaxel, abemaciclib, letrozole) comes from the patient's own account in her amparo petition and is described as treatments she received, not exclusively IGSS-administered. This attribution to the IGSS specifically may be partially incorrect. Also, note that abemaciclib and letrozole are typically used for hormone receptor-positive breast cancer, not triple-negative; this combination with a triple-negative diagnosis warrants attention, though it is what the document states.",
+    "error": null
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2024-04-02_(08350-2024) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2024-04-02_(08350-2024) .pdf.txt",
+    "rows": [
+      {
+        "row": 155,
+        "case": "08350 - 2024",
+        "N": "Left breast cancer cT2 cN1 M0 triple negative",
+        "O": "Neoadjuvant therapy (before surgery), combined with chemotherapy."
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Left breast cancer, triple-negative, cT2 cN1 M0, early stage",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "68 years old",
+      "CLINICAL_HISTORY": "Patient is a female senior adult of 68 years, affiliated with the Caja Costarricense de Seguro Social (CCSS). Diagnosed with early triple-negative left breast cancer cT2cN1M0. Her treating physician presented the case at the Hospital Mexico Oncology session, where the recommendation was to use pembrolizumab in neoadjuvant combination with chemotherapy including carboplatin, paclitaxel, epirubicin, and cyclophosphamide. On September 8, 2023, the treating physician submitted the official request for pembrolizumab authorization (200 mg IV every 3 weeks, for 6 months). The request was submitted to the Central Pharmacotherapy Committee (Comite Central de Farmacoterapia, CCF), which analyzed the case in session number 2024-4 on January 24, 2024, and denied authorization through official communication GM-CCF-562-2024 of February 1, 2024, citing lack of complete health technology assessment, concerns about cost-effectiveness and institutional sustainability. The patient also has hypertension and diabetes mellitus.",
+      "SYMPTOMS": "NOT FOUND",
+      "DISEASE_SEVERITY": "Early-stage triple-negative left breast cancer cT2cN1M0; high-risk profile based on triple-negative status; no metastatic disease documented; neoadjuvant (pre-surgical) intent with curative purpose",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "Hypertension (arterial); diabetes mellitus",
+      "PRIOR_TREATMENTS": "None specified prior to the neoadjuvant request; at the time of the amparo the patient was under the care of Dr. Jorge Chaves in oncology who had requested pembrolizumab",
+      "THERAPEUTIC_FAILURE": "NOT FOUND (the case concerns a neoadjuvant treatment request before surgery; no prior oncological treatments are documented as having failed)",
+      "BIOMARKERS": {
+        "Programmed Death-Ligand 1 %": "NOT FOUND (the CCSS technical report notes that the Programmed Death-Ligand 1 status was not assessed at the time of the original non-LOM request for case 00087-2024, but no specific reference to Programmed Death-Ligand 1 testing for this patient is found in this file)",
+        "Microsatellite Instability status": "NOT FOUND",
+        "Tumor Mutational Burden": "NOT FOUND",
+        "Human Epidermal Growth Factor Receptor 2": "Negative (implied by triple-negative designation)",
+        "Epidermal Growth Factor Receptor": "NOT FOUND",
+        "Anaplastic Lymphoma Kinase": "NOT FOUND",
+        "ROS1": "NOT FOUND",
+        "KRAS": "NOT FOUND",
+        "B-Raf Proto-Oncogene": "NOT FOUND",
+        "others": "Estrogen receptor negative; progesterone receptor negative (implied by triple-negative designation)"
+      },
+      "METASTASIS_SITES": "NOT FOUND (early-stage disease, M0 — no metastases)",
+      "MEDICAL_JUSTIFICATION": "The treating oncologist Dr. Jorge Chaves Porras requested pembrolizumab under the KEYNOTE-522 study evidence, showing that pembrolizumab in neoadjuvant combination with chemotherapy increases event-free survival and pathological complete response rates in high-risk early triple-negative breast cancer. The Hospital Mexico Oncology Medical Service supported the use of pembrolizumab given the evidence that it could increase invasive disease-free survival and increase the probability of cure. The Forensic Medical Department of the Judicial Investigation Agency (OIJ), through expert dictamen medico legal number 2024-0002145 of March 21, 2024, concluded that preoperative pembrolizumab is the most beneficial treatment for the patient because there is scientific evidence demonstrating an increase in pathological complete response when neoadjuvant therapy combined with chemotherapy is used.",
+      "URGENCY": "Urgent; the Constitutional Chamber ordered immediate provision of the medication upon notification of the judgment",
+      "RISK_DETERIORATION": "High; delaying neoadjuvant immunotherapy in high-risk early triple-negative breast cancer risks disease progression and reduces the probability of achieving pathological complete response and cure",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "High; the Constitutional Chamber found that the denial of the medication violated the patient's right to health, and the forensic expert confirmed the treatment would benefit the patient",
+      "REQUESTED_TREATMENT": "Pembrolizumab 200 mg intravenous, every 3 weeks, for 6 months, in neoadjuvant combination with chemotherapy (carboplatin plus paclitaxel, followed by epirubicin plus cyclophosphamide)",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Constitutional Chamber of the Supreme Court of Justice of Costa Rica declared the amparo with merit (con lugar) and ordered the CCSS to immediately provide pembrolizumab to the patient. The Court applied its established jurisprudence that when the clinical circumstances so require, it resorts to a neutral third criterion — evaluation by the Forensic Medical Department of the OIJ — to determine whether a denial of a non-LOM medication violates the right to health. The forensic expert clearly established that pembrolizumab employed preoperatively is the most beneficial treatment for the patient, as scientific evidence demonstrates an increase in pathological complete response with neoadjuvant immunotherapy combined with chemotherapy. On that basis, the Court found a violation of the patient's right to health resulting from the CCF's denial, and granted the amparo. The Court conditioned provision of the medication on strict supervision by the treating physician and adequate control of adverse effects. The CCSS was condemned to pay costs, damages, and prejudices.",
+      "COURT_CITATIONS": "Article 73 of the Costa Rican Constitution; Articles 10 and 48 of the Costa Rican Constitution; Article 71 of the Law of Constitutional Jurisdiction (Ley de la Jurisdiccion Constitucional); Article 4 of the General Law of Public Administration (Ley General de la Administracion Publica); Article 113 of the Ley General de la Administracion Publica; KEYNOTE-522 study (Schmid et al., 2020 and 2022, New England Journal of Medicine); Sala Constitucional judgment number 2017-018660 of November 21, 2017; Dictamen medico legal OIJ number 2024-0002145 of March 21, 2024; Acuerdo del Comite Central de Farmacoterapia GM-CCF-562-2024 of February 1, 2024"
+    },
+    "missing_from_no": "The following information present in the document is absent from columns N and O: (1) patient's age (68 years) and her status as a senior adult with double vulnerability; (2) comorbidities of hypertension and diabetes mellitus; (3) the institutional oncology recommendation and the specific chemotherapy backbone (carboplatin plus paclitaxel, epirubicin plus cyclophosphamide); (4) the CCF denial and its technical reasoning, including cost-effectiveness analysis, KEYNOTE-522 data, and sustainability concerns; (5) the detailed KEYNOTE-522 study results discussed in the reports; (6) the forensic OIJ dictamen number 2024-0002145 and its conclusion; (7) the court's three-stage decision-making framework (treating physician, CCF, OIJ forensic expert); (8) the condemnation to costs and damages.",
+    "possibly_incorrect": "Column N correctly states 'Left breast cancer cT2 cN1 M0 triple negative'. Column O states 'Neoadjuvant therapy (before surgery), combined with chemotherapy', which accurately reflects the proposed treatment context but describes it as if it were already underway, while the document shows it was the requested (not yet administered) treatment. This is slightly misleading but not a factual error about the diagnosis. No material conflicts detected.",
+    "error": null
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2024-01-09_(00087-2024) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2024-01-09_(00087-2024) .pdf.txt",
+    "rows": [
+      {
+        "row": 156,
+        "case": "00087 - 2024",
+        "N": "invasive ductal carcinoma of the left breast, triple-negative, cT2N0M0, stage IIB, undergoing neoadjuvant chemotherapy (curative intent)",
+        "O": "Currently receiving adjuvant treatment with platins and taxanes, which has produced adverse effects from chemotherapy use. The patient previously received therapy with epirubicin and cyclophosphamide."
+      },
+      {
+        "row": 157,
+        "case": "01800 - 2024",
+        "N": "Not about pembrolizumab",
+        "O": "Not about pembrolizumab"
+      },
+      {
+        "row": 194,
+        "case": "21436 - 2024",
+        "N": "Not about pembrolizumab",
+        "O": ""
+      },
+      {
+        "row": 195,
+        "case": "19632 - 2024",
+        "N": "Not about pembrolizumab",
+        "O": ""
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Invasive ductal carcinoma of the left breast, triple-negative, cT2 N0 M0, stage IIB, high risk",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "58 years old",
+      "CLINICAL_HISTORY": "Patient is a female of 58 years of age, with a history of hypertension, diagnosed with triple-negative high-risk breast cancer cT2N0M0 stage IIB. At the time of the amparo filing (November 19, 2023), the patient was receiving neoadjuvant chemotherapy with taxanes and platinum agents (platinos and taxanos), and had previously received epirubicin and cyclophosphamide. The patient presented adverse effects from chemotherapy. The treating physician Dr. Alicia Van Der Laat Munoz had submitted a request for pembrolizumab non-LOM authorization to the Hospital Mexico Local Pharmacotherapy Committee on October 11, 2023 (office HM-DG-CLFT-2983-2023). The CCF analyzed the case in session 2023-45 on October 18, 2023, and denied authorization through office GM-CCF-6042-2023 of October 26, 2023, stating that pembrolizumab has demonstrated benefit only in event-free survival without evidence of overall survival or quality of life benefit, that the supporting study (KEYNOTE-522) had not yet concluded, and that the patient had institutional therapeutic options available. The CCSS technical report noted that: the patient had already received prior treatment (epirubicin and cyclophosphamide), which disqualified her from the KEYNOTE-522 trial inclusion criteria (required treatment-naive patients); the Programmed Death-Ligand 1 status had not been assessed; clinical condition may have varied since the request.",
+      "SYMPTOMS": "Adverse effects from chemotherapy",
+      "DISEASE_SEVERITY": "High-risk early triple-negative breast cancer stage IIB (cT2N0M0); patient experiencing adverse effects from ongoing platinum and taxane chemotherapy; described as curative-intent neoadjuvant treatment",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "Hypertension",
+      "PRIOR_TREATMENTS": "Epirubicin plus Cyclophosphamide (prior line); currently receiving platinum agents plus taxanes (ongoing at time of amparo)",
+      "THERAPEUTIC_FAILURE": "The patient received epirubicin and cyclophosphamide without documented complete response, leading to a change to platinum plus taxane regimen. Adverse effects from the platinum plus taxane chemotherapy are noted. The CCSS itself noted that the patient already received prior treatment, raising concerns about extrapolating KEYNOTE-522 results.",
+      "BIOMARKERS": {
+        "Programmed Death-Ligand 1 %": "NOT FOUND (not assessed at time of the non-LOM request, as noted in the CCSS technical report)",
+        "Microsatellite Instability status": "NOT FOUND",
+        "Tumor Mutational Burden": "NOT FOUND",
+        "Human Epidermal Growth Factor Receptor 2": "Negative (implied by triple-negative designation)",
+        "Epidermal Growth Factor Receptor": "NOT FOUND",
+        "Anaplastic Lymphoma Kinase": "NOT FOUND",
+        "ROS1": "NOT FOUND",
+        "KRAS": "NOT FOUND",
+        "B-Raf Proto-Oncogene": "NOT FOUND",
+        "others": "Estrogen receptor negative; progesterone receptor negative (implied by triple-negative designation)"
+      },
+      "METASTASIS_SITES": "NOT FOUND (M0 — no metastases; early-stage disease)",
+      "MEDICAL_JUSTIFICATION": "Treating oncologist Dr. Alicia Van Der Laat Munoz requested pembrolizumab based on evidence that it could improve pathological complete response and reduce risk of recurrence in high-risk early triple-negative breast cancer, citing the KEYNOTE-522 trial. The OIJ Forensic Medical Department, through dictamen medico legal number 2023-0009706 of December 28, 2023, concluded that preoperative pembrolizumab is the most beneficial treatment for the patient, with the caveat that it must be applied under strict supervision of the treating physicians and with adequate control of adverse effects.",
+      "URGENCY": "Urgent; the Constitutional Chamber ordered immediate provision of the medication upon notification of the judgment",
+      "RISK_DETERIORATION": "High; delays in neoadjuvant immunotherapy in high-risk triple-negative breast cancer risk disease progression and reduced probability of cure",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "High; the Constitutional Chamber found a violation of the right to health and the OIJ forensic expert confirmed benefit of the treatment",
+      "REQUESTED_TREATMENT": "Pembrolizumab (non-LOM) in neoadjuvant combination with chemotherapy, in the dose and for the duration recommended by the treating physician",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Constitutional Chamber of the Supreme Court of Justice of Costa Rica declared the amparo with merit and ordered the CCSS to immediately provide pembrolizumab. The Court applied its established jurisprudence that when clinical circumstances so require, it resorts to a neutral third criterion — the OIJ Forensic Medical Department evaluation — to resolve disputes between the treating physician's recommendation and the CCF's denial. The forensic expert determined that preoperative pembrolizumab is the most beneficial treatment for the patient. On that basis, the Court found that the CCF's denial violated the patient's right to health and granted the amparo, ordering the CCSS Medical Manager and CCF Coordinator to immediately ensure provision of the medication. The CCSS was condemned to pay costs, damages, and prejudices.",
+      "COURT_CITATIONS": "Article 73 of the Costa Rican Constitution; Articles 10 and 48 of the Costa Rican Constitution; Article 45 of the Ley de la Jurisdiccion Constitucional; Article 71 of the Ley de la Jurisdiccion Constitucional; KEYNOTE-522 study (Schmid et al., 2020 and 2022); Sala Constitucional judgment number 2017-018660 of November 21, 2017; Dictamen medico legal OIJ number 2023-0009706 of December 28, 2023; CCF acuerdo GM-CCF-6042-2023 of October 26, 2023"
+    },
+    "missing_from_no": "The following information present in the document is absent from columns N and O: (1) patient's age (58 years); (2) comorbidity of hypertension; (3) that the Programmed Death-Ligand 1 status was not assessed and this was raised as a technical concern by the CCSS; (4) the detailed KEYNOTE-522 study data and the CCSS's specific argument that the patient did not meet the study's inclusion criteria (treatment-naive requirement) since she had already received epirubicin and cyclophosphamide; (5) the fact that the patient's clinical condition may have changed since the non-LOM request; (6) the name of the treating oncologist (Dr. Alicia Van Der Laat Munoz); (7) the OIJ forensic dictamen number 2023-0009706 and its conclusion; (8) the condemnation to costs, damages, and prejudices.",
+    "possibly_incorrect": "Column N states 'stage IIB' while the document describes the staging as cT2N0M0. In the TNM staging system, cT2N0M0 corresponds to stage IIA, not stage IIB (stage IIB requires cT2N1M0 or cT3N0M0). This is a potential staging error in column N. Additionally, column O describes the patient as 'Currently receiving adjuvant treatment with platins and taxanes' — however, the document describes this as neoadjuvant (pre-surgical) chemotherapy. The use of 'adjuvant' (post-surgery) versus 'neoadjuvant' (pre-surgery) in column O appears to be an error; the document consistently describes the treatment as neoadjuvant/curative-intent before surgery. Cases 01800-2024, 21436-2024, and 19632-2024 are confirmed in the document as not pertaining to pembrolizumab; the document only contains resolution 00087-2024.",
+    "error": null
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2023-03-31_(07660-2023) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2023-03-31_(07660-2023) .pdf.txt",
+    "rows": [
+      {
+        "row": 158,
+        "case": "29124 - 2023",
+        "N": "Not about pembrolizumab",
+        "O": "Not about pembrolizumab"
+      },
+      {
+        "row": 161,
+        "case": "10761 - 2023",
+        "N": "Not about pembrolizumab",
+        "O": ""
+      },
+      {
+        "row": 162,
+        "case": "07660 - 2023",
+        "N": "Metastatic clear cell renal cancer stage IV",
+        "O": "NI"
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Clear cell renal carcinoma, metastatic, stage Four",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "60 years old (the recurrente describes the patient as 60 years; the CCSS reports state 59 years at the time of diagnosis in July 2022)",
+      "CLINICAL_HISTORY": "Patient is a male, approximately 59-60 years of age, with a history of hypertension. Diagnosed in July 2022 as a carrier of clear cell renal carcinoma. A radical nephrectomy was performed. Extension studies reported metastatic disease in the lung and liver. The treating oncologist Dr. Natalia Jimenez Brenes, at the Hospital San Vicente de Paul, submitted a request for pembrolizumab plus axitinib as first-line metastatic treatment, decided jointly with an interdisciplinary CCSS team. The request was submitted to the Local Pharmacotherapy Committee on January 29, 2023, and forwarded to the Central Pharmacotherapy Committee on February 3, 2023. The CCF denied authorization on February 23, 2023, through acuerdo GM-CCF-0782-2023, stating there is no evidence of quality of life improvement and that adverse effects with pembrolizumab-axitinib are superior, including an FDA precaution regarding axitinib and cardiac failure risk.",
+      "SYMPTOMS": "NOT FOUND",
+      "DISEASE_SEVERITY": "Stage Four metastatic clear cell renal carcinoma with metastases to the lung and liver; first-line metastatic treatment setting; disease confirmed as requiring systemic therapy after radical nephrectomy",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "Hypertension (arterial)",
+      "PRIOR_TREATMENTS": "Radical nephrectomy (surgical treatment for primary renal tumor)",
+      "THERAPEUTIC_FAILURE": "NOT FOUND (the pembrolizumab plus axitinib request is for first-line metastatic treatment; no prior systemic oncological therapy documented as having failed)",
+      "BIOMARKERS": {
+        "Programmed Death-Ligand 1 %": "NOT FOUND",
+        "Microsatellite Instability status": "NOT FOUND",
+        "Tumor Mutational Burden": "NOT FOUND",
+        "Human Epidermal Growth Factor Receptor 2": "NOT FOUND",
+        "Epidermal Growth Factor Receptor": "NOT FOUND",
+        "Anaplastic Lymphoma Kinase": "NOT FOUND",
+        "ROS1": "NOT FOUND",
+        "KRAS": "NOT FOUND",
+        "B-Raf Proto-Oncogene": "NOT FOUND",
+        "others": "Clear cell histology of renal carcinoma"
+      },
+      "METASTASIS_SITES": "Lung; liver",
+      "MEDICAL_JUSTIFICATION": "The treating oncologist Dr. Natalia Jimenez Brenes requested the combination of pembrolizumab plus axitinib as the most beneficial first-line treatment for metastatic clear cell renal carcinoma, supported by the KEYNOTE-426 study. The OIJ Forensic Medical Department oncology consultant, through dictamen medico legal number 2023-0002032 of March 16, 2023, concluded that: combined treatment with pembrolizumab and axitinib is the most beneficial option for this patient; the therapy confers a benefit in overall survival and response rates with tolerable safety and adverse effects as demonstrated by the KEYNOTE-426 study; the recommendation is found in both European and North American guidelines; it received a clinical benefit score of 3 out of 5 on the European Society for Medical Oncology Magnitude of Clinical Benefit Scale (ESMO-MCBS) and a score of 48 on the ASCO Values Framework (the highest comparative score versus other treatments in metastatic renal cancer); and the combination is adequate and potentially beneficial compared to sunitinib.",
+      "URGENCY": "Urgent; the Constitutional Chamber ordered immediate authorization of the medication upon notification of the judgment",
+      "RISK_DETERIORATION": "High; untreated metastatic renal carcinoma with lung and liver metastases carries high risk of rapid disease progression",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "High; the Constitutional Chamber found that the denial of the medication by the CCF violated the patient's right to health; the forensic expert confirmed the benefit of combined treatment",
+      "REQUESTED_TREATMENT": "Pembrolizumab 200 mg intravenous every 21 days plus Axitinib 5 mg twice daily for 6 months (first-line metastatic treatment)",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Constitutional Chamber of the Supreme Court of Justice of Costa Rica declared the amparo with merit and ordered the CCSS to immediately authorize combined supply of pembrolizumab and axitinib. The Court established that the patient's treating physician and interdisciplinary team had requested pembrolizumab plus axitinib as first-line metastatic therapy; the CCF denied authorization citing insufficient evidence and adverse effects risks; and the OIJ forensic medical expert concluded that combined pembrolizumab-axitinib treatment is the most beneficial option for the patient, conferring a benefit in overall survival with tolerable adverse effects as demonstrated by KEYNOTE-426, and recommended in both European and North American oncology guidelines. The Court found sufficient proof to sustain the recurrente's claim and concluded that the CCF's refusal violated the patient's right to health. The CCSS was condemned to pay costs, damages, and prejudices.",
+      "COURT_CITATIONS": "Article 71 of the Ley de la Jurisdiccion Constitucional; KEYNOTE-426 study; ESMO-MCBS (European Society for Medical Oncology Magnitude of Clinical Benefit Scale); ASCO Values Framework; Dictamen medico legal OIJ number 2023-0002032 of March 16, 2023; CCF acuerdo GM-CCF-0782-2023 of February 23, 2023"
+    },
+    "missing_from_no": "Column O is marked 'NI' (no information). The document contains significant additional information absent from columns N and O: (1) patient's age (59-60 years) and sex (male); (2) comorbidity of hypertension; (3) date of diagnosis (July 2022); (4) the surgical history (radical nephrectomy); (5) specific metastatic sites (lung and liver); (6) the fact that this is a first-line metastatic treatment request (not a later line); (7) the name of the treating oncologist (Dr. Natalia Jimenez Brenes) and that the treatment decision was made with an interdisciplinary CCSS team; (8) the CCF denial acuerdo GM-CCF-0782-2023 and its technical reasoning including FDA precaution on axitinib and cardiac failure; (9) the detailed KEYNOTE-426 evidence including ESMO and ASCO scores cited in the forensic dictamen; (10) the fact that axitinib was requested alongside pembrolizumab (not pembrolizumab alone); (11) comparison to sunitinib as the alternative. Cases 29124-2023 and 10761-2023 are confirmed in the document as not pertaining to pembrolizumab; the document only contains resolution 07660-2023.",
+    "possibly_incorrect": "Column N states 'Metastatic clear cell renal cancer stage IV', which correctly reflects the diagnosis. No factual conflicts are detected between the document and column N. Column O is simply 'NI' and therefore cannot be evaluated for accuracy.",
+    "error": null
+  }
+]

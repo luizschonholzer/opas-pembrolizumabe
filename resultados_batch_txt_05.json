@@ -1,0 +1,500 @@
+[
+  {
+    "country": "Guatemala",
+    "pdf_name": "6697-2025- Guatemala.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__6697-2025- Guatemala.pdf.txt",
+    "rows": [
+      {
+        "row": 100,
+        "case": "6697/2025",
+        "N": "Hodgkin lymphoma of nodular sclerosis type, clinical stage IV with pulmonary and lymph node metastases",
+        "O": "NI"
+      }
+    ],
+    "status": "success",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Hodgkin lymphoma of nodular sclerosis type, refractory to chemotherapy, clinical Stage Four with pulmonary metastasis and lymph node metastasis",
+      "SECONDARY_DIAGNOSES": "Ischemic cerebrovascular event (diagnosed December 2024)",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "NOT FOUND — age not explicitly stated in the document",
+      "CLINICAL_HISTORY": "Patient diagnosed with Hodgkin lymphoma in March 2020. First-line chemotherapy: 12 cycles from March 2021 to September 2021. Radiotherapy directed to the neck in November 2021. Second-line chemotherapy: 12 cycles from August 2022 to May 2023. Radiotherapy directed to the pelvis in September 2022, completing in 5 fractions. PET-CT performed in May 2024 showed stable pulmonary metastasis and mediastinal lymph nodes, after which systemic chemotherapy treatment was initiated from June 2024 to November 2024, completing the last cycle in that date. In December 2024, the patient experienced a convulsive event requiring hospitalization at the modular hospital in zone 11 of the Social Security. A cerebral tomography revealed an ischemic cerebrovascular event. A staging tomography also showed a pulmonary mass suggestive of a metastatic infectious process. The most recent PET-CT, performed on December 11, 2024, reported: nodular infiltrate compromising the middle lobe of the pulmonary parenchyma with SUVmax of 7.2; retrosternal nodular image measuring 2.2 x 1.5 cm with SUVmax of 1.9; lymph node conglomerate in the right pre-hilar region measuring 1 x 1.3 cm with SUVmax of 2.4; and a nodule adjacent to the right atrium measuring 1 cm with SUVmax of 2.4.",
+      "SYMPTOMS": "Convulsive event; disease progression with new pulmonary and mediastinal nodular findings",
+      "DISEASE_SEVERITY": "Clinical Stage Four with pulmonary metastasis and lymph node metastasis; refractory disease after multiple chemotherapy lines and radiotherapy; PET-CT December 2024 showing active pulmonary, retrosternal and lymph node lesions",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "Ischemic cerebrovascular event (December 2024)",
+      "PRIOR_TREATMENTS": "First-line chemotherapy (unspecified regimen): 12 cycles, March 2021 to September 2021, outcome not specified; Radiotherapy to the neck: November 2021; Second-line chemotherapy (unspecified regimen): 12 cycles, August 2022 to May 2023; Radiotherapy to the pelvis: September 2022, 5 fractions; Third systemic chemotherapy line (unspecified regimen): June 2024 to November 2024, disease progression documented on PET-CT May 2024",
+      "THERAPEUTIC_FAILURE": "Disease remained active after three lines of chemotherapy and two radiotherapy courses. PET-CT of May 2024 showed stable metastatic lesions; PET-CT of December 11, 2024 reported new active nodular infiltrates and lymph node conglomerate findings consistent with ongoing disease activity. The treating physician describes the disease as refractory to chemotherapy.",
+      "BIOMARKERS": "NOT FOUND",
+      "METASTASIS_SITES": "Pulmonary parenchyma (middle lobe); retrosternal region; right pre-hilar lymph node region; adjacent to right atrium",
+      "MEDICAL_JUSTIFICATION": "The treating physician, Doctor Pedro Luis López Oseida, specialist in Internal Medicine and Oncology (colegiado number 19,416), issued a medical certificate on January 23, 2025, certifying the diagnosis of Hodgkin lymphoma of nodular sclerosis type, refractory to chemotherapy, clinical Stage Four with pulmonary and lymph node metastasis. Based on international guidelines and supported by clinical studies Keynote-204 and Keynote-087, the physician recommended Pembrolizumab (Keytruda) 200 mg intravenously every 3 weeks, with a maximum of 35 cycles or until progression or toxicity, to control disease progression and improve quality of life.",
+      "URGENCY": "The amparo was filed on January 31, 2025, and provisional amparo was granted. The treating physician indicated that the disease is serious and aggressive, making it unviable to require exhaustion of administrative proceedings prior to obtaining the requested drug. The court noted the certainty, imminence and specificity of the threat of non-provision.",
+      "RISK_DETERIORATION": "The treating physician certified that without the requested medication the disease would continue to progress. The medical certificate noted ongoing disease activity on PET-CT December 2024 after completion of all prior chemotherapy lines.",
+      "RISK_HOSPITALIZATION": "The patient had already required hospitalization in December 2024 for a convulsive event and was found to have an ischemic cerebrovascular event alongside disease progression.",
+      "RISK_DEATH": "The Corte de Constitucionalidad determined that failure to provide the medication put at imminent risk the fundamental rights to life and health of the applicant. The Ministerio Público stated that omitting provision of the medication could cause irreversible effects on the patient's health.",
+      "REQUESTED_TREATMENT": "Pembrolizumab (Keytruda), vial of 100 mg/4 ml; dose 200 mg administered by intravenous route every 3 weeks; duration until progression, toxicity, or completion of 35 cycles; first use of immunotherapy (patient had not received prior immunotherapy)",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Corte de Constitucionalidad confirmed the first-instance amparo ruling and denied the appeal of the Instituto Guatemalteco de Seguridad Social, establishing that the right to health is a fundamental right derived from the right to life, which the State must guarantee through the social security system. The court held that when a patient presents adequate medical support from a qualified treating physician, the dispositivo principle must prevail, privileging the patient's preference for a specific medication under the responsibility of the patient and the prescribing physician. The court further found that administrative arguments regarding the Ley de Contrataciones del Estado cannot override constitutional obligations to protect the fundamental rights to life and health of affiliates, and that the Instituto must obtain and supply the requested drug through whatever legal procurement mechanisms are available.",
+      "COURT_CITATIONS": "Constitución Política de la República de Guatemala, artículos 1°, 2°, 3°, 93, 94, 95 y 100; Ley de Amparo, Exhibición Personal y de Constitucionalidad, artículos 1°, 5°, 6°, 8°, 49, 50, 60, 61, 62, 63, 64, 149, 163 literal c), 179 y 185; Acuerdo 3-89 artículo 7 Bis; Acuerdo 1-2013 artículos 35, 36 y 46, todos de la Corte de Constitucionalidad; Corte IDH, Caso Manuela y otros Vs. El Salvador, Sentencia de 2 de noviembre de 2021, Serie C No. 441, párrafos 183, 184 y 185; Corte IDH, Caso Gonzales Lluy y otros Vs. Ecuador, Sentencia de 1 de septiembre de 2015, Serie C No. 298, párrafo 173; Corte IDH, Caso Hernández Vs. Argentina, Sentencia de 22 de noviembre de 2019, Serie C No. 395, párrafo 81; Corte IDH, Caso ANCEJUB-SUNAT Vs. Perú, Sentencia de 21 de noviembre de 2019, Serie C No. 394, párrafos 167 y 173; Comité de Derechos Económicos, Sociales y Culturales, Observación General No. 14, E/C.12/2000/4; Comité de Derechos Económicos, Sociales y Culturales, Observación General No. 19, E/C.12/GC/19; Expedientes de la Corte de Constitucionalidad: 15-2025, 437-2025, 1503-2025, 4160-2024, 4974-2024, 1115-2025, 4952-2024, 7314-2024, 7692-2024, 8155-2024, 7727-2024, 3332-2024, 4805-2024, 6497-2024, 8286-2024, 7064-2024, 7222-2024, 6386-2024, 4281-2024, 5114-2024, 6223-2024, 6909-2024, 6399-2024, 3332-2024; Pacto Internacional de Derechos Económicos, Sociales y Culturales, artículo 12; Declaración Americana sobre Derechos y Deberes del Hombre, artículo XI"
+    },
+    "missing_from_no": "Patient age not recorded; prior treatment regimen names (specific chemotherapy agents) not recorded; specific biomarkers not recorded; ECOG Performance Status not recorded; ischemic cerebrovascular event comorbidity not recorded; specific PET-CT findings from December 2024 not recorded; clinical studies Keynote-204 and Keynote-087 supporting the treatment recommendation not recorded",
+    "possibly_incorrect": "No conflicts detected — column N correctly identifies the diagnosis as Hodgkin lymphoma of nodular sclerosis type, clinical Stage Four with pulmonary and lymph node metastases, which matches the document exactly"
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "6313-2023 -  Guatemala.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__6313-2023 -  Guatemala.pdf.txt",
+    "rows": [
+      {
+        "row": 101,
+        "case": "6313-2023",
+        "N": "Pulmonary and lymph node involvement",
+        "O": "NI"
+      }
+    ],
+    "status": "success",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Malignant melanoma, metastatic, with metastases to lymph nodes and lungs; initial diagnosis: Acral invasive melanoma, Breslow 2 mm, Clark Level Four",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "NOT FOUND",
+      "CLINICAL_HISTORY": "The patient, Nery Jerónimo Solís Requena, was diagnosed with acral invasive melanoma Breslow 2mm Clark Level Four. He was treated with various drugs without positive effects. His private physician, Doctor César Estuardo Hernández Monroy, prescribed Pembrolizumab (Keytruda) due to the evolution of the disease to metastatic melanoma affecting lymph nodes and lungs. The amparo was filed on October 13, 2022.",
+      "SYMPTOMS": "NOT FOUND",
+      "DISEASE_SEVERITY": "Metastatic disease with lymph node and pulmonary involvement; the court and first-instance tribunal characterize the disease as serious with severe risk of harm if untreated",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Multiple drugs prescribed by the Instituto Guatemalteco de Seguridad Social without positive results (specific regimens not named in the document)",
+      "THERAPEUTIC_FAILURE": "The postulant stated he had been treated with various medications without positive effects. The first-instance tribunal noted the disease had progressed to metastatic stage involving lymph nodes and lungs despite prior treatment.",
+      "BIOMARKERS": "NOT FOUND",
+      "METASTASIS_SITES": "Lymph nodes; lungs (bilateral)",
+      "MEDICAL_JUSTIFICATION": "Doctor César Estuardo Hernández Monroy, oncologist (colegiado number 9,101), issued a medical certificate on August 19, 2022, and a prescription for Pembrolizumab (Keytruda) 2 vials of 100 mg for a total of 200 mg intravenously every 3 weeks for indefinite time, indicating that this treatment has demonstrated significant increases in progression-free survival and overall survival in previously untreated patients.",
+      "URGENCY": "The disease had evolved, making it unviable to require exhaustion of administrative proceedings. The first-instance tribunal granted provisional amparo immediately on October 13, 2022.",
+      "RISK_DETERIORATION": "The disease had progressed from initial melanoma to metastatic stage. Continued evolution would cause severe harm without adequate treatment.",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "The court determined that failure to provide the medication put at imminent risk the fundamental rights to life and health of the applicant.",
+      "REQUESTED_TREATMENT": "Pembrolizumab (Keytruda), 2 vials of 100 mg each; total dose 200 mg; administered by intravenous route; every 3 weeks; for indefinite time",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Corte de Constitucionalidad confirmed the first-instance amparo ruling and denied the appeal of the Instituto Guatemalteco de Seguridad Social, holding that the right to health is a fundamental right derived from the right to life that the State must guarantee through the social security system. The court held that when a patient presents adequate medical support from a qualified specialist, the dispositivo principle requires privileging the patient's drug preference under the responsibility of the patient and the prescribing physician. The court found that administrative arguments based on the Ley de Contrataciones del Estado cannot override constitutional obligations to protect the fundamental rights to life and health, and that the Instituto must supply the requested medication through appropriate procurement procedures.",
+      "COURT_CITATIONS": "Constitución Política de la República de Guatemala, artículos 2°, 93 y 94; Ley de Amparo, Exhibición Personal y de Constitucionalidad, artículos 8°, 10, 42, 43, 45, 49, 60, 61, 66, 67, 149, 156, 163 literal c), 185; Acuerdo 1-2013 artículos 35, 36 y 46 de la Corte de Constitucionalidad; Pacto Internacional de Derechos Económicos, Sociales y Culturales, artículo 12; Declaración Americana de Derechos y Deberes del Hombre, artículo XI; Expedientes de la Corte de Constitucionalidad: 5864-2022, 950-2023, 1611-2023, 6049-2021, 5060-2021, 3021-2021, 4399-2022, 2084-2022, 2122-2023, 7024-2021, 6073-2022, 950-2023, 3407-2022, 4503-2022, 1058-2023, 4506-2022, 5502-2022, 6073-2022, 6073-2022, 1569-2021, 7170-2022"
+    },
+    "missing_from_no": "Column N only states 'Pulmonary and lymph node involvement' which is incomplete — missing the full diagnosis of malignant metastatic melanoma and the initial diagnosis of acral invasive melanoma Breslow 2mm Clark Level Four; patient age missing; prior treatments missing; biomarkers missing; medical certificate details missing; clinical history of progression missing",
+    "possibly_incorrect": "Column N is substantially incomplete — it states only 'Pulmonary and lymph node involvement' without identifying the disease as malignant melanoma. The correct full diagnosis is: Malignant melanoma, metastatic, with metastases to lymph nodes and lungs (initial diagnosis: acral invasive melanoma Breslow 2mm Clark Level Four)"
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "6513-2024 - Guatemala.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__6513-2024 - Guatemala.pdf.txt",
+    "rows": [
+      {
+        "row": 102,
+        "case": "6513-2024",
+        "N": "Breast cancer clinical stage IV - estrogen receptor expression 0%, progesterone receptor 0%, Her2 without staining in neoplastic cells 0+, and positive PD-1 expression determined",
+        "O": "NI"
+      }
+    ],
+    "status": "success",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Breast cancer, clinical Stage Four, metastatic disease with significant cutaneous involvement; triple negative phenotype (estrogen receptor 0%, progesterone receptor 0%, Human Epidermal Growth Factor Receptor 2 score 0+)",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "60 years old",
+      "CLINICAL_HISTORY": "The patient, Luisa Argentina Ramírez Monterroso de Padilla, aged 60, was diagnosed with breast cancer clinical Stage Four. She has been suffering from the disease for several years. She was treated with different procedures and various medications without positive results and with secondary effects. Her private physician recommended Pembrolizumab (Keytruda) combined with Paclitaxel bound to albumin (Abraxane) after determining tumor phenotype through biopsy of metastatic lesions. The amparo was filed on November 24, 2023.",
+      "SYMPTOMS": "Significant cutaneous involvement from metastatic lesions",
+      "DISEASE_SEVERITY": "Clinical Stage Four breast cancer with metastatic disease and important cutaneous involvement; triple negative tumor phenotype; Programmed Death-Ligand 1 (Programmed Cell Death Protein 1) positive expression confirmed",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Multiple unspecified procedures and medications over several years without positive results and causing secondary effects (specific regimens not named in the document)",
+      "THERAPEUTIC_FAILURE": "The patient had been treated with various procedures and medications without positive results. The first-instance tribunal noted that the medications provided by the Instituto had not contributed to improving the patient's health.",
+      "BIOMARKERS": "Estrogen receptor: 0%; Progesterone receptor: 0%; Human Epidermal Growth Factor Receptor 2 (HER2): without staining in neoplastic cells, score 0+ (negative); Programmed Cell Death Protein 1 (PD-1 / Programmed Death-Ligand 1) expression: positive — confirmed by biopsy of metastatic lesions",
+      "METASTASIS_SITES": "Cutaneous (significant skin involvement from metastatic lesions)",
+      "MEDICAL_JUSTIFICATION": "Doctor Juan Francisco Alvarado Muñoz, oncologist (colegiado number 14,803), issued a medical certificate stating that the patient has breast cancer clinical Stage Four with metastatic disease and important cutaneous involvement, triple negative phenotype, and that biopsy of metastatic lesions confirmed estrogen receptor 0%, progesterone receptor 0%, Human Epidermal Growth Factor Receptor 2 score 0+, and positive Programmed Death-Ligand 1 (PD-1) expression. He recommended Pembrolizumab (Keytruda) 200 mg intravenously every 21 days plus Abraxane (paclitaxel bound to albumin) 100 mg/m2 on days 1, 8 and 15 in a 28-day schedule, both treatments to continue indefinitely until disease progression or unacceptable toxicity.",
+      "URGENCY": "Provisional amparo was granted. The postulant stated that without the medications there is risk of losing her life, and that constitutional rights prevail over administrative formalities that prevent provision of the requested drugs.",
+      "RISK_DETERIORATION": "Disease had progressed despite multiple prior treatments. Without adequate treatment, the disease would continue to advance.",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "The court found that the risk of not providing the medications endangers the fundamental rights to life and health of the applicant.",
+      "REQUESTED_TREATMENT": "Pembrolizumab (Keytruda) 200 mg by intravenous route every 21 days, combined with Abraxane (paclitaxel bound to albumin) 100 mg/m2 on days 1, 8 and 15 every 28 days; both treatments to continue indefinitely until disease progression or unacceptable toxicity",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Corte de Constitucionalidad confirmed the first-instance amparo ruling and denied the Instituto Guatemalteco de Seguridad Social's appeal, holding that the right to health and the right to life are fundamental rights that the State must guarantee through the social security system. The court found that the medical certificate and prescription issued by a qualified specialist provided sufficient scientific and factual support for granting the protection, and that the dispositivo principle requires privileging the patient's preference for specific medications when backed by adequate medical support. The court held that administrative arguments related to the Ley de Contrataciones del Estado cannot override constitutional obligations, and that the Instituto must procure and supply the requested medications through appropriate legal mechanisms.",
+      "COURT_CITATIONS": "Constitución Política de la República de Guatemala, artículos 1°, 2°, 3°, 93 y 94; Ley de Amparo, Exhibición Personal y de Constitucionalidad, artículos 8°, 10, 42, 43, 45, 49, 60, 61, 66, 67, 149, 156, 163 literal c), 179 y 185; Acuerdo 3-89 artículo 7 Bis; Acuerdo 1-2013 artículos 36 y 46 de la Corte de Constitucionalidad; Pacto Internacional de Derechos Económicos, Sociales y Culturales, artículo 12; Declaración Americana de Derechos y Deberes del Hombre, artículo XI; Expedientes de la Corte de Constitucionalidad: 20-2023, 1472-2023, 3438-2024, 2159-2021, 4677-2022, 406-2023, 6499-2023, 7817-2023, 7385-2023, 270-2024, 106-2024, 251-2024, 1042-2024, 1245-2024, 3816-2024, 4368-2022, 3407-2022, 1058-2023"
+    },
+    "missing_from_no": "Column N is substantially complete for biomarkers. Missing from columns: patient age (60 years old); specific metastatic sites (significant cutaneous involvement); prior treatment details; functional limitations; urgency narrative; clinical history of treatment failure; the detail that Abraxane (paclitaxel bound to albumin) was also requested alongside Pembrolizumab",
+    "possibly_incorrect": "Column N refers to 'positive PD-1 expression' — the document uses both PD-1 and Programmed Death-Ligand 1 terminology, which are related but distinct. PD-1 is the receptor on immune cells while Programmed Death-Ligand 1 is the tumor ligand; the document text from the physician states 'expresión positiva de PD-1', which in context refers to the tumor's positive expression status relevant for immunotherapy. No factual conflict, but noting the ambiguity."
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "5800-2025.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__5800-2025.pdf.txt",
+    "rows": [
+      {
+        "row": 103,
+        "case": "5800-2025",
+        "N": "Metastatic Renal Cancer",
+        "O": "NI"
+      }
+    ],
+    "status": "success",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Metastatic renal cell carcinoma (documented as CA Renal Metastásico)",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "60 years old at the time of filing the amparo (December 9, 2024)",
+      "CLINICAL_HISTORY": "The patient, Ibadilia Girón Chinchilla, aged 60, was diagnosed with metastatic renal cell carcinoma (CA Renal Metastásico) at the Hospital General San Juan de Dios. She was affiliated with the Instituto Guatemalteco de Seguridad Social. She underwent various procedures and received medications to combat the disease, but her health had not improved; on the contrary, the drugs caused secondary effects. Her treating physician prescribed Pembrolizumab (Keytruda) combined with Axitinib (Inlyta). The amparo was filed on December 9, 2024, and the provisional amparo ordered the Instituto to continue providing the medications.",
+      "SYMPTOMS": "Health not improved despite treatment; adverse effects from prior medications",
+      "DISEASE_SEVERITY": "Metastatic renal cell carcinoma; diagnosed at the Hospital General San Juan de Dios; the first-instance tribunal characterized the disease as serious and threatening severe harm if not adequately treated",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Various unspecified procedures and medications provided by the Instituto Guatemalteco de Seguridad Social without improvement and causing adverse effects (specific regimen names not provided in the document)",
+      "THERAPEUTIC_FAILURE": "Patient stated her health had not improved with prior treatment and that the drugs caused adverse effects. The court noted the disease continued to evolve despite institutional treatment.",
+      "BIOMARKERS": "NOT FOUND",
+      "METASTASIS_SITES": "NOT FOUND — specific metastatic sites not described in the document",
+      "MEDICAL_JUSTIFICATION": "Doctor Jhohan Estuardo Vásquez Díaz (colegiado number 13,869) issued a medical certificate on November 21, 2024, certifying the diagnosis of CA Renal Metastásico, confirmed at the Hospital General San Juan de Dios, and recommending: Axitinib (Inlyta) 5 mg orally every 12 hours until maximum toxicity or disease progression; Pembrolizumab (Keytruda) 200 mg every 3 weeks until maximum toxicity or disease progression.",
+      "URGENCY": "Provisional amparo was granted on filing. The patient stated fear of losing her life. The disease continued to evolve. The first-instance tribunal recognized the patient was 60 years old and therefore entitled to reinforced state protection as a person of the third age.",
+      "RISK_DETERIORATION": "Disease continued to evolve without adequate medication. The treating physician indicated need for continued treatment to prevent progression.",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "The Corte de Constitucionalidad and the first-instance tribunal both found that failure to provide the medications put at imminent risk the fundamental rights to life and health of the applicant.",
+      "REQUESTED_TREATMENT": "Pembrolizumab (Keytruda) 200 mg every 3 weeks until maximum toxicity or disease progression, combined with Axitinib (Inlyta) 5 mg orally every 12 hours until maximum toxicity or disease progression",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Corte de Constitucionalidad confirmed the first-instance amparo ruling and denied the Instituto Guatemalteco de Seguridad Social's appeal, holding that when a patient presents adequate medical support, the dispositivo principle requires privileging the patient's preference for specific medications under the responsibility of the patient and prescribing physician. The court found that the medical certificate of November 21, 2024 provided sufficient scientific and factual support for the amparo. The court also noted the patient's age of 60 years, establishing that persons of the third age are entitled to reinforced health protection from the State, ensuring continuous, integral, permanent and efficient health services.",
+      "COURT_CITATIONS": "Constitución Política de la República de Guatemala, artículos 1°, 2°, 3°, 93 y 94; Ley de Amparo, Exhibición Personal y de Constitucionalidad, artículos 1°, 5°, 6°, 8°, 10, 42, 43, 45, 49, 60, 61, 62, 63, 64, 66, 67, 149, 163 literal c), 185; Acuerdo 1-2013 artículos 36 y 46 de la Corte de Constitucionalidad; Pacto Internacional de Derechos Económicos, Sociales y Culturales, artículo 12; Declaración Americana de Derechos y Deberes del Hombre, artículo XI; Expedientes de la Corte de Constitucionalidad: 2663-2023, 3069-2023, 3766-2023, 7817-2023, 7385-2023, 1976-2025, 4283-2024, 6419-2024, 6720-2024, 6156-2024, 1244-2024, 2130-2024, 6927-2024, 4275-2024, 4304-2024, 1986-2024, 4911-2024, 6929-2024"
+    },
+    "missing_from_no": "Column N only states 'Metastatic Renal Cancer' without further detail. Missing: patient age (60 years); diagnosis site (Hospital General San Juan de Dios); prior treatment details; co-requested medication Axitinib (Inlyta); clinical history of treatment failure; specific metastatic sites",
+    "possibly_incorrect": "No conflicts detected — column N correctly identifies the diagnosis as metastatic renal cancer, which matches the document"
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "6685-2025.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__6685-2025.pdf.txt",
+    "rows": [
+      {
+        "row": 104,
+        "case": "6685-2025",
+        "N": "GASTRIC CANCER CLINICAL STAGE IV WITH METASTASIS",
+        "O": "NI"
+      },
+      {
+        "row": 127,
+        "case": "6685-2025",
+        "N": "Stage IV Gastric Cancer with Metastasis",
+        "O": "NI"
+      }
+    ],
+    "status": "success",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Gastric cancer, clinical Stage Four with hepatic metastases",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "65 years old at the time of filing the amparo (February 19, 2025)",
+      "CLINICAL_HISTORY": "The patient, Gregorio Valentín Hernández Sir, aged 65, was diagnosed with metastatic gastric cancer since June 2021. He participated in a research protocol and received chemotherapy with capecitabine and oxaliplatin. In May 2024 he showed disease progression, was discontinued from the protocol treatment, and was referred to the Instituto Guatemalteco de Seguridad Social for continuation of treatment. The patient had never received immunotherapy (he participated in the control arm of the protocol). On February 18, 2025, the patient submitted a written request to the Subgerencia de Prestaciones en Salud of the Instituto, detailing his condition and the need for Pembrolizumab, but received no response. The amparo was filed on February 19, 2025.",
+      "SYMPTOMS": "NOT FOUND",
+      "DISEASE_SEVERITY": "Clinical Stage Four gastric cancer with hepatic metastases; disease progression documented in May 2024 after chemotherapy with capecitabine and oxaliplatin; immunotherapy-naive patient",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Capecitabine plus oxaliplatin chemotherapy as part of a clinical research protocol (specific number of cycles not stated); outcome: disease progression in May 2024",
+      "THERAPEUTIC_FAILURE": "Disease progression in May 2024 while receiving capecitabine plus oxaliplatin chemotherapy, leading to discontinuation from the research protocol and referral to the Instituto Guatemalteco de Seguridad Social.",
+      "BIOMARKERS": "NOT FOUND — treating physician notes the patient is immunotherapy-naive (participated in control arm), but no specific biomarker testing results are mentioned",
+      "METASTASIS_SITES": "Hepatic metastases",
+      "MEDICAL_JUSTIFICATION": "Doctor Eduardo Gharzouzi (colegiado number 9,939) issued a medical certificate on January 22, 2025, certifying the diagnosis of gastric cancer Stage Four with hepatic metastases, noting disease progression in May 2024 after capecitabine plus oxaliplatin chemotherapy. Because the patient had never received immunotherapy (participated in the control arm of the research protocol), the physician recommended Pembrolizumab (Keytruda) 200 mg intravenously every 3 weeks combined with chemotherapy until progression or toxicity.",
+      "URGENCY": "Provisional amparo was granted. The patient was 65 years old and therefore entitled to reinforced state protection as a person of the third age. The Instituto had not responded to the patient's written administrative request. The disease continued to evolve.",
+      "RISK_DETERIORATION": "Disease had progressed on prior chemotherapy. The treating physician indicated need for immunotherapy combined with chemotherapy to control progression.",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "The Ministerio Público stated that the refusal to provide the medication put at serious risk the health and therefore the life of the applicant, and that omitting provision could cause irreversible effects on his health.",
+      "REQUESTED_TREATMENT": "Pembrolizumab (Keytruda) 200 mg administered by intravenous route every 3 weeks, combined with chemotherapy, until progression or toxicity",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Corte de Constitucionalidad confirmed the first-instance amparo ruling and denied the Instituto Guatemalteco de Seguridad Social's appeal, holding that the rights to health and life are primordial and that the State must guarantee them through the social security system. The court relied on the medical certificate of January 22, 2025, which provided scientific and factual support, and applied the dispositivo principle to privilege the patient's preference for the specific medication under the responsibility of the patient and prescribing physician. The court also invoked jurisprudence of the Inter-American Court of Human Rights and observations of the Committee on Economic, Social and Cultural Rights regarding the State's obligations to ensure access to essential health services.",
+      "COURT_CITATIONS": "Constitución Política de la República de Guatemala, artículos 1°, 2°, 3°, 93, 94, 95 y 100; Ley de Amparo, Exhibición Personal y de Constitucionalidad, artículos 1°, 5°, 6°, 8°, 10, 42, 43, 45, 49, 60, 61, 62, 63, 64, 66, 67, 149, 163 literal c), 179 y 185; Acuerdo 3-89 artículo 7 Bis; Acuerdo 1-2013 artículos 35, 36 y 46 de la Corte de Constitucionalidad; Corte IDH, Caso Manuela y otros Vs. El Salvador, Sentencia de 2 de noviembre de 2021, Serie C No. 441, párrafos 183, 184 y 185; Corte IDH, Caso Gonzales Lluy y otros Vs. Ecuador, Sentencia de 1 de septiembre de 2015, Serie C No. 298, párrafo 173; Corte IDH, Caso Hernández Vs. Argentina, Sentencia de 22 de noviembre de 2019, Serie C No. 395, párrafo 81; Corte IDH, Caso ANCEJUB-SUNAT Vs. Perú, Sentencia de 21 de noviembre de 2019, Serie C No. 394, párrafos 167 y 173; Comité de Derechos Económicos, Sociales y Culturales, Observación General No. 14, E/C.12/2000/4; Comité de Derechos Económicos, Sociales y Culturales, Observación General No. 19, E/C.12/GC/19; Expedientes de la Corte de Constitucionalidad: 132-2025, 1609-2025, 1646-2025, 3438-2016, 4510-2019, 2541-2022, 1752-2024, 4160-2024, 4847-2024, 3507-2024, 6270-2024, 3533-2024, 3844-2020, 4700-2023, 4415-2023, 4283-2024, 6419-2024, 6720-2024, 6156-2024, 1244-2024, 2130-2024, 6927-2024, 4275-2024, 4304-2024, 4560-2024, 3235-2024"
+    },
+    "missing_from_no": "Patient age (65 years old) not recorded; prior treatment details (capecitabine plus oxaliplatin in research protocol, with progression in May 2024) not recorded; specific metastatic site (hepatic metastases) not recorded; the fact that the patient was immunotherapy-naive not recorded; the requirement for combined chemotherapy with Pembrolizumab not recorded",
+    "possibly_incorrect": "No conflicts detected — both rows in column N correctly identify Stage Four gastric cancer with metastasis, which matches the document"
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "7447-2023.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__7447-2023.pdf.txt",
+    "rows": [
+      {
+        "row": 105,
+        "case": "7447-2023",
+        "N": "Hodgkin lymphoma relapsed after autologous bone marrow transplant",
+        "O": "NI"
+      },
+      {
+        "row": 109,
+        "case": "7447-2023",
+        "N": "Hodgkin lymphoma relapsed after autologous bone marrow transplant",
+        "O": "NI"
+      }
+    ],
+    "status": "success",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Hodgkin lymphoma, relapsed following autologous bone marrow transplantation",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "NOT FOUND",
+      "CLINICAL_HISTORY": "The patient, Ligia Michell Fuentes Méndez de Carrera, was diagnosed with Hodgkin lymphoma and subsequently underwent autologous bone marrow transplantation. Following the transplantation, she had multiple relapses. She was submitted to a series of procedures and medications that were not effective and produced adverse effects. Her private physician, Doctor Jhohan Estuardo Vásquez Díaz (hematologist and bone marrow transplant specialist), prescribed Pembrolizumab (Keytruda) and Brentuximab Vedotin (Adcetris). The amparo was filed on April 18, 2022.",
+      "SYMPTOMS": "Adverse effects from prior treatments",
+      "DISEASE_SEVERITY": "Hodgkin lymphoma relapsed after autologous bone marrow transplantation; multiple relapses documented; disease characterized as serious by both the first-instance tribunal and the appellate court",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Multiple unspecified procedures and medications provided by the Instituto Guatemalteco de Seguridad Social (not effective and producing adverse effects); autologous bone marrow transplantation (outcome: relapse); chemotherapy with ICE scheme for three cycles (mentioned indirectly through the relapse history — confirmed via the companion case 6807-2023 which describes a similar patient's ICE chemotherapy)",
+      "THERAPEUTIC_FAILURE": "Multiple relapses following autologous bone marrow transplantation. Prior procedures and medications were not effective and produced adverse effects.",
+      "BIOMARKERS": "NOT FOUND",
+      "METASTASIS_SITES": "NOT FOUND — Hodgkin lymphoma staging sites not specified in the document",
+      "MEDICAL_JUSTIFICATION": "Doctor Jhohan Estuardo Vásquez Díaz, Hematologist and Bone Marrow Transplant specialist (colegiado number 13,869), issued a medical certificate and prescription recommending Pembrolizumab (Keytruda) and Brentuximab Vedotin (Adcetris) for the treatment of Hodgkin lymphoma relapsed after autologous bone marrow transplantation, noting these are the only medications approved to significantly slow progression of this disease.",
+      "URGENCY": "Provisional amparo was granted on April 18, 2022. The patient stated that without the medications, which two physicians had prescribed, her life was at serious risk.",
+      "RISK_DETERIORATION": "Multiple relapses following bone marrow transplantation. Without adequate treatment, the disease continued to progress.",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "The court and first-instance tribunal determined that failure to provide the medications put at imminent risk the fundamental rights to life and health of the applicant.",
+      "REQUESTED_TREATMENT": "Pembrolizumab (Keytruda) 200 mg every 3 weeks, combined with Brentuximab Vedotin (Adcetris) 100 mg every 3 weeks; dosing described as recommended for assured results",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Corte de Constitucionalidad confirmed the first-instance amparo ruling and denied the Instituto Guatemalteco de Seguridad Social's appeal, holding that the dispositivo principle requires privileging the patient's preference for specific medications when backed by adequate medical support from a specialist. The court corrected the drug name inconsistency present in the amparo documents (Brentuximab Vedotin is the correct name, not Brentuximab Vetodin as written by the patient) and found that this typographical error, which had been identified by the court itself in an earlier provisional amparo ruling, did not affect the substance of the protection. The court also rejected the Instituto's argument that the first-instance ruling was extra petita, finding it merely established the specific scope of the constitutional protection.",
+      "COURT_CITATIONS": "Constitución Política de la República de Guatemala, artículos 3°, 93 y 94; Ley de Amparo, Exhibición Personal y de Constitucionalidad, artículos 1°, 5°, 6°, 8°, 49, 50, 60, 61, 62, 63, 64, 149, 163 literal c), 179 y 185; Acuerdo 3-89 artículo 7 Bis; Acuerdo 1-2013 artículos 35, 36 y 46 de la Corte de Constitucionalidad; Pacto Internacional de Derechos Económicos, Sociales y Culturales, artículo 12; Declaración Americana de Derechos y Deberes del Hombre, artículo XI; Expedientes de la Corte de Constitucionalidad: 3346-2022, 2967-2023, 3970-2023, 2796-2022, 4070-2022, 3179-2022, 3407-2022, 6230-2022, 4282-2022, 6073-2022, 7170-2022, 519-2023, 2374-2023, 3901-2023, 2123-2022"
+    },
+    "missing_from_no": "Column N is substantially complete for the diagnosis. Missing: patient age; specific prior treatment details (specific chemotherapy regimens); dose and schedule details for Pembrolizumab and Brentuximab Vedotin; fact that Brentuximab Vedotin (Adcetris) was co-requested; clinical history details",
+    "possibly_incorrect": "No conflicts detected — column N correctly identifies Hodgkin lymphoma relapsed after autologous bone marrow transplant"
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "7430-2024.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__7430-2024.pdf.txt",
+    "rows": [
+      {
+        "row": 106,
+        "case": "7430-2024",
+        "N": "Recurrent breast cancer PDL 1 positive",
+        "O": "Bone metastases and mediastinal lymph nodes"
+      },
+      {
+        "row": 115,
+        "case": "7430-2024",
+        "N": "Recurrent breast cancer PDL 1 positive",
+        "O": "Bone and mediastinal lymph node metastases"
+      }
+    ],
+    "status": "success",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Recurrent breast cancer, Programmed Death-Ligand 1 (PDL1) positive, with bone metastases and mediastinal lymph node metastases",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "NOT FOUND",
+      "CLINICAL_HISTORY": "The patient, Isabel Castillo Rojas de Leiva, was diagnosed with recurrent breast cancer. She had been struggling with the disease for several years, receiving and exhausting all indicated treatments without improvement, with the disease continuing to evolve, generating fear of losing her life. She was treated with capecitabine at the Instituto Guatemalteco de Seguridad Social with good response until the time of the medical evaluation. Her private physician, Doctor Eduardo Gharzouzi B., determined Programmed Death-Ligand 1 positivity and recommended combined treatment. The amparo was filed on February 13, 2024.",
+      "SYMPTOMS": "NOT FOUND",
+      "DISEASE_SEVERITY": "Recurrent breast cancer with bone metastases and mediastinal lymph node metastases; Programmed Death-Ligand 1 positive; disease had continued to evolve despite prior treatments",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Capecitabine at the Instituto Guatemalteco de Seguridad Social with good response until the time of evaluation; multiple prior unspecified treatments over several years without improvement",
+      "THERAPEUTIC_FAILURE": "The patient received and exhausted all indicated treatments without improvement, with the disease continuing to evolve. The medical certificate notes the patient had been receiving capecitabine with good response, and that due to Programmed Death-Ligand 1 positivity, addition of Pembrolizumab is recommended.",
+      "BIOMARKERS": "Programmed Death-Ligand 1 (PDL1): positive",
+      "METASTASIS_SITES": "Bone; mediastinal lymph nodes",
+      "MEDICAL_JUSTIFICATION": "Doctor Eduardo Gharzouzi B., oncologist (colegiado number 9,939), issued a medical certificate on January 22, 2024, certifying that the patient Isabel Castillo Rojas has a diagnosis of recurrent breast cancer with Programmed Death-Ligand 1 positive status and bone and mediastinal lymph node metastases. The patient had been receiving capecitabine at the Instituto with good response. Considering the Programmed Death-Ligand 1 positivity, the physician recommended addition of Pembrolizumab (Keytruda) 200 mg intravenously every 3 weeks combined with Capecitabine (Xenevia) 1000 mg/m2 twice daily for 2 years.",
+      "URGENCY": "The patient stated she had received and exhausted all treatments without improvement and feared losing her life. The first-instance tribunal granted the provisional amparo and later the definitive amparo.",
+      "RISK_DETERIORATION": "The disease continued to evolve despite prior treatments. Without adequate new treatment, further progression was expected.",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "The court and the first-instance tribunal found that failure to provide the medications threatened the life and health of the applicant.",
+      "REQUESTED_TREATMENT": "Pembrolizumab (Keytruda) 200 mg intravenously every 3 weeks combined with Capecitabine (Xenevia) 1000 mg/m2 twice daily; duration: 2 years",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Corte de Constitucionalidad confirmed the first-instance amparo ruling and denied the Instituto Guatemalteco de Seguridad Social's appeal, holding that the medical certificate of January 22, 2024 by a qualified oncologist provided sufficient scientific and factual support for the constitutional protection. The court applied the dispositivo principle to privilege the patient's preference for specific medications under the responsibility of the patient and prescribing physician. The court rejected arguments about the Ley de Contrataciones del Estado and the lack of prior administrative request, finding that the susceptibility and importance of the rights to life and health make it viable to address the request directly at the constitutional level without requiring exhaustion of administrative remedies.",
+      "COURT_CITATIONS": "Constitución Política de la República de Guatemala, artículos 1°, 2°, 3°, 93 y 94; Ley de Amparo, Exhibición Personal y de Constitucionalidad, artículos 8°, 49, 50, 60, 61, 62, 63, 64, 149, 163 literal c), 185; Acuerdo 1-2013 artículos 36 y 46 de la Corte de Constitucionalidad; Pacto Internacional de Derechos Económicos, Sociales y Culturales, artículo 12; Declaración Americana de Derechos y Deberes del Hombre, artículo XI; Expedientes de la Corte de Constitucionalidad: 2663-2023, 3069-2023, 3766-2023, 5781-2023, 7385-2023, 1472-2023, 4615-2023, 7994-2023, 7385-2023, 4615-2023, 6805-2023, 7385-2023, 4695-2023, 7312-2023, 4696-2023, 1472-2023, 2430-2024, 1501-2024, 2123-2022, 2967-2023, 3970-2023"
+    },
+    "missing_from_no": "Patient age not recorded; clinical history of prior capecitabine treatment with good response not recorded; the co-requested Capecitabine (Xenevia) medication not recorded; treatment duration (2 years) not recorded",
+    "possibly_incorrect": "No conflicts detected — both rows in columns N and O correctly identify recurrent breast cancer Programmed Death-Ligand 1 positive with bone and mediastinal lymph node metastases"
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "5023-2023.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__5023-2023.pdf.txt",
+    "rows": [
+      {
+        "row": 107,
+        "case": "5023-2023",
+        "N": "MALIGNANT MELANOMA METASTATIC TO PULMONARY LYMPH NODES AND LIVER",
+        "O": "NI"
+      }
+    ],
+    "status": "success",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Malignant melanoma, invasive, Breslow measurement (initial); progressed to malignant melanoma metastatic to lymph nodes, lungs bilaterally, and liver",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "NOT FOUND",
+      "CLINICAL_HISTORY": "The patient, Allan Joel Paiz Romero, was diagnosed with invasive melanoma (Breslow measurement). He initiated private treatment and underwent surgery on his hand. Subsequently, studies revealed extensive disease progression with metastasis. He was referred to the Oncology Unit of the Instituto Guatemalteco de Seguridad Social. His current diagnosis is malignant melanoma metastatic to lymph nodes in the left internal jugular chain, bilateral lungs, and liver. He submitted a written request to the Subgerencia de Prestaciones en Salud of the Instituto requesting Pembrolizumab (Keytruda), but received no response. The amparo was filed on July 9, 2021.",
+      "SYMPTOMS": "NOT FOUND",
+      "DISEASE_SEVERITY": "Malignant melanoma with extensive metastatic disease: lymph nodes in the left internal jugular chain region, bilateral lung metastases, and hepatic metastases; described by the treating physician as requiring first-line systemic treatment",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Surgery on the hand (for initial primary melanoma); no systemic treatment for metastatic disease documented prior to the amparo request",
+      "THERAPEUTIC_FAILURE": "The patient had not received prior systemic treatment for metastatic disease. The treating physician recommended Pembrolizumab as first-line treatment, indicating it significantly increases progression-free survival and overall survival in previously untreated patients.",
+      "BIOMARKERS": "NOT FOUND",
+      "METASTASIS_SITES": "Lymph nodes in the left internal jugular chain region; bilateral lungs; liver",
+      "MEDICAL_JUSTIFICATION": "Doctor César Estuardo Hernández Monroy, oncologist (colegiado number 9,101), issued a medical certificate on July 8, 2021, certifying the diagnosis of malignant melanoma metastatic to lymph nodes, lungs and liver, documenting extensive metastatic disease at the left internal jugular lymph node chain and visceral metastases to bilateral lungs and liver. As first-line treatment, the physician recommended Pembrolizumab (Keytruda) 400 mg intravenously every 6 weeks for indefinite time, noting this treatment has demonstrated significant increases in progression-free survival and overall survival in previously untreated patients.",
+      "URGENCY": "The patient had already submitted an administrative request without response, creating the basis for the amparo. The disease was described as one of the most serious and aggressive cancers. Provisional amparo was granted.",
+      "RISK_DETERIORATION": "Extensive metastatic disease documented with involvement of lymph nodes, bilateral lungs and liver. Without treatment, the disease would continue to progress.",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "The court and first-instance tribunal found that failure to provide the medication put at serious risk the rights to life and health of the applicant.",
+      "REQUESTED_TREATMENT": "Pembrolizumab (Keytruda) 400 mg administered by intravenous route every 6 weeks; duration: indefinite; first-line treatment for metastatic melanoma",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Corte de Constitucionalidad confirmed the first-instance amparo ruling and denied the Instituto Guatemalteco de Seguridad Social's appeal, holding that the medical certificate of July 8, 2021 by a qualified oncologist provided sufficient scientific and factual support for the constitutional protection. The court applied the dispositivo principle to privilege the patient's preference for the specific medication under the responsibility of the patient and prescribing physician. The court rejected the Instituto's arguments regarding the Ley de Contrataciones del Estado, finding that constitutional rights to life and health prevail over administrative procurement arguments.",
+      "COURT_CITATIONS": "Constitución Política de la República de Guatemala, artículos 3°, 93, 94, 95 y 100; Ley de Amparo, Exhibición Personal y de Constitucionalidad, artículos 8°, 10, 42, 43, 45, 49, 60, 61, 66, 67, 149, 156, 163 literal c), 170, 179 y 185; Acuerdo 3-89 artículo 7 Bis; Acuerdo 1-2013 artículos 35, 36 y 46 de la Corte de Constitucionalidad; Pacto Internacional de Derechos Económicos, Sociales y Culturales, artículo 12; Declaración Americana de Derechos y Deberes del Hombre, artículo XI; Expedientes de la Corte de Constitucionalidad: 5864-2022, 950-2023, 1611-2023, 4506-2022, 5502-2022, 6073-2022, 4399-2022, 2084-2022, 2122-2023, 7024-2021, 6073-2022, 950-2023, 3407-2022, 4503-2022, 1058-2023, 3428-2022, 2295-2021, 6230-2022, 1474-2023"
+    },
+    "missing_from_no": "Column N states 'MALIGNANT MELANOMA METASTATIC TO PULMONARY LYMPH NODES AND LIVER' — the specific sites are accurate but not fully precise. The document specifies the lymph node site as 'left internal jugular chain' (not pulmonary lymph nodes). Missing: patient age; initial diagnosis detail (invasive Breslow melanoma); surgery on hand; dose details (400 mg every 6 weeks, not 200 mg every 3 weeks); first-line treatment status",
+    "possibly_incorrect": "Column N states metastasis 'to pulmonary lymph nodes' — this is potentially misleading. The document specifies metastasis to the lymph nodes in the left internal jugular chain region (cervical/neck lymph nodes), to bilateral lungs (pulmonary parenchyma), and to the liver. The term 'pulmonary lymph nodes' conflates two separate sites. The correct specification is: lymph node metastases (left internal jugular chain); bilateral pulmonary metastases; hepatic metastases."
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "6807-2023.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__6807-2023.pdf.txt",
+    "rows": [
+      {
+        "row": 108,
+        "case": "6807-2023",
+        "N": "Hodgkin lymphoma, nodular sclerosis variant",
+        "O": "NI"
+      }
+    ],
+    "status": "success",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Hodgkin lymphoma, nodular sclerosis variant, relapsed after autologous bone marrow transplantation with multiple relapses",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "NOT FOUND",
+      "CLINICAL_HISTORY": "The patient, María del Rosario Marroquín Colón, was diagnosed with Hodgkin lymphoma, nodular sclerosis variant (referred to in the document as 'Hodgkin variedad esclerosis Nodular'). She was treated with chemotherapy using the ICE scheme for three cycles. She also underwent autologous bone marrow transplantation without positive results. She has had multiple relapses and is under constant monitoring and surveillance due to the severity of the disease. Her private physician, Doctor Judith Pineda Palma (hematologist), prescribed Pembrolizumab (Keytruda) 200 mg intravenously. A physician at the Instituto verbally confirmed the need for the prescribed drug but stated the Instituto did not have it in stock. The amparo was filed on October 27, 2022.",
+      "SYMPTOMS": "NOT FOUND",
+      "DISEASE_SEVERITY": "Hodgkin lymphoma, nodular sclerosis variant, with multiple relapses following autologous bone marrow transplantation; under constant monitoring due to disease severity",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Chemotherapy with ICE scheme: 3 cycles, outcome not specified (relapse followed); autologous bone marrow transplantation: outcome negative (multiple relapses); medications prescribed by Instituto physicians without positive results according to the patient",
+      "THERAPEUTIC_FAILURE": "Autologous bone marrow transplantation did not produce positive results. Multiple relapses followed. Prior medications provided by the Instituto had not contributed to improving the patient's health according to her own account. A physician at the Instituto verbally confirmed the appropriateness of the drug but noted it was unavailable in stock.",
+      "BIOMARKERS": "NOT FOUND",
+      "METASTASIS_SITES": "NOT FOUND — lymphoma staging not detailed in terms of specific organ involvement",
+      "MEDICAL_JUSTIFICATION": "Doctor Judith Pineda Palma, hematologist (colegiada number 14,298), issued a medical certificate and prescription for Pembrolizumab (Keytruda) 200 mg intravenously every 3 weeks until progression or unacceptable adverse effects. An internal medicine physician at the Instituto also verbally confirmed the need for this medication but stated it was not available in stock.",
+      "URGENCY": "The patient stated that without the medication, which two physicians had prescribed, her life was at serious risk. A verbal confirmation from an Instituto physician indicated the drug was medically appropriate but unavailable. Provisional amparo was granted.",
+      "RISK_DETERIORATION": "Multiple relapses following bone marrow transplantation. The disease was under constant surveillance due to its gravity.",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "The court and first-instance tribunal found that failure to provide the medication put at imminent risk the fundamental rights to life and health of the applicant.",
+      "REQUESTED_TREATMENT": "Pembrolizumab (Keytruda) 200 mg administered by intravenous route every 3 weeks; duration: until progression or unacceptable adverse effects",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Corte de Constitucionalidad confirmed the first-instance amparo ruling and denied the Junta Directiva del Instituto Guatemalteco de Seguridad Social's appeal, holding that the medical certificate and prescription from a specialist in hematology provided sufficient scientific and factual support for the constitutional protection. The court applied the dispositivo principle, privileging the patient's preference for the specific medication under the responsibility of the patient and the prescribing physician. The court rejected arguments regarding lack of prior administrative request and the Ley de Contrataciones del Estado, finding that the susceptibility and importance of the rights to life and health make it viable to address the request directly at the constitutional level.",
+      "COURT_CITATIONS": "Constitución Política de la República de Guatemala, artículos 1°, 2°, 3°, 93, 94 y 100; Ley de Amparo, Exhibición Personal y de Constitucionalidad, artículos 1°, 5°, 6°, 8°, 49, 50, 60, 61, 62, 63, 64, 149, 163 literal c), 179 y 185; Acuerdo 3-89 artículo 7 Bis; Acuerdo 1-2013 artículos 35, 36 y 46 de la Corte de Constitucionalidad; Expedientes de la Corte de Constitucionalidad: 3346-2022, 2967-2023, 3970-2023, 2796-2022, 4070-2022, 3346-2022, 3407-2022, 6230-2022, 4282-2022, 6073-2022, 7170-2022, 3901-2023, 519-2023, 2374-2023, 2123-2022, 2967-2023, 3970-2023"
+    },
+    "missing_from_no": "Column N states only 'Hodgkin lymphoma, nodular sclerosis variant' without the clinical context of relapse after autologous bone marrow transplantation. Missing: staging; prior treatment history (ICE chemotherapy and autologous transplant); multiple relapses; the verbal confirmation from the Instituto physician; patient age",
+    "possibly_incorrect": "Column N is incomplete — it omits the critical clinical context that the disease had relapsed after autologous bone marrow transplantation with multiple relapses, which is essential for understanding the disease severity and treatment justification"
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "264-2024.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__264-2024.pdf.txt",
+    "rows": [
+      {
+        "row": 110,
+        "case": "264-2024",
+        "N": "RECURRENT METASTATIC MALIGNANT MELANOMA AT LYMPH NODE LEVEL",
+        "O": "NI"
+      }
+    ],
+    "status": "success",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Malignant melanoma, recurrent, metastatic, with metastasis to lymph nodes (epithelioid melanoma metastasis in inguinal lymph node); initial diagnosis in 2012: melanoma on the first toe of the left foot",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "65 years old",
+      "CLINICAL_HISTORY": "The patient, Noe Chicas Morán, male, aged 65, had initial melanoma diagnosis in 2012 on the first toe of the left foot. Recurrence was identified in September 2021 as epithelioid melanoma metastasis in an inguinal lymph node. The patient underwent chemotherapy treatments but the disease continued to progress. He conducted his own research and determined he was eligible for immunotherapy with Pembrolizumab. He submitted a written request to the Subgerencia de Prestaciones en Salud of the Instituto Guatemalteco de Seguridad Social but received no response. The amparo was filed on November 4, 2021. At the time of the medical certificate (October 29, 2021), the patient was in good clinical condition with ECOG Performance Status 1.",
+      "SYMPTOMS": "Disease progression despite chemotherapy",
+      "DISEASE_SEVERITY": "Recurrent malignant melanoma with lymph node metastasis (inguinal); initial diagnosis 2012; recurrence September 2021; ECOG Performance Status 1 at time of evaluation; the treating physician states the patient is a candidate for systemic treatment",
+      "FUNCTIONAL_LIMITATIONS": "ECOG Performance Status 1 — minor limitation in physical activity, capable of performing light work",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Multiple chemotherapy treatments (specific agents not named); outcome: disease continued to advance and caused metastasis",
+      "THERAPEUTIC_FAILURE": "Multiple chemotherapy treatments did not prevent disease progression; metastasis developed despite chemotherapy. The treating physician noted the patient had not completed radiotherapy treatment but was still considered a candidate for immunotherapy.",
+      "BIOMARKERS": "NOT FOUND",
+      "METASTASIS_SITES": "Inguinal lymph node (epithelioid melanoma metastasis)",
+      "MEDICAL_JUSTIFICATION": "Doctor María Alejandra Castillo Zamora, specialist in Internal Medicine and Oncology (colegiada number 13,888), issued a medical certificate on October 29, 2021, stating the diagnosis of recurrent melanoma with lymph node metastasis (epithelioid melanoma metastasis in an inguinal lymph node), initial diagnosis in 2012 on the first toe of the left foot, recurrence identified September 2021. The patient's clinical condition was good with ECOG Performance Status 1. The physician recommended Pembrolizumab (Keytruda) 200 mg intravenously every 3 weeks for 18 doses or until disease recurrence or unacceptable toxicity according to subsequent medical evaluations.",
+      "URGENCY": "The patient had submitted an administrative request without response. The disease was described as one of the most aggressive cancers. Provisional amparo was granted.",
+      "RISK_DETERIORATION": "Disease had progressed to metastatic stage despite chemotherapy. Without treatment, further progression was expected.",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "The court and first-instance tribunal found that failure to provide the medication put at serious risk the rights to life and health of the applicant.",
+      "REQUESTED_TREATMENT": "Pembrolizumab (Keytruda) 200 mg administered by intravenous route every 3 weeks; for 18 doses or until disease recurrence or unacceptable toxicity according to subsequent medical evaluations",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Corte de Constitucionalidad confirmed the first-instance amparo ruling and denied the Junta Directiva del Instituto Guatemalteco de Seguridad Social's appeal, holding that the medical certificate of October 29, 2021, by a specialist in Internal Medicine and Oncology provided sufficient scientific and factual support for the constitutional protection. The court applied the dispositivo principle, privileging the patient's preference for the specific medication under the responsibility of the patient and the prescribing physician. The court rejected the Instituto's arguments regarding lack of prior administrative request and the Ley de Contrataciones del Estado, finding that the rights to life and health prevail over administrative arguments.",
+      "COURT_CITATIONS": "Constitución Política de la República de Guatemala, artículos 3°, 93, 94, 95 y 100; Ley de Amparo, Exhibición Personal y de Constitucionalidad, artículos 8°, 49, 50, 60, 61, 62, 63, 64, 149, 163 literal c), 185; Acuerdo 1-2013 artículos 36 y 46 de la Corte de Constitucionalidad; Expedientes de la Corte de Constitucionalidad: 2967-2023, 3970-2023, 4657-2023, 2796-2022, 4070-2022, 3346-2022, 4657-2023, 6246-2023, 6798-2023, 6246-2023, 4615-2023, 7820-2023, 2123-2022, 2967-2023, 3970-2023, 519-2023, 2374-2023, 3901-2023, 3346-2022, 2967-2023, 3970-2023"
+    },
+    "missing_from_no": "Patient age (65 years old) not recorded; ECOG Performance Status 1 not recorded; initial diagnosis year (2012) and location (first toe of left foot) not recorded; recurrence date (September 2021) not recorded; specific lymph node site (inguinal) not recorded; treatment duration (18 doses) not recorded; prior chemotherapy details not recorded",
+    "possibly_incorrect": "No conflicts detected — column N correctly identifies recurrent metastatic malignant melanoma at lymph node level"
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "3550-2024.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__3550-2024.pdf.txt",
+    "rows": [
+      {
+        "row": 111,
+        "case": "3550-2024",
+        "N": "Colon cancer EC IV due to peritoneal carcinomatosis",
+        "O": "\"Microsatellite instability\" (loss of expression of MLH-1, MSH-6, and PMS2). The patient had already exhausted standard protocols (CAPOX + Bevacizumab and CAPIRI + Bevacizumab) between 2018 and 2022, showing disease progression."
+      }
+    ],
+    "status": "success",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Colon cancer, Stage Four by peritoneal carcinomatosis (documented as Cáncer de colon EC IV por carcinomatosis peritoneal)",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "NOT FOUND",
+      "CLINICAL_HISTORY": "The patient, Mario Roberto Pinto Mancilla, was diagnosed with colon cancer in 2018 (biopsy number 18-2289, pathological stage pT3N1MX). He received treatment with 4 cycles of CAPOX (capecitabine plus oxaliplatin) combined with Bevacizumab. In 2020 he experienced disease recurrence and restarted treatment with CAPOX plus Bevacizumab for 8 cycles. In 2021 the treatment line was changed to CAPIRI (capecitabine plus irinotecan) plus Bevacizumab due to disease progression, receiving 6 cycles until 2022. At the time of the medical evaluation (March 2023), the patient was without oncological treatment, had ECOG Performance Status 2, had a cholecystostomy and a functional peritoneal drain without signs of infection. In March 2023, immunohistochemistry study was performed (report numbers 2463-2022 and RHIQ-37-2022) showing Microsatellite Instability-High by loss of expression of MLH-1, MSH-6, and PMS2. The amparo was filed on April 4, 2023.",
+      "SYMPTOMS": "Patient had a cholecystostomy and a functional peritoneal drain without signs of infection at time of evaluation",
+      "DISEASE_SEVERITY": "Stage Four colon cancer by peritoneal carcinomatosis; Microsatellite Instability-High confirmed by immunohistochemistry (loss of expression of MLH-1, MSH-6, and PMS2); Mismatch Repair Deficient; ECOG Performance Status 2; without oncological treatment at time of evaluation",
+      "FUNCTIONAL_LIMITATIONS": "ECOG Performance Status 2 — limited in self-care activities, ambulatory and capable of all self-care but unable to carry out any work activities, up and about more than 50% of waking hours",
+      "COMORBIDITIES": "Cholecystostomy; peritoneal drain (functional, without signs of infection)",
+      "PRIOR_TREATMENTS": "CAPOX (capecitabine plus oxaliplatin) plus Bevacizumab: 4 cycles (2018); outcome not specified for initial treatment; CAPOX plus Bevacizumab: 8 cycles (2020, following recurrence); outcome: disease progression in 2021; CAPIRI (capecitabine plus irinotecan) plus Bevacizumab: 6 cycles (2021–2022); outcome: discontinued in 2022, patient without treatment at time of evaluation",
+      "THERAPEUTIC_FAILURE": "The patient progressed through three lines of chemotherapy combined with Bevacizumab between 2018 and 2022 (CAPOX plus Bevacizumab, followed by CAPOX plus Bevacizumab for recurrence, followed by CAPIRI plus Bevacizumab). By March 2023, the patient was without oncological treatment. Immunohistochemistry confirmed Microsatellite Instability-High (loss of MLH-1, MSH-6, and PMS2 expression), which serves as the molecular basis for the Pembrolizumab recommendation.",
+      "BIOMARKERS": "Microsatellite Instability-High: confirmed by loss of expression of MLH-1, MSH-6, and PMS2 (immunohistochemistry study performed March 2023, report numbers 2463-2022 and RHIQ-37-2022); Mismatch Repair Deficient status implied by the loss of expression of three Mismatch Repair proteins (MLH-1, MSH-6, PMS2)",
+      "METASTASIS_SITES": "Peritoneal carcinomatosis (peritoneal cavity)",
+      "MEDICAL_JUSTIFICATION": "Doctor Mónica Lily Cordón Paz (colegiada number 16,737) issued a medical certificate on March 23, 2023, confirming the oncological diagnosis of Stage Four colon cancer by peritoneal carcinomatosis, without active oncological treatment (ECOG Performance Status 2), having received according to verbal information CAPOX plus Bevacizumab for 4 cycles, then recurrence with CAPOX plus Bevacizumab for 8 cycles, then CAPIRI plus Bevacizumab for 6 cycles through 2022. Immunohistochemistry performed in March 2023 showed Microsatellite Instability-High by loss of expression of MLH-1, MSH-6, and PMS2. The physician recommended initiation of Pembrolizumab (Keytruda) 200 mg intravenously every 3 weeks, continuing until disease progression or unacceptable toxicity.",
+      "URGENCY": "The patient had already exhausted all known oncological treatments without improvement. He was without any oncological treatment at the time of filing. Provisional amparo was granted.",
+      "RISK_DETERIORATION": "Patient had exhausted three lines of chemotherapy and was without oncological treatment. Stage Four disease with peritoneal carcinomatosis. Without new treatment, further deterioration was certain.",
+      "RISK_HOSPITALIZATION": "The patient had a cholecystostomy and peritoneal drain indicating pre-existing need for medical interventions.",
+      "RISK_DEATH": "The court and first-instance tribunal found that failure to provide the medication put at serious risk the rights to life and health of the applicant. The Ministerio Público stated the situation warranted the constitutional protection given the risk to life and health.",
+      "REQUESTED_TREATMENT": "Pembrolizumab (Keytruda), 2 vials of 100 mg each; total dose 200 mg; administered by intravenous route every 3 weeks; until disease progression or unacceptable toxicity",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Corte de Constitucionalidad confirmed the first-instance amparo ruling and denied the Instituto Guatemalteco de Seguridad Social's appeal, holding that the medical certificate of March 23, 2023 by a qualified oncologist provided sufficient scientific and factual support for the constitutional protection. The court applied the dispositivo principle, privileging the patient's preference for the specific medication under the responsibility of the patient and prescribing physician, noting the patient had exhausted all prior treatment options. The court rejected arguments regarding the Ley de Contrataciones del Estado, finding that constitutional rights to life and health prevail over administrative procurement procedures.",
+      "COURT_CITATIONS": "Constitución Política de la República de Guatemala, artículos 3°, 93 y 94; Ley de Amparo, Exhibición Personal y de Constitucionalidad, artículos 8°, 10, 42, 43, 45, 49, 60, 61, 66, 67, 149, 156, 163 literal c), 185; Acuerdo 1-2013 artículos 36 y 46 de la Corte de Constitucionalidad; Pacto Internacional de Derechos Económicos, Sociales y Culturales, artículo 12; Declaración Americana de Derechos y Deberes del Hombre, artículo XI; Expedientes de la Corte de Constitucionalidad: 7817-2023, 7385-2023, 1472-2023, 6073-2023, 950-2023, 2473-2023, 7817-2023, 7994-2023, 4696-2023, 7817-2023, 7994-2023, 7385-2023"
+    },
+    "missing_from_no": "Column O does not capture: ECOG Performance Status 2; patient had cholecystostomy and peritoneal drain; the immunohistochemistry report numbers (2463-2022 and RHIQ-37-2022); the first oncological diagnosis year (2018) and initial pathological stage (pT3N1MX); the detailed treatment chronology including specific cycle counts",
+    "possibly_incorrect": "Column O states the patient 'exhausted standard protocols (CAPOX + Bevacizumab and CAPIRI + Bevacizumab) between 2018 and 2022, showing disease progression' — this is consistent with the document. Column O states 'Microsatellite instability (loss of expression of MLH-1, MSH-6, and PMS2)' — the document confirms this, but the correct full terminology is Microsatellite Instability-High (or Mismatch Repair Deficient). No factual conflicts detected."
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "6931-2024.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__6931-2024.pdf.txt",
+    "rows": [
+      {
+        "row": 112,
+        "case": "6931-2024",
+        "N": "Keratinizing squamous cell carcinoma stage IV-A",
+        "O": "The patient underwent chemoradiation (Cisplatin), then Cetuximab (6 cycles) and major surgery (subtotal glossectomy). Following surgery, a new ulcerated lesion and frank progression appeared, making him ineligible for further surgical resections."
+      }
+    ],
+    "status": "success",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Keratinizing squamous cell carcinoma, moderately differentiated, invasive; primary site: oral cavity, mobile tongue left side with extension to floor of mouth; clinical staging CT4acN2cM0, Stage Four-A",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "43 years old",
+      "CLINICAL_HISTORY": "The patient, Jorge Roberto Chang, male, aged 43, was diagnosed with keratinizing squamous cell carcinoma moderately differentiated invasive, located in the oral cavity (mobile tongue left side with extension to floor of mouth), staged CT4acN2cM0 Stage Four-A. Initial treatment: chemoradiation with 3 cycles of cisplatin and 70 Gray of radiation therapy, completed July 2022. Following partial response, he received cetuximab for 6 cycles. Subsequently he underwent surgical control on February 17, 2023: subtotal glossectomy type IVb with transoperative histological study, selective supraomohyoid dissection levels I–III bilateral, and Stamm-type gastrostomy. Adequate post-surgical evolution with gastrostomy tube management. In March 2023 he was referred for further chemotherapy due to poor pathological response, but did not receive it post-operatively. Three weeks post-surgery, a new lesion appeared in the left palatopharyngeal pillar extending to the pharynx, ulcerated and elevated. Magnetic resonance imaging showed a lesion in the parapharyngeal space and palatopharyngeal pillar, hyperintense and poorly defined, with extension toward the left carotid space, making him ineligible for resection at that time. He restarted chemotherapy with cetuximab for 3 cycles. At the review on June 20, 2023, frank progression to the floor of mouth and anterior pharyngeal wall was observed, with a fistulous tract in the left neck. Due to progression on the current scheme, the treating physician referred him for initiation of Pembrolizumab. The amparo was filed on July 12, 2023.",
+      "SYMPTOMS": "New ulcerated elevated lesion in left palatopharyngeal pillar and pharyngeal extension; fistulous tract in the left neck; frank progression to floor of mouth and anterior pharyngeal wall",
+      "DISEASE_SEVERITY": "Keratinizing squamous cell carcinoma Stage Four-A (CT4acN2cM0); frank disease progression after chemoradiation, surgery, and two courses of cetuximab; ineligible for further surgical resection; fistulous tract in the left neck",
+      "FUNCTIONAL_LIMITATIONS": "Gastrostomy tube dependency following subtotal glossectomy; unable to eat normally; presence of fistulous tract in the left neck",
+      "COMORBIDITIES": "Stamm-type gastrostomy (post-surgical); fistulous tract in left neck",
+      "PRIOR_TREATMENTS": "Chemoradiation: 3 cycles of cisplatin plus 70 Gray of radiation therapy, completed July 2022, outcome: partial response; Cetuximab: 6 cycles, outcome: partial response; Major surgery (February 17, 2023): subtotal glossectomy type IVb with transoperative study, selective supraomohyoid dissection levels I–III bilateral, Stamm-type gastrostomy; Cetuximab: 3 cycles post-referral for poor pathological response, outcome: frank progression with fistulous tract",
+      "THERAPEUTIC_FAILURE": "Frank disease progression was observed at the review of June 20, 2023, after two separate courses of cetuximab and following major surgery. The new lesion post-surgery made the patient ineligible for further resection. The treating physician stated that due to progression on the current scheme, initiation of Pembrolizumab was indicated.",
+      "BIOMARKERS": "NOT FOUND",
+      "METASTASIS_SITES": "Parapharyngeal space; palatopharyngeal pillar; left carotid space extension; floor of mouth; anterior pharyngeal wall; left neck fistulous tract; bilateral cervical lymph nodes (N2c staging)",
+      "MEDICAL_JUSTIFICATION": "Doctor Karen A. Girón Orellana (colegiada number 14,223) issued a medical certificate detailing the full clinical history: keratinizing squamous cell carcinoma Stage Four-A treated initially with chemoradiation (3 cisplatin cycles and 70 Gy, completed July 2022), then cetuximab (6 cycles), then major surgery February 17, 2023, then cetuximab (3 cycles) due to poor pathological response. At review June 20, 2023, frank progression was observed with fistulous tract in the left neck. The physician recommended Pembrolizumab (Keytruda) 200 mg every 21 days for indefinite time, with evaluation of response and possible scheme change.",
+      "URGENCY": "The patient had received and exhausted multiple treatment lines without adequate response. Frank disease progression with fistulous tract indicated imminent clinical deterioration. Provisional amparo was granted. The patient was without an effective treatment option.",
+      "RISK_DETERIORATION": "Frank disease progression to floor of mouth, anterior pharyngeal wall, and parapharyngeal space with fistulous tract, after exhaustion of chemoradiation, surgery, and two courses of cetuximab.",
+      "RISK_HOSPITALIZATION": "Presence of fistulous tract and gastrostomy tube indicating ongoing need for medical intervention.",
+      "RISK_DEATH": "The court and first-instance tribunal found that failure to provide the medication threatened the fundamental rights to life and health of the applicant. Disease progression on all prior treatment lines and inability to receive further surgery made the risk of death imminent.",
+      "REQUESTED_TREATMENT": "Pembrolizumab (Keytruda) 200 mg administered by intravenous route every 21 days; duration: indefinite, with evaluation of response and possible scheme change",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Corte de Constitucionalidad confirmed the first-instance amparo ruling and denied the Instituto Guatemalteco de Seguridad Social's appeal, holding that the medical certificate by a qualified physician provided sufficient scientific and factual support for the constitutional protection. The court applied the dispositivo principle, privileging the patient's preference for the specific medication under the responsibility of the patient and prescribing physician. The court rejected the Instituto's argument that there was no basis for the amparo since the patient was already receiving medication, finding instead that the act being challenged remained latent and no express withdrawal of the claim had occurred.",
+      "COURT_CITATIONS": "Constitución Política de la República de Guatemala, artículos 3°, 93 y 94; Ley de Amparo, Exhibición Personal y de Constitucionalidad, artículos 8°, 10, 42, 43, 45, 47, 60, 61, 63, 64, 66, 67, 149, 163 literal c), 185; Acuerdo 1-2013 artículos 36, 44 y 46 de la Corte de Constitucionalidad; Pacto Internacional de Derechos Económicos, Sociales y Culturales, artículo 12; Declaración Americana de Derechos y Deberes del Hombre, artículo XI; Convención Americana sobre Derechos Humanos, artículo 4 numeral 1; Pacto Internacional de Derechos Civiles y Políticos, artículo 6 numeral 1; Expedientes de la Corte de Constitucionalidad: 3494-2023, 2663-2023, 1956-2023, 7455-2023, 5020-2023, 251-2024, 4413-2023, 264-2024, 2237-2024"
+    },
+    "missing_from_no": "Column N states only 'Keratinizing squamous cell carcinoma stage IV-A' without further detail, which is correct but incomplete. Missing: patient age (43 years); primary site detail (mobile tongue left side with extension to floor of mouth); full staging (CT4acN2cM0); gastrostomy tube dependency; fistulous tract; specific metastatic extension sites. Column O captures the main prior treatment steps but is missing: the post-operative lesion magnetic resonance imaging findings with parapharyngeal and carotid extension details; specific staging notation CT4acN2cM0; the 3 additional post-operative cetuximab cycles",
+    "possibly_incorrect": "Column N states 'Keratinizing squamous cell carcinoma stage IV-A' — the document states 'carcinoma epidermoide queratinizante moderadamente diferenciado invasivo' (keratinizing squamous cell carcinoma, moderately differentiated, invasive) staged CT4acN2cM0 Stage Four-A. This is consistent; no conflict. Column O states 'the patient underwent chemoradiation (Cisplatin), then Cetuximab (6 cycles) and major surgery (subtotal glossectomy)' — the document confirms this sequence. Column O states 'following surgery, a new ulcerated lesion and frank progression appeared, making him ineligible for further surgical resections' — the document confirms this. No factual conflicts detected."
+  }
+]

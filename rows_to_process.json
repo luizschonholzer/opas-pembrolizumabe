@@ -1,0 +1,1066 @@
+[
+  {
+    "row": 2,
+    "country": "Argentina",
+    "case": "14838/2025",
+    "pdf": "14838_2025.pdf",
+    "N": "Câncer de pulmão",
+    "O": "NI"
+  },
+  {
+    "row": 3,
+    "country": "Argentina",
+    "case": "013326/2024",
+    "pdf": "CCF 000104_2024.pdf",
+    "N": "procedural issue",
+    "O": "procedural issue"
+  },
+  {
+    "row": 4,
+    "country": "Argentina",
+    "case": "CCF 011768/2025",
+    "pdf": "14838_2025.pdf",
+    "N": "Not about pembrolizumab",
+    "O": "Not about pembrolizumab"
+  },
+  {
+    "row": 5,
+    "country": "Argentina",
+    "case": "CCF 002700/2025",
+    "pdf": "CCF 002700_2025_CA002.pdf",
+    "N": "Advanced-grade urothelial carcinoma with liver and lung metastasis",
+    "O": "Oncological treatment since 2017"
+  },
+  {
+    "row": 6,
+    "country": "Argentina",
+    "case": "CCF 016494/2025",
+    "pdf": "14838_2025.pdf",
+    "N": "Advanced-stage cervical cancer",
+    "O": ""
+  },
+  {
+    "row": 7,
+    "country": "Argentina",
+    "case": "CCF 013076/2025",
+    "pdf": "CCF 013076_2025.pdf",
+    "N": "Endometrioid endometrial carcinoma Stage IV: pT3a pN1a M1 (ovary, fallopian tube, sigmoid margin)",
+    "O": "Underwent chemotherapy"
+  },
+  {
+    "row": 8,
+    "country": "Argentina",
+    "case": "CCF 000104/2024",
+    "pdf": "CCF 000104_2024.pdf",
+    "N": "Triple-negative apocrine breast carcinoma",
+    "O": "Underwent chemotherapy"
+  },
+  {
+    "row": 9,
+    "country": "Argentina",
+    "case": "CCF 000023/2025",
+    "pdf": "CCF 000023_2025.pdf",
+    "N": "Cervical cancer Stage III C",
+    "O": "Recent diagnosis and use for primary treatment without recurrence"
+  },
+  {
+    "row": 10,
+    "country": "Argentina",
+    "case": "CCF 004030/2020/CA001",
+    "pdf": "CCF 004030_2020_CA001.pdf",
+    "N": "Advanced-stage renal cancer",
+    "O": "NI"
+  },
+  {
+    "row": 11,
+    "country": "Argentina",
+    "case": "CCF 000453/2016/CA001",
+    "pdf": "CCF 004030_2020_CA001.pdf",
+    "N": "NI",
+    "O": ""
+  },
+  {
+    "row": 16,
+    "country": "Brazil",
+    "case": "ARE 1577738",
+    "pdf": "ARE 1577738.pdf",
+    "N": "Metastatic colorectal cancer",
+    "O": "NI"
+  },
+  {
+    "row": 17,
+    "country": "Brazil",
+    "case": "RE 1581191",
+    "pdf": "RE 1581191.pdf",
+    "N": "Hodgkin Lymphoma – Nodular Sclerosis (ICD10: C81)",
+    "O": "Refractory and relapsed Hodgkin's lymphoma. Underwent surgery and bone marrow transplant."
+  },
+  {
+    "row": 28,
+    "country": "Brazil",
+    "case": "ARE 1572092",
+    "pdf": "ARE 1572092.pdf",
+    "N": "MALIGNANT NEOPLASM OF THE OVARY",
+    "O": ""
+  },
+  {
+    "row": 38,
+    "country": "Brazil",
+    "case": "ARE 1378749",
+    "pdf": "ARE 1378749.pdf",
+    "N": "Metastatic colon adenocarcinoma to liver",
+    "O": ""
+  },
+  {
+    "row": 40,
+    "country": "Brazil",
+    "case": "Rcl 80821 MC-Ref",
+    "pdf": "Rcl 80821 MC-Ref.pdf",
+    "N": "MALIGNANT NEOPLASM OF THE BREAST",
+    "O": "Prescribed in combination with chemotherapy"
+  },
+  {
+    "row": 41,
+    "country": "Brazil",
+    "case": "Rcl 79725 MC",
+    "pdf": "Rcl 79725 MC.pdf",
+    "N": "Renal cancer",
+    "O": "PRESCRIPTION AS ADJUVANT TO NEPHRECTOMY"
+  },
+  {
+    "row": 42,
+    "country": "Brazil",
+    "case": "Rcl 74968 AgR",
+    "pdf": "Rcl 74968 AgR.pdf",
+    "N": "METASTATIC LUNG ADENOCARCINOMA",
+    "O": "NI"
+  },
+  {
+    "row": 44,
+    "country": "Brazil",
+    "case": "Rcl 74743 MC-Ref",
+    "pdf": "Rcl 74743 MC-Ref.pdf",
+    "N": "Advanced lung cancer with subcutaneous nodule metastasis",
+    "O": "NI"
+  },
+  {
+    "row": 47,
+    "country": "Chile",
+    "case": "76405-2016",
+    "pdf": "76405-2016 - Chile.pdf",
+    "N": "Lymphoma",
+    "O": "NI"
+  },
+  {
+    "row": 51,
+    "country": "Colombia",
+    "case": "81511442",
+    "pdf": "81511442.docx",
+    "N": "LUNG CANCER with clinical staging close to T4 due to malignant tumor in the main bronchus",
+    "O": ""
+  },
+  {
+    "row": 53,
+    "country": "Ecuador",
+    "case": "2603/21-EP",
+    "pdf": "2603-21-EP - Equador.pdf",
+    "N": "NI",
+    "O": "NI"
+  },
+  {
+    "row": 59,
+    "country": "Uruguay",
+    "case": "2026-10-01 00:00:00",
+    "pdf": "2026-02-10.pdf",
+    "N": "Triple-negative breast cancer",
+    "O": "Not advanced or metastatic. Based on studies performed, neoadjuvant treatment with chemotherapy (carboplatin plus paclitaxel plus PEMBROLIZUMAB) was indicated. Neoadjuvant polychemotherapy based on paclitaxel and carboplatin with PEMBROLIZUMAB, for four cycles, is proposed."
+  },
+  {
+    "row": 60,
+    "country": "Uruguay",
+    "case": "171/2025",
+    "pdf": "2025-02-12.pdf",
+    "N": "Not about pembrolizumab",
+    "O": "Not about pembrolizumab"
+  },
+  {
+    "row": 61,
+    "country": "Uruguay",
+    "case": "151/2025",
+    "pdf": "2025-07-28.pdf",
+    "N": "high-grade utorhelial carcinoma",
+    "O": "NI"
+  },
+  {
+    "row": 62,
+    "country": "Uruguay",
+    "case": "126/2025",
+    "pdf": "2025-06-27.pdf",
+    "N": "LUNG ADENOCARCINOMA",
+    "O": "Stage 4 lung cancer. Pembrolizumab in combination with platinum-based chemotherapy and pemetrexed."
+  },
+  {
+    "row": 63,
+    "country": "Uruguay",
+    "case": "96/2025",
+    "pdf": "2025-04-30.pdf",
+    "N": "High-grade endometrioid carcinoma",
+    "O": "Stage 4 metastatic. The treating physician indicated the combination of PEMBROLIZUMAB and PEMETREXED... while the combination of both is not included [in the FTM]."
+  },
+  {
+    "row": 64,
+    "country": "Uruguay",
+    "case": "16/2025",
+    "pdf": "2025-02-12.pdf",
+    "N": "NI",
+    "O": "NI"
+  },
+  {
+    "row": 65,
+    "country": "Uruguay",
+    "case": "215/2024",
+    "pdf": "2024-08-07.pdf",
+    "N": "Lung Cancer PD-L1 negative",
+    "O": "NI"
+  },
+  {
+    "row": 66,
+    "country": "Uruguay",
+    "case": "91/2024",
+    "pdf": "2024-04-26.pdf",
+    "N": "ENDOMETRIOID CARCINOMA, FIGO 1-2, with extensive myometrial infiltration, via HSC, stage IV bone-only with P53 wild type and stable microsatellites, with bone metastases",
+    "O": "The therapeutic goal is palliative"
+  },
+  {
+    "row": 67,
+    "country": "Uruguay",
+    "case": "15/2024",
+    "pdf": "2024-02-05.pdf",
+    "N": "Renal cancer",
+    "O": "Failure of treatments performed to date. Treatment with the combination of PEMBROLIZUMAB and AXITINIB."
+  },
+  {
+    "row": 68,
+    "country": "Uruguay",
+    "case": "275/2023",
+    "pdf": "2023-01-02.pdf",
+    "N": "Not about pembrolizumab",
+    "O": "Not about pembrolizumab"
+  },
+  {
+    "row": 69,
+    "country": "Uruguay",
+    "case": "288/2023",
+    "pdf": "2023-12-05.pdf",
+    "N": "Triple-negative breast cancer (IDC G3 Score 9) with nodal involvement 90%",
+    "O": "Treated with radiotherapy and continues with hormone therapy. Neoadjuvant polychemotherapy based on Paclitaxel and Carboplatin with PEMBROLIZUMAB, followed by surgery and then adjuvant therapy."
+  },
+  {
+    "row": 70,
+    "country": "Uruguay",
+    "case": "276/2023",
+    "pdf": "2023-11-17.pdf",
+    "N": "Papillary renal cell carcinoma type 2, grade 3 (WHO/ISUP), pathological study pT3 a N1, neoplastic proliferation of papillary architecture",
+    "O": "Combination of Pembrolizumab + Axitinib"
+  },
+  {
+    "row": 71,
+    "country": "Uruguay",
+    "case": "233/2023",
+    "pdf": "2023-10-25.pdf",
+    "N": "Adjuvant treatment of ulcerated malignant melanoma Clark level V with metastasis in 2 of 4 lymph nodes, with periganglionic invasion",
+    "O": "PEMBROLIZUMAB adjuvant therapy for one year"
+  },
+  {
+    "row": 72,
+    "country": "Uruguay",
+    "case": "166/2023",
+    "pdf": "2023-05-19.pdf",
+    "N": "Clear cell renal cancer",
+    "O": "Combination of Pembrolizumab (Immunotherapy) and Axitinib (Tyrosine Kinase Inhibitor)."
+  },
+  {
+    "row": 73,
+    "country": "Uruguay",
+    "case": "135/2023",
+    "pdf": "2023-06-23.pdf",
+    "N": "Lung cancer PDL1 less than 1% negative",
+    "O": "Combined regimen of Carboplatin + Pemetrexed + Pembrolizumab."
+  },
+  {
+    "row": 74,
+    "country": "Uruguay",
+    "case": "117/2023",
+    "pdf": "2023-06-02.pdf",
+    "N": "Colon cancer with no microsatellite instability (high)",
+    "O": "NI"
+  },
+  {
+    "row": 75,
+    "country": "Uruguay",
+    "case": "108/2023",
+    "pdf": "2023-05-19-(108).pdf",
+    "N": "Advanced lung cancer (NSCLC stage IV, without EGFR mutation, PDL1 less than 50%)",
+    "O": "The patient received 6 cycles of polychemotherapy (Carboplatin/Paclitaxel regimen)."
+  },
+  {
+    "row": 76,
+    "country": "Uruguay",
+    "case": "52/2023",
+    "pdf": "2023-03-24.pdf",
+    "N": "Folliculotropic mycosis fungoides with large cell transformation",
+    "O": "Failure of other treatments"
+  },
+  {
+    "row": 77,
+    "country": "Uruguay",
+    "case": "2023-01-01 00:00:00",
+    "pdf": "2023-01-02.pdf",
+    "N": "Metastatic melanoma with right lymph node involvement (BRAF V600 mutated, adjuvant treatment)",
+    "O": "An adjuvant treatment"
+  },
+  {
+    "row": 78,
+    "country": "Uruguay",
+    "case": "224/2022",
+    "pdf": "2022-10-20.pdf",
+    "N": "Hodgkin Lymphoma",
+    "O": "Having already undergone three lines of drug treatment, none of which halted disease progression, the treating physicians indicated a fourth line of treatment based on PEMBROLIZUMAB at a dose of 200 mg every 21 days."
+  },
+  {
+    "row": 79,
+    "country": "Uruguay",
+    "case": "183/2022",
+    "pdf": "2022-09-23.pdf",
+    "N": "Metastatic squamous lung carcinoma (PDL1 10%)",
+    "O": "Indication for Chemotherapy + Pembrolizumab."
+  },
+  {
+    "row": 80,
+    "country": "Uruguay",
+    "case": "153/2022",
+    "pdf": "2022-08-09.pdf",
+    "N": "NI",
+    "O": "NI"
+  },
+  {
+    "row": 81,
+    "country": "Uruguay",
+    "case": "76/2022",
+    "pdf": "2022-04-08.pdf",
+    "N": "Not about pembrolizumab",
+    "O": ""
+  },
+  {
+    "row": 82,
+    "country": "Uruguay",
+    "case": "33/2022",
+    "pdf": "2022-04-08.pdf",
+    "N": "Colon cancer stage II",
+    "O": "The patient underwent multiple prior treatments, including surgeries and chemotherapies. Despite temporary partial remissions, the disease continued to progress."
+  },
+  {
+    "row": 83,
+    "country": "Uruguay",
+    "case": "203/2021",
+    "pdf": "2021-12-01.pdf",
+    "N": "Locoregionally advanced rectal adenocarcinoma with hepatic, lymph node and peritoneal involvement (21 years old)",
+    "O": "Mentions 'secondarism' and 'secondary lesions'. Received systemic chemotherapy (capecitabine, oxaliplatin, and bevacizumab) with good initial response. However, in September 2021, showed increased tumor markers and new secondary pulmonary and hepatic lesions."
+  },
+  {
+    "row": 84,
+    "country": "Uruguay",
+    "case": "150/2021",
+    "pdf": "2021-09-20.pdf",
+    "N": "Advanced squamous tonsil carcinoma (56 years old)",
+    "O": ""
+  },
+  {
+    "row": 85,
+    "country": "Uruguay",
+    "case": "79/2021",
+    "pdf": "2021-05-07.pdf",
+    "N": "Kidney cancer with disseminated disease at lymph node and bone level, with local recurrence",
+    "O": "Underwent left radical nephrectomy, where renal cell carcinoma and two primary tumors (kidney and rectum) were found. Received chemotherapy between July and October 2020 (six fortnightly series)."
+  },
+  {
+    "row": 86,
+    "country": "Uruguay",
+    "case": "22/2021",
+    "pdf": "2021-02-22.pdf",
+    "N": "Not about pembrolizumab",
+    "O": ""
+  },
+  {
+    "row": 87,
+    "country": "Uruguay",
+    "case": "19/2021",
+    "pdf": "2021-02-22.pdf",
+    "N": "Nodular melanoma of the right foot, pT4b pN2a M0, resected stage IIIC and with lymph node dissection",
+    "O": "Adjuvant therapy. Pathological anatomy confirmed metastatic colonization by a pigmented malignant melanoma, BRAF Negative. Treatment refused based on the fact that it was Stage III and non-metastatic."
+  },
+  {
+    "row": 88,
+    "country": "Uruguay",
+    "case": "194/2020",
+    "pdf": "2020-07-14.pdf",
+    "N": "Not about pembrolizumab",
+    "O": ""
+  },
+  {
+    "row": 89,
+    "country": "Uruguay",
+    "case": "47/2020",
+    "pdf": "2020-07-14.pdf",
+    "N": "Hypopharyngeal cancer with recurrence; Lung cancer PDL1 (30% positive)",
+    "O": "NI"
+  },
+  {
+    "row": 90,
+    "country": "Uruguay",
+    "case": "91/2020",
+    "pdf": "2020-07-14.pdf",
+    "N": "Not about pembrolizumab",
+    "O": ""
+  },
+  {
+    "row": 91,
+    "country": "Uruguay",
+    "case": "34/2020",
+    "pdf": "2020-07-14.pdf",
+    "N": "Not about pembrolizumab",
+    "O": ""
+  },
+  {
+    "row": 92,
+    "country": "Uruguay",
+    "case": "255/2019",
+    "pdf": "2019-12-04.pdf",
+    "N": "Invasive nodular melanoma (cells with V600E mutation in the BRAF gene)",
+    "O": "A BRAF mutation study was performed, resulting negative (no cells with the V600E mutation in the BRAF gene were detected)."
+  },
+  {
+    "row": 93,
+    "country": "Uruguay",
+    "case": "50/2019",
+    "pdf": "2019-09-02.pdf",
+    "N": "Lung cancer stage IV with PDL1 greater than 50% (74 years old)",
+    "O": "First-line drug"
+  },
+  {
+    "row": 94,
+    "country": "Uruguay",
+    "case": "13/2019",
+    "pdf": "2019-03-06.pdf",
+    "N": "Advanced lung adenocarcinoma stage III",
+    "O": "Adjuvant chemotherapy with Pemetrexed (poor tolerance). Switch to Carboplatin/Pemetrexed (completed 3 cycles). Radiotherapy. Second line treatment."
+  },
+  {
+    "row": 95,
+    "country": "Uruguay",
+    "case": "2019-02-01 00:00:00",
+    "pdf": "2019-01-29.pdf",
+    "N": "Transitional urothelial carcinoma with bone and pulmonary progression",
+    "O": "The pathology progressed to bone and pulmonary metastases, even after two previous treatments. Adjuvant Immunotherapy."
+  },
+  {
+    "row": 99,
+    "country": "Guatemala",
+    "case": "5837/2025",
+    "pdf": "5837-2025 - Guatemala.pdf",
+    "N": "Cervical cancer EC IIIC of squamous histology",
+    "O": "Has received and exhausted all known treatments"
+  },
+  {
+    "row": 100,
+    "country": "Guatemala",
+    "case": "6697/2025",
+    "pdf": "6697-2025- Guatemala.pdf",
+    "N": "Hodgkin lymphoma of nodular sclerosis type, clinical stage IV with pulmonary and lymph node metastases",
+    "O": "NI"
+  },
+  {
+    "row": 101,
+    "country": "Guatemala",
+    "case": "6313-2023",
+    "pdf": "6313-2023 -  Guatemala.pdf",
+    "N": "Pulmonary and lymph node involvement",
+    "O": "NI"
+  },
+  {
+    "row": 102,
+    "country": "Guatemala",
+    "case": "6513-2024",
+    "pdf": "6513-2024 - Guatemala.pdf",
+    "N": "Breast cancer clinical stage IV - estrogen receptor expression 0%, progesterone receptor 0%, Her2 without staining in neoplastic cells 0+, and positive PD-1 expression determined",
+    "O": "NI"
+  },
+  {
+    "row": 103,
+    "country": "Guatemala",
+    "case": "5800-2025",
+    "pdf": "5800-2025.pdf",
+    "N": "Metastatic Renal Cancer",
+    "O": "NI"
+  },
+  {
+    "row": 104,
+    "country": "Guatemala",
+    "case": "6685-2025",
+    "pdf": "6685-2025.pdf",
+    "N": "GASTRIC CANCER CLINICAL STAGE IV WITH METASTASIS",
+    "O": "NI"
+  },
+  {
+    "row": 105,
+    "country": "Guatemala",
+    "case": "7447-2023",
+    "pdf": "7447-2023.pdf",
+    "N": "Hodgkin lymphoma relapsed after autologous bone marrow transplant",
+    "O": "NI"
+  },
+  {
+    "row": 106,
+    "country": "Guatemala",
+    "case": "7430-2024",
+    "pdf": "7430-2024.pdf",
+    "N": "Recurrent breast cancer PDL 1 positive",
+    "O": "Bone metastases and mediastinal lymph nodes"
+  },
+  {
+    "row": 107,
+    "country": "Guatemala",
+    "case": "5023-2023",
+    "pdf": "5023-2023.pdf",
+    "N": "MALIGNANT MELANOMA METASTATIC TO PULMONARY LYMPH NODES AND LIVER",
+    "O": "NI"
+  },
+  {
+    "row": 108,
+    "country": "Guatemala",
+    "case": "6807-2023",
+    "pdf": "6807-2023.pdf",
+    "N": "Hodgkin lymphoma, nodular sclerosis variant",
+    "O": "NI"
+  },
+  {
+    "row": 109,
+    "country": "Guatemala",
+    "case": "7447-2023",
+    "pdf": "7447-2023.pdf",
+    "N": "Hodgkin lymphoma relapsed after autologous bone marrow transplant",
+    "O": "NI"
+  },
+  {
+    "row": 110,
+    "country": "Guatemala",
+    "case": "264-2024",
+    "pdf": "264-2024.pdf",
+    "N": "RECURRENT METASTATIC MALIGNANT MELANOMA AT LYMPH NODE LEVEL",
+    "O": "NI"
+  },
+  {
+    "row": 111,
+    "country": "Guatemala",
+    "case": "3550-2024",
+    "pdf": "3550-2024.pdf",
+    "N": "Colon cancer EC IV due to peritoneal carcinomatosis",
+    "O": "\"Microsatellite instability\" (loss of expression of MLH-1, MSH-6, and PMS2). The patient had already exhausted standard protocols (CAPOX + Bevacizumab and CAPIRI + Bevacizumab) between 2018 and 2022, showing disease progression."
+  },
+  {
+    "row": 112,
+    "country": "Guatemala",
+    "case": "6931-2024",
+    "pdf": "6931-2024.pdf",
+    "N": "Keratinizing squamous cell carcinoma stage IV-A",
+    "O": "The patient underwent chemoradiation (Cisplatin), then Cetuximab (6 cycles) and major surgery (subtotal glossectomy). Following surgery, a new ulcerated lesion and frank progression appeared, making him ineligible for further surgical resections."
+  },
+  {
+    "row": 113,
+    "country": "Guatemala",
+    "case": "7358-2025",
+    "pdf": "7358-2025.pdf",
+    "N": "Moderately differentiated invasive non-keratinizing squamous cell carcinoma (stage IV-A)",
+    "O": "SITE: ORAL CAVITY, SUB-SITE: MOBILE TONGUE, RIGHT SIDE, cT4acNIcMO Stage IVa"
+  },
+  {
+    "row": 114,
+    "country": "Guatemala",
+    "case": "2625-2024",
+    "pdf": "2625-2024.pdf",
+    "N": "Renal Cancer Stage IV with Pulmonary Metastases",
+    "O": "NI"
+  },
+  {
+    "row": 115,
+    "country": "Guatemala",
+    "case": "7430-2024",
+    "pdf": "7430-2024.pdf",
+    "N": "Recurrent breast cancer PDL 1 positive",
+    "O": "Bone and mediastinal lymph node metastases"
+  },
+  {
+    "row": 116,
+    "country": "Guatemala",
+    "case": "3802-2024",
+    "pdf": "3802-2024.pdf",
+    "N": "Papillary Transitional Cell Carcinoma [Urothelial]",
+    "O": "Post-right nephrectomy (kidney removal) for a 5.5 cm mass with areas of necrosis."
+  },
+  {
+    "row": 117,
+    "country": "Guatemala",
+    "case": "3367-2024",
+    "pdf": "3367-2024.pdf",
+    "N": "MALIGNANT MELANOMA STAGE III D",
+    "O": "Metastatic to lung, lymph nodes, and liver. Adjuvant treatment."
+  },
+  {
+    "row": 118,
+    "country": "Guatemala",
+    "case": "7354-2024",
+    "pdf": "7354-2024.pdf",
+    "N": "Acral metastatic melanoma clinical stage IV",
+    "O": "Lesion on the left big toe with metastases in inguinal lymph nodes and retroperitoneal lymphadenopathies (abdomen) larger than 2 cm."
+  },
+  {
+    "row": 119,
+    "country": "Guatemala",
+    "case": "4430-2024",
+    "pdf": "4430-2024.pdf",
+    "N": "Renal Cell Carcinoma (Renal Cancer) Clinical Stage IV, with bone metastasis",
+    "O": "NI"
+  },
+  {
+    "row": 120,
+    "country": "Guatemala",
+    "case": "1449-2025",
+    "pdf": "1449-2025.pdf",
+    "N": "Metastatic Pulmonary Malignant Melanoma",
+    "O": "NI"
+  },
+  {
+    "row": 121,
+    "country": "Guatemala",
+    "case": "1451-2025",
+    "pdf": "1451-2025.pdf",
+    "N": "RENAL CANCER CLINICAL STAGE IV",
+    "O": "Clear cell carcinoma metastatic to the lung"
+  },
+  {
+    "row": 122,
+    "country": "Guatemala",
+    "case": "1343-2025",
+    "pdf": "1343-2025.pdf",
+    "N": "Cervical Cancer Clinical Stage IVA",
+    "O": "NI"
+  },
+  {
+    "row": 123,
+    "country": "Guatemala",
+    "case": "4863-2025",
+    "pdf": "4863-2025.pdf",
+    "N": "Renal Carcinoma post-nephrectomy recurrence with metastatic systemic activity",
+    "O": ""
+  },
+  {
+    "row": 124,
+    "country": "Guatemala",
+    "case": "4213-2025",
+    "pdf": "4213-2025.pdf",
+    "N": "Kidney cancer stage IV",
+    "O": "Renal cell carcinoma recurring post-nephrectomy (cancer returned after kidney removal) with systemic metastatic activity (bones and femur)."
+  },
+  {
+    "row": 125,
+    "country": "Guatemala",
+    "case": "3090-2025",
+    "pdf": "3090-2025.pdf",
+    "N": "TRIPLE-NEGATIVE METASTATIC BREAST CANCER WITH POSITIVE GERMINAL BRCA2 MUTATION",
+    "O": "NI"
+  },
+  {
+    "row": 126,
+    "country": "Guatemala",
+    "case": "6823-2025",
+    "pdf": "6823-2025.pdf",
+    "N": "Prostate cancer clinical stage IV castration-sensitive with metastasis",
+    "O": "NI"
+  },
+  {
+    "row": 127,
+    "country": "Guatemala",
+    "case": "6685-2025",
+    "pdf": "6685-2025.pdf",
+    "N": "Stage IV Gastric Cancer with Metastasis",
+    "O": "NI"
+  },
+  {
+    "row": 128,
+    "country": "Guatemala",
+    "case": "7104-2025",
+    "pdf": "1343-2025.pdf",
+    "N": "não é sobre pembro",
+    "O": "Not about Pembrolizumab"
+  },
+  {
+    "row": 129,
+    "country": "Guatemala",
+    "case": "7103-2025",
+    "pdf": "7103-2025.pdf",
+    "N": "Endometrial Cancer EC IV.",
+    "O": "Metastatic to liver, retroperitoneal lymph nodes, axilla, and lumbar spine. Recurrence. Chemotherapy with Paclitaxel and Cisplatin (discontinued due to renal toxicity)."
+  },
+  {
+    "row": 130,
+    "country": "Guatemala",
+    "case": "7276-2025",
+    "pdf": "7276-2025.pdf",
+    "N": "Breast Cancer Stage IV",
+    "O": "Tumor Mutational Burden (TMB) of 37.01 mut/Mb. The case file details an exhaustive list of failed treatments administered by the IGSS: Doxorubicin, Cyclophosphamide, Paclitaxel, Carboplatin, Gemcitabine, Docetaxel, and hormonal therapy (Abemaciclib and Letrozole)."
+  },
+  {
+    "row": 155,
+    "country": "Costa Rica",
+    "case": "08350 - 2024",
+    "pdf": "2024-04-02_(08350-2024) .pdf",
+    "N": "Left breast cancer cT2 cN1 M0 triple negative",
+    "O": "Neoadjuvant therapy (before surgery), combined with chemotherapy."
+  },
+  {
+    "row": 156,
+    "country": "Costa Rica",
+    "case": "00087 - 2024",
+    "pdf": "2024-01-09_(00087-2024) .pdf",
+    "N": "invasive ductal carcinoma of the left breast, triple-negative, cT2N0M0, stage IIB, undergoing neoadjuvant chemotherapy (curative intent)",
+    "O": "Currently receiving adjuvant treatment with platins and taxanes, which has produced adverse effects from chemotherapy use. The patient previously received therapy with epirubicin and cyclophosphamide."
+  },
+  {
+    "row": 157,
+    "country": "Costa Rica",
+    "case": "01800 - 2024",
+    "pdf": "2024-01-09_(00087-2024) .pdf",
+    "N": "Not about pembrolizumab",
+    "O": "Not about pembrolizumab"
+  },
+  {
+    "row": 158,
+    "country": "Costa Rica",
+    "case": "29124 - 2023",
+    "pdf": "2023-03-31_(07660-2023) .pdf",
+    "N": "Not about pembrolizumab",
+    "O": "Not about pembrolizumab"
+  },
+  {
+    "row": 159,
+    "country": "Costa Rica",
+    "case": "23364 - 2023",
+    "pdf": "2023-09-19_(23364-2023) .pdf",
+    "N": "Breast cancer cT4dN1Mx triple negative",
+    "O": "Ki67 80%. Neoadjuvant chemotherapy as a priority followed by radical mastectomy."
+  },
+  {
+    "row": 160,
+    "country": "Costa Rica",
+    "case": "16525 - 2023",
+    "pdf": "2023-07-07_(16525-2023) .pdf",
+    "N": "Right triple-negative breast cancer cT4b cN2 M0",
+    "O": "Neoadjuvant treatment"
+  },
+  {
+    "row": 161,
+    "country": "Costa Rica",
+    "case": "10761 - 2023",
+    "pdf": "2023-03-31_(07660-2023) .pdf",
+    "N": "Not about pembrolizumab",
+    "O": ""
+  },
+  {
+    "row": 162,
+    "country": "Costa Rica",
+    "case": "07660 - 2023",
+    "pdf": "2023-03-31_(07660-2023) .pdf",
+    "N": "Metastatic clear cell renal cancer stage IV",
+    "O": "NI"
+  },
+  {
+    "row": 163,
+    "country": "Costa Rica",
+    "case": "28603 - 2022",
+    "pdf": "2022-11-30_(28603-2022) .pdf",
+    "N": "Metastatic clear cell renal cancer stage IV",
+    "O": "ECOG 0"
+  },
+  {
+    "row": 164,
+    "country": "Costa Rica",
+    "case": "19648 - 2022",
+    "pdf": "2022-08-24_(19648-2022) .pdf",
+    "N": "Kidney cancer with metastasis to lungs, lymph nodes and skin",
+    "O": "Already in palliative care"
+  },
+  {
+    "row": 165,
+    "country": "Costa Rica",
+    "case": "06935 - 2022",
+    "pdf": "2022-03-25_(06754-2022) .pdf",
+    "N": "Not about pembrolizumab",
+    "O": "Not about pembrolizumab"
+  },
+  {
+    "row": 166,
+    "country": "Costa Rica",
+    "case": "25193 - 2021",
+    "pdf": "2021-11-09_(25193-2021) .pdf",
+    "N": "Small cell lung cancer stage IVB with mediastinal lymph node metastasis",
+    "O": "Palliative treatment"
+  },
+  {
+    "row": 167,
+    "country": "Costa Rica",
+    "case": "08643 - 2021",
+    "pdf": "2021-04-30_(08643-2021) .pdf",
+    "N": "Sigmoid colon cancer stage IV with high microsatellite instability",
+    "O": "Second Palliative Line. The patient had already failed multiple lines of conventional chemotherapy (XELOX and XELIRI). High Microsatellite Instability (MSI-H)."
+  },
+  {
+    "row": 168,
+    "country": "Costa Rica",
+    "case": "17008 - 2020",
+    "pdf": "2020-09-11_(17214-2020) .pdf",
+    "N": "Not about pembrolizumab",
+    "O": "Not about pembrolizumab"
+  },
+  {
+    "row": 169,
+    "country": "Costa Rica",
+    "case": "21620 - 2019",
+    "pdf": "2019-11-01_(06497-2019) .pdf",
+    "N": "procedural issue",
+    "O": "procedural issue"
+  },
+  {
+    "row": 170,
+    "country": "Costa Rica",
+    "case": "06497 - 2019",
+    "pdf": "2019-11-01_(06497-2019) .pdf",
+    "N": "Unresectable metastatic malignant melanoma pT4B pN0 M0",
+    "O": "BRAF negative"
+  },
+  {
+    "row": 172,
+    "country": "Costa Rica",
+    "case": "01588 - 2017",
+    "pdf": "2017-02-03_(01588-2017) .pdf",
+    "N": "Left retroauricular malignant melanoma",
+    "O": "The PET-CT from October 2016 documented disease activity in the neck, thorax, and sacral bone."
+  },
+  {
+    "row": 173,
+    "country": "Costa Rica",
+    "case": "01920 - 2024",
+    "pdf": "2024-04-26_(01920-2024) .pdf",
+    "N": "Breast cancer cT4cN1M0 triple negative",
+    "O": "Pembrolizumab for combination with neoadjuvant chemotherapy"
+  },
+  {
+    "row": 174,
+    "country": "Costa Rica",
+    "case": "27212 - 2023",
+    "pdf": "2023-10-24_(27212-2023) .pdf",
+    "N": "Squamous cell carcinoma of the molar trigone CT4BN3AM0, stage IVB, P16+ PDL-1 10%, advanced to mediastinal and pulmonary lymph nodes with pulmonary and CNS progression",
+    "O": "The patient had already undergone curative treatment in 2020 and a first palliative line (carboplatin + paclitaxel + cetuximab) until 2023. The Pembrolizumab request would be for a second line."
+  },
+  {
+    "row": 175,
+    "country": "Costa Rica",
+    "case": "30403 - 2022",
+    "pdf": "2022-12-21_(30403-2022) .pdf",
+    "N": "Triple-negative breast cancer cT2NM0",
+    "O": "Triple-negative breast cancer CT2N0M0 initiating neoadjuvant chemotherapy, ECOG 0"
+  },
+  {
+    "row": 176,
+    "country": "Costa Rica",
+    "case": "06754 - 2022",
+    "pdf": "2022-03-25_(06754-2022) .pdf",
+    "N": "Squamous cell carcinoma of the oral cavity with pulmonary metastasis",
+    "O": "PD-L1 80%. The patient attempted first-line chemotherapy but could not tolerate the treatment due to toxicity, leaving few conventional therapeutic alternatives."
+  },
+  {
+    "row": 177,
+    "country": "Costa Rica",
+    "case": "17214 - 2020",
+    "pdf": "2020-09-11_(17214-2020) .pdf",
+    "N": "High-grade papillary bladder carcinoma, recurrent with pulmonary metastasis (stage IV)",
+    "O": "Underwent three surgeries and first-line chemotherapy (Carboplatin + Gemcitabine). Showed disease progression (new lymph node metastases) and poor tolerance to second-line chemotherapy (Paclitaxel), with neutropenia and severe pain."
+  },
+  {
+    "row": 178,
+    "country": "Costa Rica",
+    "case": "21424 - 2019",
+    "pdf": "2019-11-01_(21424-2019) .pdf",
+    "N": "Merkel cell carcinoma with metastasis to liver and base of tongue",
+    "O": "NI"
+  },
+  {
+    "row": 179,
+    "country": "Costa Rica",
+    "case": "02662 - 2026",
+    "pdf": "2026-01-23_(02662-2026) .pdf",
+    "N": "Recurrent unresectable Merkel cell carcinoma with large palpable right iliac mass",
+    "O": "The patient was already undergoing radiotherapy, but the disease continued to progress. The tumor could not be surgically removed ('unresectable')."
+  },
+  {
+    "row": 180,
+    "country": "Costa Rica",
+    "case": "34813 - 2025",
+    "pdf": "2025-10-24_(34813-2025) .pdf",
+    "N": "Classic CD20-positive Lymphoma (stage IV-B)",
+    "O": "The patient had already undergone multiple chemotherapy protocols (ABVD, Rituximab, R-GEMOX) without achieving the remission required for an Autologous Stem Cell Transplant (BMT)."
+  },
+  {
+    "row": 181,
+    "country": "Costa Rica",
+    "case": "26416 - 2025",
+    "pdf": "2025-08-20_(26416-2025) .pdf",
+    "N": "Recurrent intrahepatic cholangiocarcinoma. Mutação no GEN IDH1.\n\nDeficiência de proteínas MMR (dMMR): Perda de expressão de MLH1 e PMS2. Inestabilidade de Microsatélites (MSI-H).",
+    "O": "Recurrent and unresectable (after right hepatectomy and failure of multiple chemotherapy lines: Cisplatin/Gemcitabine and CAPEOX)."
+  },
+  {
+    "row": 182,
+    "country": "Costa Rica",
+    "case": "21462 - 2025",
+    "pdf": "2025-07-11_(21462-2025) .pdf",
+    "N": "High-grade papillary urothelial cancer",
+    "O": "NI"
+  },
+  {
+    "row": 183,
+    "country": "Costa Rica",
+    "case": "21045 - 2025",
+    "pdf": "2024-07-24_(05332-2025) .pdf",
+    "N": "Not about pembrolizumab",
+    "O": ""
+  },
+  {
+    "row": 184,
+    "country": "Costa Rica",
+    "case": "14922 - 2025",
+    "pdf": "2024-07-24_(05332-2025) .pdf",
+    "N": "Not about pembrolizumab",
+    "O": ""
+  },
+  {
+    "row": 185,
+    "country": "Costa Rica",
+    "case": "11559-2025",
+    "pdf": "2025-04-22_(11559-2025) .pdf",
+    "N": "Hodgkin lymphoma with nodular sclerosis (IIIBX)",
+    "O": "Has failed all conventional treatment lines (ABVD and DHAP chemotherapy) and is not eligible for radiotherapy or bone marrow transplant due to disease progression."
+  },
+  {
+    "row": 186,
+    "country": "Costa Rica",
+    "case": "08747 - 2025",
+    "pdf": "2025-03-21_(08747-2025) .pdf",
+    "N": "Metastatic rectal cancer",
+    "O": "After rectal surgery in 2023, attempted adjuvant chemotherapy (Oxaliplatin and Capecitabine), but only tolerated 3 cycles before discontinuing due to severe toxicity (intolerance)."
+  },
+  {
+    "row": 187,
+    "country": "Costa Rica",
+    "case": "09078 - 2025",
+    "pdf": "2025-03-21_(08747-2025) .pdf",
+    "N": "Not about pembrolizumab",
+    "O": ""
+  },
+  {
+    "row": 188,
+    "country": "Costa Rica",
+    "case": "07629 - 2025",
+    "pdf": "2024-07-24_(05332-2025) .pdf",
+    "N": "Not about pembrolizumab",
+    "O": ""
+  },
+  {
+    "row": 189,
+    "country": "Costa Rica",
+    "case": "05373 - 2025",
+    "pdf": "2024-07-24_(05332-2025) .pdf",
+    "N": "Not about pembrolizumab",
+    "O": ""
+  },
+  {
+    "row": 190,
+    "country": "Costa Rica",
+    "case": "01109 - 2025",
+    "pdf": "2024-07-24_(05332-2025) .pdf",
+    "N": "Not about pembrolizumab",
+    "O": ""
+  },
+  {
+    "row": 191,
+    "country": "Costa Rica",
+    "case": "35510 - 2024",
+    "pdf": "2024-11-24_(35510-2024) .pdf",
+    "N": "Right triple-negative breast carcinoma, stage IIB cT2N1M0",
+    "O": "Neoadjuvant treatment was initiated with carboplatin and taxane-based chemotherapy followed by anthracyclines; Pembrolizumab was also requested to be administered concomitantly with neoadjuvant chemotherapy."
+  },
+  {
+    "row": 192,
+    "country": "Costa Rica",
+    "case": "34625 - 2024",
+    "pdf": "2024-11-20_(34625-2024) .pdf",
+    "N": "Cervical cancer stage IV with PD-L1 CPS 5 expression",
+    "O": "NI"
+  },
+  {
+    "row": 193,
+    "country": "Costa Rica",
+    "case": "25329 - 2024",
+    "pdf": "2024-09-03_(25329-2024) .pdf",
+    "N": "Triple-negative breast cancer T4N0M0",
+    "O": "Preoperative [neoadjuvant] treatment"
+  },
+  {
+    "row": 194,
+    "country": "Costa Rica",
+    "case": "21436 - 2024",
+    "pdf": "2024-01-09_(00087-2024) .pdf",
+    "N": "Not about pembrolizumab",
+    "O": ""
+  },
+  {
+    "row": 195,
+    "country": "Costa Rica",
+    "case": "19632 - 2024",
+    "pdf": "2024-01-09_(00087-2024) .pdf",
+    "N": "Not about pembrolizumab",
+    "O": ""
+  },
+  {
+    "row": 196,
+    "country": "Costa Rica",
+    "case": "13254 - 2024",
+    "pdf": "2024-05-17_(13342-2024) .pdf",
+    "N": "Not about pembrolizumab",
+    "O": ""
+  },
+  {
+    "row": 197,
+    "country": "Costa Rica",
+    "case": "05332 - 2025",
+    "pdf": "2024-07-24_(05332-2025) .pdf",
+    "N": "Invasive triple-negative breast carcinoma cT3N1M0",
+    "O": "Ki67 70%. The goal is to achieve Pathological Complete Response (pCR) before surgery to ensure 'better long-term outcomes'."
+  },
+  {
+    "row": 198,
+    "country": "Costa Rica",
+    "case": "13342 - 2024",
+    "pdf": "2024-05-17_(13342-2024) .pdf",
+    "N": "Metastatic gastric cancer with 6% PDL-1 positive expression",
+    "O": "Loss of expression of PMS2 and MSH6. HER2 negative. Due to the presence of metastatic and unresectable disease, palliative chemotherapy with FOLFOX regimen was initiated in January 2024."
+  }
+]

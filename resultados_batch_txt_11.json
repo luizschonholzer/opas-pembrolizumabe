@@ -1,0 +1,261 @@
+[
+  {
+    "country": "Guatemala",
+    "pdf_name": "1449-2025.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__1449-2025.pdf.txt",
+    "rows": [
+      {
+        "row": 120,
+        "case": "1449-2025",
+        "N": "Metastatic Pulmonary Malignant Melanoma",
+        "O": "NI",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__1449-2025.pdf.txt"
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Metastatic Pulmonary Malignant Melanoma (Melanoma Maligno Metastasico Pulmonar)",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "NOT FOUND",
+      "CLINICAL_HISTORY": "Patient is an affiliate of the Instituto Guatemalteco de Seguridad Social (IGSS). She was diagnosed with Metastatic Pulmonary Malignant Melanoma. She received and exhausted all known treatments without improvement. Her treating oncologist, Doctor Cesar Estuardo Hernandez Monroy (colegiado 9,101), issued a medical certificate dated December 19, 2023, stating that Pembrolizumab (Keytruda) 400 mg intravenously every 6 weeks for an indefinite period is the recommended first-line treatment, having demonstrated significant improvement in progression-free survival and overall survival in previously untreated metastatic disease.",
+      "SYMPTOMS": "Disease progression despite prior treatments; fear of loss of life due to lack of adequate treatment.",
+      "DISEASE_SEVERITY": "Severe — Metastatic Pulmonary Malignant Melanoma with disease progression despite exhaustion of prior treatments; treating oncologist indicated the patient's life depends on the requested treatment.",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Multiple procedures and medications prescribed by the IGSS to combat the disease, all without effect and causing side effects. All known treatments reportedly exhausted.",
+      "THERAPEUTIC_FAILURE": "Patient states she underwent different procedures and received different medications without improvement; disease persisted and progressed despite all IGSS-provided treatments.",
+      "BIOMARKERS": "Programmed Death-Ligand 1 %: NOT FOUND | Microsatellite Instability status: NOT FOUND | Tumor Mutational Burden: NOT FOUND | Human Epidermal Growth Factor Receptor 2: NOT FOUND | Epidermal Growth Factor Receptor: NOT FOUND | Anaplastic Lymphoma Kinase: NOT FOUND | ROS1: NOT FOUND | KRAS: NOT FOUND | B-Raf Proto-Oncogene: NOT FOUND | others: NOT FOUND",
+      "METASTASIS_SITES": "Lung (pulmonary metastasis, as indicated by the diagnosis of Metastatic Pulmonary Malignant Melanoma)",
+      "MEDICAL_JUSTIFICATION": "Treating oncologist Doctor Cesar Estuardo Hernandez Monroy issued a medical certificate recommending Pembrolizumab (Keytruda) 400 mg intravenously every 6 weeks for an indefinite period as first-line treatment, citing evidence that this treatment significantly increases progression-free survival and overall survival in previously untreated metastatic disease. The patient's life was stated to depend on the treatment.",
+      "URGENCY": "High — the patient feared imminent loss of life; provisional amparo was granted; the disease was described as grave and life-threatening without adequate treatment.",
+      "RISK_DETERIORATION": "High — the treating oncologist indicated the disease had evolved and the patient's life was at risk without the requested medication.",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "High — the treating oncologist explicitly stated that the patient's life depends on the treatment; the court noted that the disease threatens to cause severe damage if not adequately treated.",
+      "REQUESTED_TREATMENT": "Pembrolizumab (Keytruda) 400 mg intravenously every 6 weeks for an indefinite period",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Constitutional Court of Guatemala (Corte de Constitucionalidad) upheld the first-instance amparo and confirmed it on appeal, denying the appeal filed by the Instituto Guatemalteco de Seguridad Social. The Court held that the State has a duty to guarantee the rights to life and health as fundamental rights, and that social security institutions must provide affiliated members with the appropriate medications for their conditions. The Court found that the medical certificate and prescription issued by the oncologist Doctor Cesar Estuardo Hernandez Monroy provided sufficient scientific and factual support for the requested drug, and that the amparo judgment did not constitute a medical prescription by judges but rather a constitutional determination based on the expert medical opinion of a qualified treating physician. The Court applied the dispositivo principle, under which the patient's preference for a specific medication, when backed by adequate medical support, must be privileged under the patient's and treating physician's responsibility, prevailing over formalist, economic, and administrative arguments.",
+      "COURT_CITATIONS": "Articles 3, 93, 94, 100 of the Constitucion Politica de la Republica de Guatemala; Article 4(1) of the American Convention on Human Rights; Article 6(1) of the International Covenant on Civil and Political Rights; Article 12 of the International Covenant on Economic, Social and Cultural Rights; Articles 265, 268, 272(c) of the Constitucion Politica de la Republica de Guatemala; Articles 8, 10, 42, 43, 45, 49, 60, 61, 66, 67, 149, 156, 163(c), 179, 185 of the Ley de Amparo, Exhibicion Personal y de Constitucionalidad; Articles 7 Bis of Acuerdo 3-89; Articles 35, 36, 46 of Acuerdo 1-2013 of the Corte de Constitucionalidad; Expedientes 3683-2024, 6745-2024, 8151-2024, 7385-2023, 1472-2023, 4160-2024, 7994-2023, 1278-2024, 2228-2024, 7817-2023, 4696-2023, 1058-2023, 2925-2023"
+    },
+    "missing_from_no": "Column O was marked as NI (not informed). The document contains: primary diagnosis of Metastatic Pulmonary Malignant Melanoma; patient identity (Sandra Monica Mesias Arevalo); treating oncologist (Dr. Cesar Estuardo Hernandez Monroy); requested treatment (Pembrolizumab/Keytruda 400 mg IV every 6 weeks indefinitely); prior treatment failure; judicial outcome (amparo granted); medical justification based on oncologist certificate; legal grounds including constitutional articles and international human rights instruments.",
+    "possibly_incorrect": "No conflicts detected",
+    "error": null
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "1451-2025.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__1451-2025.pdf.txt",
+    "rows": [
+      {
+        "row": 121,
+        "case": "1451-2025",
+        "N": "RENAL CANCER CLINICAL STAGE IV",
+        "O": "Clear cell carcinoma metastatic to the lung",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__1451-2025.pdf.txt"
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Renal Cancer Clinical Stage Four (Cancer Renal Etapa Clinica IV)",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "NOT FOUND",
+      "CLINICAL_HISTORY": "Patient Jose David Veliz Linares is an affiliate of the Instituto Guatemalteco de Seguridad Social. He was diagnosed with renal cancer since 2018. He underwent left nephrectomy and subsequently remained under surveillance. He had a history of chronic lower back pain of approximately 5 years. Radiological studies performed in 2024 revealed pulmonary nodules in the inferior and superior right lobes. On March 21, 2024, a biopsy of a subpleural pulmonary nodule in the right inferior lobe was performed, which was compatible with clear cell carcinoma metastatic to the lung. His treating oncologist, Doctor Claudia L. Caceres M. (colegiado 16,645), issued a medical certificate on April 10, 2024, recommending systemic therapy.",
+      "SYMPTOMS": "Chronic lower back pain of approximately 5 years duration; pulmonary nodules identified on radiological imaging.",
+      "DISEASE_SEVERITY": "Severe — Renal Cancer Clinical Stage Four with confirmed clear cell carcinoma metastatic to the lung; the patient required systemic oncological therapy.",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "Chronic lower back pain (approximately 5 years duration).",
+      "PRIOR_TREATMENTS": "Left nephrectomy for renal cancer (2018); subsequent surveillance. Various medications provided by the IGSS described as not effective for treating the disease. The IGSS had prescribed Etoricoxib as treatment.",
+      "THERAPEUTIC_FAILURE": "The patient stated that the medications provided by the IGSS had not been effective in treating his disease. He conducted his own investigation to find appropriate treatment and consulted a private oncologist.",
+      "BIOMARKERS": "Programmed Death-Ligand 1 %: NOT FOUND | Microsatellite Instability status: NOT FOUND | Tumor Mutational Burden: NOT FOUND | Human Epidermal Growth Factor Receptor 2: NOT FOUND | Epidermal Growth Factor Receptor: NOT FOUND | Anaplastic Lymphoma Kinase: NOT FOUND | ROS1: NOT FOUND | KRAS: NOT FOUND | B-Raf Proto-Oncogene: NOT FOUND | others: Histopathology of pulmonary nodule biopsy compatible with clear cell carcinoma metastatic to the lung",
+      "METASTASIS_SITES": "Lung (right inferior and superior lobes; biopsy-confirmed clear cell carcinoma metastatic to the lung)",
+      "MEDICAL_JUSTIFICATION": "Treating oncologist Doctor Claudia Caceres (colegiado 16,645) issued a medical certificate on April 10, 2024, recommending systemic therapy with Pembrolizumab (Keytruda) 200 mg intravenously every 21 days until toxicity or disease progression, and Axitinib (Inlyta) 5 mg 1 tablet every 12 hours until toxicity or disease progression, based on the confirmed diagnosis of clear cell carcinoma metastatic to the lung.",
+      "URGENCY": "High — provisional amparo was granted; the Court found that the threatened denial of medication placed the patient's life and health at risk.",
+      "RISK_DETERIORATION": "High — disease confirmed as Stage Four renal cancer with pulmonary metastasis; without systemic therapy, further disease progression was likely.",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "High — the Court held that refusal to provide the requested medications endangered the patient's life and health.",
+      "REQUESTED_TREATMENT": "Pembrolizumab (Keytruda) 200 mg intravenously every 21 days until toxicity or disease progression; Axitinib (Inlyta) 5 mg 1 tablet every 12 hours until toxicity or disease progression",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Constitutional Court upheld the first-instance amparo decision and denied the appeal of the Instituto Guatemalteco de Seguridad Social. The Court held that the right to health derives from the right to life as the most fundamental of human rights, and that the State has the duty to guarantee these rights through social security institutions. The Court found that the medical certificate and prescription issued by Doctor Claudia Caceres provided sufficient scientific and professional support to confirm the suitability of the requested medications for the patient's condition. Applying the dispositivo principle, the Court held that the patient's preference for specific medications, backed by adequate medical support, must be privileged under the patient's and treating physician's responsibility, and that administrative and economic arguments cannot prevail over fundamental rights to life and health.",
+      "COURT_CITATIONS": "Articles 1, 2, 3, 93, 94, 95, 100 of the Constitucion Politica de la Republica de Guatemala; Article 12 of the International Covenant on Economic, Social and Cultural Rights; Article XI of the American Declaration of the Rights and Duties of Man; Articles 265, 268, 272(c) of the Constitucion Politica de la Republica de Guatemala; Articles 1, 5, 6, 8, 10, 42, 43, 45, 49, 60, 61, 62, 63, 64, 66, 67, 149, 163(c), 185 of the Ley de Amparo, Exhibicion Personal y de Constitucionalidad; Articles 35, 36, 46 of Acuerdo 1-2013 of the Corte de Constitucionalidad; Expedientes 4415-2023, 3972-2023, 4696-2023, 1752-2024, 4160-2024, 4847-2024, 4696-2024, 7994-2023, 1391-2023, 7222-2024, 3844-2020, 3972-2023, 1472-2023, 4696-2023"
+    },
+    "missing_from_no": "Column O mentions 'Clear cell carcinoma metastatic to the lung,' which is present in the document. However, the following additional information is absent from N/O: patient identity (Jose David Veliz Linares); prior left nephrectomy in 2018 for renal cancer; chronic lower back pain; biopsy date and site (March 21, 2024, subpleural pulmonary nodule right inferior lobe); treating oncologist identity (Dr. Claudia L. Caceres M., colegiado 16,645); requested medications and dosing regimen (Pembrolizumab 200 mg IV every 21 days plus Axitinib 5 mg every 12 hours); judicial outcome (amparo granted); the IGSS had prescribed Etoricoxib as treatment prior to amparo.",
+    "possibly_incorrect": "No conflicts detected — column N correctly identifies Renal Cancer Clinical Stage Four and column O correctly identifies the histopathological finding of clear cell carcinoma metastatic to the lung, both consistent with the document.",
+    "error": null
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "1343-2025.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__1343-2025.pdf.txt",
+    "rows": [
+      {
+        "row": 122,
+        "case": "1343-2025",
+        "N": "Cervical Cancer Clinical Stage IVA",
+        "O": "NI",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__1343-2025.pdf.txt"
+      },
+      {
+        "row": 128,
+        "case": "7104-2025",
+        "N": "nao e sobre pembro",
+        "O": "Not about Pembrolizumab",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__1343-2025.pdf.txt"
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Cervical Cancer Clinical Stage IVA (Cancer de Cervix Etapa Clinica IVA)",
+      "SECONDARY_DIAGNOSES": "History of endometriosis (treated since July 2023); infiltrating moderately differentiated non-keratinizing squamous cell carcinoma with mild lymphovascular permeation and dense lymphoid infiltrate of cervicouterine origin (pathology result from biopsy of mass between uterus and bladder)",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "NOT FOUND",
+      "CLINICAL_HISTORY": "Patient Ana Isabel Barrios Avila is an affiliate of the Instituto Guatemalteco de Seguridad Social. She was treated for endometriosis since July 2023. In January 2024, a repeat laparoscopy was performed, revealing a mass between the uterus and bladder, from which a biopsy was taken. Pathology was conclusive for infiltrating moderately differentiated non-keratinizing squamous cell carcinoma with mild lymphovascular permeation and dense lymphoid infiltrate of cervicouterine origin. The diagnosis of Cervical Cancer Clinical Stage IVA was established. At the time of the medical evaluation, the patient was undergoing concurrent chemotherapy and radiotherapy and was considered at high risk of progression or relapse. Treating oncologist Doctor Claudia L. Caceres M. (colegiado 16,645) issued a certificate on April 17, 2024.",
+      "SYMPTOMS": "Mass between the uterus and bladder identified on laparoscopy; treatment causing side effects from prior IGSS medications; absence of improvement and worsening condition; fear of losing life.",
+      "DISEASE_SEVERITY": "Severe — Cervical Cancer Clinical Stage IVA with concurrent chemotherapy and radiotherapy in progress; the treating physician characterized the patient as high risk for progression or relapse.",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "History of endometriosis (treated since July 2023).",
+      "PRIOR_TREATMENTS": "Treatment for endometriosis since July 2023; laparoscopy in January 2024; biopsy; concurrent chemotherapy and radiotherapy at the time of the medical certificate.",
+      "THERAPEUTIC_FAILURE": "The patient stated that the treatments prescribed by the IGSS caused side effects and that she had not experienced any improvement. She sought a private physician who recommended Pembrolizumab.",
+      "BIOMARKERS": "Programmed Death-Ligand 1 %: NOT FOUND | Microsatellite Instability status: NOT FOUND | Tumor Mutational Burden: NOT FOUND | Human Epidermal Growth Factor Receptor 2: NOT FOUND | Epidermal Growth Factor Receptor: NOT FOUND | Anaplastic Lymphoma Kinase: NOT FOUND | ROS1: NOT FOUND | KRAS: NOT FOUND | B-Raf Proto-Oncogene: NOT FOUND | others: Pathology result — infiltrating moderately differentiated non-keratinizing squamous cell carcinoma with mild lymphovascular permeation and dense lymphoid infiltrate of cervicouterine origin",
+      "METASTASIS_SITES": "NOT FOUND (Stage IVA cervical cancer implies local or regional extension; specific metastatic sites not described in the document)",
+      "MEDICAL_JUSTIFICATION": "Treating oncologist Doctor Claudia Caceres (colegiado 16,645) issued a medical certificate dated April 17, 2024, stating that the patient had been treated for endometriosis, that a laparoscopy revealed a mass between the uterus and bladder, and that pathology confirmed cervicouterine carcinoma. She noted that the patient was at high risk of progression or relapse and recommended systemic therapy with Pembrolizumab (Keytruda) 200 mg intravenously every 21 days for 1 year as initial treatment, alongside ongoing chemo-radiotherapy.",
+      "URGENCY": "High — provisional amparo was granted; the Court emphasized that the disease threatened severe damage to the patient if not adequately treated and that the denial of medication endangered her life.",
+      "RISK_DETERIORATION": "High — the treating physician characterized the patient as high risk for progression or relapse; the disease had advanced to Clinical Stage IVA.",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "High — the Court found that not providing the medication threatened violation of the patient's right to life.",
+      "REQUESTED_TREATMENT": "Pembrolizumab (Keytruda) 200 mg intravenously every 21 days for 1 year",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Constitutional Court upheld the first-instance amparo and denied the appeal of the Instituto Guatemalteco de Seguridad Social. The Court held that the right to health is paramount because it derives from the right to life, the most fundamental of human rights, and that the State has an obligation to guarantee health and social assistance through its institutions, including the IGSS. The Court found that the medical certificate and prescription issued by Doctor Claudia Caceres provided sufficient scientific and professional basis for the requested medication, noting that the amparo does not constitute a medical prescription by judges but rather a constitutional determination based on expert medical opinion and the patient's preference. The Court applied the dispositivo principle, ruling that the patient's preference for Pembrolizumab, supported by adequate medical backing, prevails over formalist, economic, and administrative arguments, and that administrative procedures cannot be an obstacle to access the medication the patient requires.",
+      "COURT_CITATIONS": "Articles 3, 93, 94, 100 of the Constitucion Politica de la Republica de Guatemala; Article 4(1) of the American Convention on Human Rights; Article 6(1) of the International Covenant on Civil and Political Rights; Article 12 of the International Covenant on Economic, Social and Cultural Rights; Jurisprudence of the Inter-American Court of Human Rights; Articles 265, 268, 272(c) of the Constitucion Politica de la Republica de Guatemala; Articles 1, 5, 6, 8, 49, 50, 60, 61, 62, 63, 64, 149, 163(c), 185 of the Ley de Amparo, Exhibicion Personal y de Constitucionalidad; Articles 35, 36, 46 of Acuerdo 1-2013 of the Corte de Constitucionalidad; Expedientes 4657-2023, 6246-2023, 3684-2023, 1391-2023, 4696-2023, 6571-2024, 4283-2024, 6419-2024, 6720-2024, 4615-2023, 7994-2023, 7385-2023, 4696-2023, 3920-2024, 4294-2024, 4298-2024, 7817-2023"
+    },
+    "missing_from_no": "Column O was marked as NI (not informed). The document contains: patient identity (Ana Isabel Barrios Avila); prior history of endometriosis treatment since July 2023 and laparoscopy in January 2024; pathology result (infiltrating moderately differentiated non-keratinizing squamous cell carcinoma of cervicouterine origin); concurrent chemotherapy and radiotherapy at time of certificate; treating oncologist identity (Dr. Claudia L. Caceres M., colegiado 16,645); requested treatment (Pembrolizumab 200 mg IV every 21 days for 1 year); judicial outcome (amparo granted); the document also contains a second case reference (7104-2025) which according to N/O is not about Pembrolizumab — confirmed, the document only covers case 1343-2025 about cervical cancer and Pembrolizumab.",
+    "possibly_incorrect": "No conflicts detected",
+    "error": null
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "4863-2025.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__4863-2025.pdf.txt",
+    "rows": [
+      {
+        "row": 123,
+        "case": "4863-2025",
+        "N": "Renal Carcinoma post-nephrectomy recurrence with metastatic systemic activity",
+        "O": "",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__4863-2025.pdf.txt"
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Renal Carcinoma in Post-Nephrectomy Recurrence with Systemic Metastatic Activity (Carcinoma Renal en Recurrencia Post-Nefrectomia con Actividad Sistemica Metastasica)",
+      "SECONDARY_DIAGNOSES": "Bone metastases at the level of the pubic symphysis and left femur; visceral metastases (described as 'metastasis veserales' in the document)",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "51 years (male patient, fifty-one years old, as stated in the IGSS circumscribed report)",
+      "CLINICAL_HISTORY": "Patient Hector Vinicio Marroquin Torres is an affiliate of the Instituto Guatemalteco de Seguridad Social. He is known to the IGSS oncology unit for malignant tumor of the kidney (excluding renal pelvis). In June 2024, due to pain, studies including a PET-CT were performed, documenting bone metastases at the level of the pubic symphysis and left femur, and visceral metastases. He was referred for radiotherapy to bone sites and systemic treatment was initiated. His treating internist-oncologist, Doctor Jhohan Estuardo Vasquez Diaz (colegiado 13,869), issued a medical certificate recommending treatment with Axitinib and Pembrolizumab. The IGSS had prescribed Etoricoxib as treatment.",
+      "SYMPTOMS": "Pain (leading to the studies in June 2024); bone metastases at pubic symphysis and left femur; visceral metastases.",
+      "DISEASE_SEVERITY": "Severe — post-nephrectomy recurrence of renal carcinoma with systemic metastatic activity including bone and visceral metastases.",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Nephrectomy (prior, date not specified in document); radiotherapy to bone metastatic sites (June 2024 onwards); systemic treatment initiated by IGSS (including Etoricoxib).",
+      "THERAPEUTIC_FAILURE": "The patient reported that the IGSS prescribed Etoricoxib despite knowing his diagnosis of renal carcinoma with metastatic activity; this treatment was deemed inadequate by his private physician who recommended the combination of Axitinib and Pembrolizumab.",
+      "BIOMARKERS": "Programmed Death-Ligand 1 %: NOT FOUND | Microsatellite Instability status: NOT FOUND | Tumor Mutational Burden: NOT FOUND | Human Epidermal Growth Factor Receptor 2: NOT FOUND | Epidermal Growth Factor Receptor: NOT FOUND | Anaplastic Lymphoma Kinase: NOT FOUND | ROS1: NOT FOUND | KRAS: NOT FOUND | B-Raf Proto-Oncogene: NOT FOUND | others: PET-CT confirming bone metastases (pubic symphysis and left femur) and visceral metastases",
+      "METASTASIS_SITES": "Bone metastases at the pubic symphysis and left femur; visceral metastases (site not further specified in document)",
+      "MEDICAL_JUSTIFICATION": "Treating internist Doctor Jhohan Estuardo Vasquez Diaz (colegiado 13,869) issued a medical certificate stating the patient has a diagnosis of renal carcinoma in post-nephrectomy recurrence with systemic metastatic activity and recommending: Axitinib 5 mg (Inlyta) 1 tablet every 12 hours for an indefinite period or until maximum toxicity; Pembrolizumab 100 mg (Keytruda) 200 mg every 3 weeks for an indefinite period or until maximum toxicity.",
+      "URGENCY": "High — provisional amparo was granted on the basis that maintaining the challenged act would endanger the patient's life; the Court noted the susceptibility and transcendence of the patient's rights to life and health.",
+      "RISK_DETERIORATION": "High — post-nephrectomy recurrence of renal carcinoma with bone and visceral metastatic activity; without systemic oncological therapy, further progression was expected.",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "High — the first-instance tribunal noted the risk to the patient's life as a basis for granting provisional amparo; the Court confirmed that denial of the medications posed a risk to the patient's life.",
+      "REQUESTED_TREATMENT": "Axitinib (Inlyta) 5 mg 1 tablet every 12 hours for an indefinite period or until maximum toxicity; Pembrolizumab (Keytruda) 100 mg — administered at 200 mg every 3 weeks for an indefinite period or until maximum toxicity",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Constitutional Court upheld the first-instance amparo and denied the appeal of the Junta Directiva of the Instituto Guatemalteco de Seguridad Social. The Court held that the right to life is of paramount importance in the scale of fundamental rights and that the right to health derives directly from it, imposing on the State the duty to guarantee these rights by all available means. The Court found that the medical certificate and prescription of Doctor Jhohan Estuardo Vasquez Diaz provided sufficient scientific basis for the requested medications, confirming the suitability of Axitinib and Pembrolizumab for treating the patient's renal carcinoma in post-nephrectomy recurrence with systemic metastatic activity. Applying the dispositivo principle, the Court ruled that the patient's preference for specific medications, backed by medical support, must be privileged over administrative, economic, and formalist arguments, and that the IGSS must use its own mechanisms and procedures under the law to acquire and provide the requested drugs.",
+      "COURT_CITATIONS": "Articles 1, 2, 3, 93, 94, 95, 100 of the Constitucion Politica de la Republica de Guatemala; Articles 265, 268, 272(c) of the Constitucion Politica de la Republica de Guatemala; Articles 8, 10, 42, 43, 45, 49, 60, 61, 66, 67, 149, 156, 163(c), 179, 185 of the Ley de Amparo, Exhibicion Personal y de Constitucionalidad; Articles 7 Bis of Acuerdo 3-89; Articles 36, 46 of Acuerdo 1-2013 of the Corte de Constitucionalidad; Expedientes 4281-2024, 5114-2024, 1411-2025, 6927-2024, 3425-2024, 8274-2024, 4974-2024, 4148-2024, 5763-2023, 8149-2024, 2018-2025"
+    },
+    "missing_from_no": "Column O was empty. The document contains: patient identity (Hector Vinicio Marroquin Torres); patient age (51 years); specific metastatic sites (pubic symphysis, left femur, visceral); PET-CT imaging findings from June 2024; IGSS had prescribed Etoricoxib; treating physician identity (Dr. Jhohan Estuardo Vasquez Diaz, internist, colegiado 13,869); requested treatment (Axitinib 5 mg every 12 hours plus Pembrolizumab 200 mg every 3 weeks, both for indefinite period or until maximum toxicity); prior radiotherapy to bone sites; judicial outcome (amparo granted); legal grounds.",
+    "possibly_incorrect": "No conflicts detected — column N correctly identifies the diagnosis as Renal Carcinoma post-nephrectomy recurrence with metastatic systemic activity, fully consistent with the document.",
+    "error": null
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "4213-2025.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__4213-2025.pdf.txt",
+    "rows": [
+      {
+        "row": 124,
+        "case": "4213-2025",
+        "N": "Kidney cancer stage IV",
+        "O": "Renal cell carcinoma recurring post-nephrectomy (cancer returned after kidney removal) with systemic metastatic activity (bones and femur).",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__4213-2025.pdf.txt"
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Kidney Cancer Stage Four (Cancer de Rinon Estadio IV)",
+      "SECONDARY_DIAGNOSES": "Metastases to the lymph node chain (left jugular chain), left adrenal gland, and pulmonary changes suspicious for carcinomatosis",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "NOT FOUND",
+      "CLINICAL_HISTORY": "Patient Jorge Orlando Molina Lopez is an affiliate of the Instituto Guatemalteco de Seguridad Social. He presented with hematuria and pain in the left renal fossa. Imaging studies documented a left renal mass, for which he underwent left nephrectomy on January 28, 2021, with confirmed renal cell carcinoma. A PET-CT performed on May 24, 2024, documented metastases to the lymph node chain (left jugular chain) and left adrenal gland, as well as pulmonary changes suspicious for carcinomatosis. The IGSS had prescribed levothyroxine sodium, Lactobacillus reuteri, and sunitinib maleate. His treating oncologist, Doctor Marco Antonio Chivalan Castro (colegiado 13,060), issued a medical certificate dated August 4, 2024.",
+      "SYMPTOMS": "Hematuria; pain in the left renal fossa (initial presentation); metastatic disease identified on PET-CT (May 24, 2024).",
+      "DISEASE_SEVERITY": "Severe — Kidney Cancer Stage Four with confirmed metastases to lymph nodes, left adrenal gland, and pulmonary carcinomatosis; patient had already undergone nephrectomy and was on systemic oncological therapy.",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Left nephrectomy (January 28, 2021); IGSS had prescribed levothyroxine sodium, Lactobacillus reuteri, and sunitinib maleate — described by the patient as having only palliative effect on suffering caused by the disease rather than restorative effect.",
+      "THERAPEUTIC_FAILURE": "The patient stated that the treatments provided by the IGSS — levothyroxine sodium, Lactobacillus reuteri, and sunitinib maleate — did not have a positive restorative effect on his disease but only a palliative effect on the suffering caused by it. His treating oncologist recommended a different combination regimen.",
+      "BIOMARKERS": "Programmed Death-Ligand 1 %: NOT FOUND | Microsatellite Instability status: NOT FOUND | Tumor Mutational Burden: NOT FOUND | Human Epidermal Growth Factor Receptor 2: NOT FOUND | Epidermal Growth Factor Receptor: NOT FOUND | Anaplastic Lymphoma Kinase: NOT FOUND | ROS1: NOT FOUND | KRAS: NOT FOUND | B-Raf Proto-Oncogene: NOT FOUND | others: PET-CT (May 24, 2024) showing metastases to left jugular chain lymph nodes, left adrenal gland, and pulmonary changes suspicious for carcinomatosis",
+      "METASTASIS_SITES": "Left jugular chain lymph nodes; left adrenal gland; lung (pulmonary changes suspicious for carcinomatosis)",
+      "MEDICAL_JUSTIFICATION": "Treating oncologist Doctor Marco Antonio Chivalan Castro (colegiado 13,060, specialty in Oncological Medicine, graduated from the Faculty of Medicine of the University of San Carlos of Guatemala) issued a certificate on August 4, 2024, documenting the patient's history of renal cell carcinoma following left nephrectomy in January 2021, the PET-CT findings of May 24, 2024 showing metastases, and recommending: Pembrolizumab (Keytruda) 200 mg intravenously every 21 days for an indefinite period; Lenvatinib (Lodatir) 20 mg orally every day for an indefinite period.",
+      "URGENCY": "High — provisional amparo was granted on October 8, 2024; the patient described the medications as urgent and necessary given the gravity of the disease.",
+      "RISK_DETERIORATION": "High — Stage Four kidney cancer with multiple metastatic sites; the patient described current IGSS treatment as having only palliative rather than curative or restorative effect.",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "High — the Court found that denial of the requested medications endangered the patient's life and health; the treating oncologist prescribed treatment for an indefinite period.",
+      "REQUESTED_TREATMENT": "Pembrolizumab (Keytruda) 200 mg intravenously every 21 days for an indefinite period; Lenvatinib (Lodatir) 20 mg orally every day for an indefinite period",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Constitutional Court upheld the first-instance amparo and denied the appeal of the Junta Directiva of the Instituto Guatemalteco de Seguridad Social. The Court extensively cited jurisprudence of the Inter-American Court of Human Rights (including the Manuela case, the Gonzales Lluy case, and the Hernandez case) regarding the right to health and social security, emphasizing that the State has an obligation to ensure access to essential health services of quality, and that health is a fundamental human right indispensable for the exercise of all other rights. The Court found that the medical certificate and prescriptions of Doctor Marco Antonio Chivalan Castro provided sufficient scientific basis to confirm the suitability of the requested medications for the patient's Stage Four kidney cancer. Applying the dispositivo principle, the Court ruled that the patient's preference for specific medications, supported by adequate medical backing, must prevail over administrative and formalist arguments, and that the IGSS must provide the medications under the patient's and physician's responsibility.",
+      "COURT_CITATIONS": "Articles 1, 2, 93, 94, 95, 100 of the Constitucion Politica de la Republica de Guatemala; Articles 265, 268, 272(c) of the Constitucion Politica de la Republica de Guatemala; Articles 1, 5, 6, 8, 49, 50, 60, 61, 62, 63, 64, 149, 163(c), 179, 185 of the Ley de Amparo, Exhibicion Personal y de Constitucionalidad; Articles 7 Bis of Acuerdo 3-89; Articles 35, 36, 46 of Acuerdo 1-2013 of the Corte de Constitucionalidad; Inter-American Court of Human Rights: Case Manuela and others v. El Salvador, Series C No. 441 (November 2, 2021), paragraphs 183-185; Case Gonzales Lluy and others v. Ecuador, Series C No. 298 (September 1, 2015), paragraph 173; Case Hernandez v. Argentina, Series C No. 395 (November 22, 2019), paragraph 81; Case Asociacion Nacional de Cesantes y Jubilados de la Superintendencia Nacional de Administracion Tributaria (ANCEJUB-SUNAT) v. Peru, Series C No. 394 (November 21, 2019), paragraphs 167 and 173; Committee on Economic, Social and Cultural Rights, General Comment No. 14; Committee on Economic, Social and Cultural Rights, General Comment No. 19; Expedientes 3507-2024, 6270-2024, 3533-2024, 6427-2024, 7723-2024, 437-2025, 4173-2024, 6579-2024, 6815-2024, 4283-2024, 6419-2024, 6720-2024, 6156-2024, 1244-2024, 2130-2024, 6927-2024, 4275-2024, 4304-2024, 2894-2024, 3440-2024, 3583-2024, 3438-2016, 4510-2019, 2541-2022"
+    },
+    "missing_from_no": "Column O describes 'Renal cell carcinoma recurring post-nephrectomy with systemic metastatic activity (bones and femur).' However, the document does not mention bone or femur metastases for this case — instead the metastases are to the left jugular chain lymph nodes, left adrenal gland, and pulmonary carcinomatosis. Additionally, column O mentions bones and femur as metastatic sites, which are not described in this document (those sites appear in case 4863-2025 for a different patient). Missing from N/O: patient identity (Jorge Orlando Molina Lopez); nephrectomy date (January 28, 2021); initial symptoms (hematuria, renal pain); PET-CT date and findings (May 24, 2024 — lymph node, adrenal, pulmonary); IGSS had prescribed levothyroxine sodium, Lactobacillus reuteri, and sunitinib maleate; therapeutic failure (only palliative effect); treating oncologist identity (Dr. Marco Antonio Chivalan Castro, colegiado 13,060); requested treatment (Pembrolizumab 200 mg IV every 21 days plus Lenvatinib 20 mg orally daily, both indefinitely); judicial outcome (amparo granted); extensive Inter-American Court of Human Rights jurisprudence cited.",
+    "possibly_incorrect": "Column O states metastatic sites as 'bones and femur,' which does not correspond to this case. The document for case 4213-2025 (patient Jorge Orlando Molina Lopez) identifies metastases in the left jugular chain lymph nodes, left adrenal gland, and pulmonary changes suspicious for carcinomatosis. Bone and femur metastases are found in case 4863-2025 (patient Hector Vinicio Marroquin Torres), a different patient and document. Column O for case 4213-2025 appears to describe the wrong metastatic sites.",
+    "error": null
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "3090-2025.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__3090-2025.pdf.txt",
+    "rows": [
+      {
+        "row": 125,
+        "case": "3090-2025",
+        "N": "TRIPLE-NEGATIVE METASTATIC BREAST CANCER WITH POSITIVE GERMINAL BRCA2 MUTATION",
+        "O": "NI",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__3090-2025.pdf.txt"
+      }
+    ],
+    "status": "analyzed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Metastatic Triple-Negative Breast Cancer with Positive Germline BRCA2 Mutation (Cancer de Mama Metastasico Triple Negativo y con Mutacion Germinal BRCA2 Positiva)",
+      "SECONDARY_DIAGNOSES": "Extensive locoregional cancer progression; multiple sites of metastatic disease confirmed on PET scan",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "NOT FOUND",
+      "CLINICAL_HISTORY": "Patient Aura Elizabeth Salazar Alvarez is an affiliate of the Instituto Guatemalteco de Seguridad Social and a patient of the oncology department. She was diagnosed with Metastatic Triple-Negative Breast Cancer with Positive Germline BRCA2 Mutation. She had previously consulted a private oncologist, who initiated chemotherapy with anthracyclines and in parallel performed two genomic studies: Programmed Death-Ligand 1 (PDL1), which was positive at Combined Positive Score 20, and Germline BRCA, which demonstrated a BRCA2 mutation (c.7815_7816del) heterozygous and highly pathogenic, associated with an important family history of breast cancer, establishing a hereditary cancer. Following these findings, chemotherapy was suspended on December 18, 2023, and immunotherapy was recommended. Due to the diagnosis and being an IGSS affiliate, she consulted the IGSS in December 2023. The IGSS evaluated her and ordered a PET scan, which demonstrated multiple sites of metastatic disease and extensive locoregional cancer progression. The IGSS suggested radiotherapy without proposing systemic treatment at the time. On February 1, 2024, she consulted Doctor Cesar Estuardo Hernandez Monroy (Oncologist, colegiado 9,101) at a specialized cancer center for a second opinion. The amparo was filed on February 19, 2024, after the patient submitted a written request to the IGSS on February 12, 2024 without response.",
+      "SYMPTOMS": "Multiple sites of metastatic disease; extensive locoregional cancer progression; the medications are described as high cost and suspension could cause death.",
+      "DISEASE_SEVERITY": "Severe — Metastatic Triple-Negative Breast Cancer with Positive Germline BRCA2 Mutation; PET scan confirmed multiple metastatic sites and extensive locoregional progression; treating physician stated the patient's life is in imminent danger of death from the disease.",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Chemotherapy with anthracyclines (initiated by private oncologist, suspended December 18, 2023); genomic studies (PDL1 and Germline BRCA); radiotherapy suggested by IGSS (without systemic treatment proposal); the IGSS provided treatment described as having contributed to keeping the patient stable according to the IGSS, but the patient stated other medications were more beneficial.",
+      "THERAPEUTIC_FAILURE": "Following the PDL1 positivity and BRCA2 mutation findings, the initial anthracycline chemotherapy was suspended and immunotherapy was recommended. The IGSS proposed radiotherapy only, without systemic treatment, which the treating oncologist considered insufficient given the findings. The patient sought a second opinion which resulted in the recommendation for Pembrolizumab plus Nab-Paclitaxel plus Carboplatin plus Pegfilgrastim.",
+      "BIOMARKERS": "Programmed Death-Ligand 1 %: Positive, Combined Positive Score 20 (PDL1 CPS 20) | Microsatellite Instability status: NOT FOUND | Tumor Mutational Burden: NOT FOUND | Human Epidermal Growth Factor Receptor 2: NOT FOUND (triple-negative implies Human Epidermal Growth Factor Receptor 2 negative) | Epidermal Growth Factor Receptor: NOT FOUND | Anaplastic Lymphoma Kinase: NOT FOUND | ROS1: NOT FOUND | KRAS: NOT FOUND | B-Raf Proto-Oncogene: NOT FOUND | others: Germline BRCA2 mutation (c.7815_7816del) heterozygous, highly pathogenic, associated with family history of breast cancer — hereditary cancer established; Triple-negative breast cancer status (implying estrogen receptor negative, progesterone receptor negative, Human Epidermal Growth Factor Receptor 2 negative)",
+      "METASTASIS_SITES": "Multiple sites of metastatic disease confirmed on PET scan (specific organ sites not detailed in the document); extensive locoregional progression",
+      "MEDICAL_JUSTIFICATION": "Treating oncologist Doctor Cesar Estuardo Hernandez Monroy (colegiado 9,101) issued a medical certificate on February 1, 2024 (second opinion consultation), confirming the diagnosis of Metastatic Triple-Negative Breast Cancer with Positive Germline BRCA2 Mutation, documenting prior anthracycline chemotherapy, PDL1 positivity at Combined Positive Score 20, Germline BRCA2 mutation establishing hereditary cancer, and PET scan demonstrating multiple sites of metastatic disease with extensive locoregional progression. He recommended the following initial treatment: Pembrolizumab (Keytruda) 200 mg intravenously every 3 weeks for an indefinite period; Nab-Paclitaxel (Abraxane) 140 mg intravenously on days 1, 8, and 15 every 28 days for an indefinite period; Carboplatin (Carboplatino Pfizer) 150 mg intravenously on days 1 and 8 every 21 days for an indefinite period; Pegfilgrastim (Neulastim) 6 mg subcutaneously every 28 days for an indefinite period. He cited the KEYNOTE-355 study (New England Journal of Medicine 387:3, 2022) and NCCN 2024 guidelines as evidence that this treatment significantly increases progression-free survival in patients with metastatic triple-negative breast cancer with PDL1 positivity Combined Positive Score above 10. He stated that the patient's life is in imminent danger of death from the disease.",
+      "URGENCY": "High — provisional amparo was granted; the treating physician stated the patient's life was in imminent danger; the patient stated that suspending the medications could cause her death.",
+      "RISK_DETERIORATION": "High — multiple metastatic sites with extensive locoregional progression confirmed on PET scan; treating physician stated life was in imminent danger.",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "High — treating physician explicitly stated in the medical certificate that the patient's life is in imminent danger of death from the disease; the patient stated that suspension of medications could cause death.",
+      "REQUESTED_TREATMENT": "Pembrolizumab (Keytruda) 200 mg intravenously every 3 weeks for an indefinite period; Nab-Paclitaxel (Abraxane) 140 mg intravenously on days 1, 8, and 15 every 28 days for an indefinite period; Carboplatin (Carboplatino Pfizer) 150 mg intravenously on days 1 and 8 every 21 days for an indefinite period; Pegfilgrastim (Neulastim) 6 mg subcutaneously every 28 days for an indefinite period",
+      "JUDICIAL_DECISION": "Granted",
+      "DECISION_GROUNDS": "The Constitutional Court upheld the first-instance amparo and denied the appeal of the Instituto Guatemalteco de Seguridad Social. The Court held that the right to health is paramount because it derives from the right to life, the most fundamental of human rights, and that the State has an obligation to guarantee health through its social security institutions. The Court found that the medical certificate and prescriptions of Doctor Cesar Estuardo Hernandez Monroy provided sufficient scientific and professional basis for the requested medications, citing the KEYNOTE-355 evidence and the confirmed biomarker profile (PDL1 Combined Positive Score 20 and Germline BRCA2 mutation). Applying the dispositivo principle, the Court ruled that the patient's preference for specific medications, backed by adequate medical support, prevails over formalist, economic, and administrative arguments, and that the IGSS must use its own mechanisms to acquire and supply the requested drugs. The Court also dismissed the IGSS challenge regarding the credentials of Doctor Cesar Estuardo Hernandez Monroy, finding that such concerns were irrelevant to the constitutional protection analysis given the existing medical backing.",
+      "COURT_CITATIONS": "Articles 3, 93, 100 of the Constitucion Politica de la Republica de Guatemala; Article 12 of the International Covenant on Economic, Social and Cultural Rights; Article XI of the American Declaration of the Rights and Duties of Man; Articles 265, 268, 272(c) of the Constitucion Politica de la Republica de Guatemala; Articles 8, 10, 42, 43, 45, 49, 60, 61, 66, 67, 149, 156, 163(c), 179, 185 of the Ley de Amparo, Exhibicion Personal y de Constitucionalidad; Articles 7 Bis of Acuerdo 3-89; Articles 35, 36, 46 of Acuerdo 1-2013 of the Corte de Constitucionalidad; KEYNOTE-355 study (New England Journal of Medicine 387:3, 2022); NCCN 2024 guidelines; Expedientes 7314-2024, 7692-2024, 1952-2025, 4136-2024, 4281-2024, 5114-2024, 6815-2024, 2907-2025, 2894-2024, 7222-2024, 6212-2024, 5544-2024, 1867-2024"
+    },
+    "missing_from_no": "Column O was marked as NI (not informed). The document contains rich clinical detail absent from N/O: patient identity (Aura Elizabeth Salazar Alvarez); PDL1 positivity at Combined Positive Score 20; Germline BRCA2 mutation (c.7815_7816del) heterozygous and highly pathogenic with family history establishing hereditary cancer; prior anthracycline chemotherapy suspended December 18, 2023; PET scan showing multiple metastatic sites and extensive locoregional progression; IGSS proposed radiotherapy only without systemic treatment; treating oncologist identity (Dr. Cesar Estuardo Hernandez Monroy, colegiado 9,101); complete requested treatment regimen (Pembrolizumab plus Nab-Paclitaxel plus Carboplatin plus Pegfilgrastim with specific doses); KEYNOTE-355 study cited as evidence; amparo filed February 19, 2024 after unanswered request of February 12, 2024; judicial outcome (amparo granted); IGSS raised concerns about the treating physician's credentials (colegio registration query).",
+    "possibly_incorrect": "No conflicts detected",
+    "error": null
+  }
+]

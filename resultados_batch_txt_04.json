@@ -1,0 +1,524 @@
+[
+  {
+    "country": "Uruguay",
+    "pdf_name": "2022-08-09.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2022-08-09.pdf.txt",
+    "rows": [
+      {
+        "row": 80,
+        "case": "153/2022",
+        "N": "NI",
+        "O": "NI"
+      }
+    ],
+    "status": "processed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "NOT FOUND — the document does not disclose the patient's specific diagnosis; it is an appellate court ruling focused entirely on procedural and constitutional arguments regarding the obligation of the Ministerio de Salud Pública to supply Pembrolizumab",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "NOT FOUND",
+      "CLINICAL_HISTORY": "NOT FOUND — the document refers generically to a patient who submitted to all prior lines of treatment indicated up to the moment of the action and could not afford the next indicated treatment (Pembrolizumab), but does not describe the specific history, diagnosis dates, or procedures",
+      "SYMPTOMS": "NOT FOUND",
+      "DISEASE_SEVERITY": "NOT FOUND",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "The document states that the patient submitted to all lines of treatment indicated up to the moment of the amparo action; no specific drugs, doses, cycles, or outcomes are named",
+      "THERAPEUTIC_FAILURE": "The document implies prior treatments were exhausted without sufficient result, leading to the indication of Pembrolizumab; no specific evidence of failure is detailed",
+      "BIOMARKERS": "NOT FOUND",
+      "METASTASIS_SITES": "NOT FOUND",
+      "MEDICAL_JUSTIFICATION": "The treating physician indicated Pembrolizumab as the required treatment; the court found no scientific reasons were presented to justify denial of the treatment; the indication was supported by the evidence produced at the request of the plaintiff",
+      "URGENCY": "The first-instance court ordered supply within 24 hours, confirmed on appeal; the patient could not afford the treatment and was without it during the litigation",
+      "RISK_DETERIORATION": "NOT FOUND — not explicitly stated",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "NOT FOUND",
+      "REQUESTED_TREATMENT": "Pembrolizumab, dose and route not specified in the appellate ruling; to be administered according to the treating physician's indications and for as long as she indicates",
+      "JUDICIAL_DECISION": "Granted — the appellate court (Tribunal de Apelaciones en lo Civil de Tercer Turno, Sentencia 153/2022) confirmed the first-instance ruling condemning the Ministerio de Salud Pública to supply Pembrolizumab within 24 hours according to the treating physician's indications and for as long as she indicates; the appeal by the Ministerio de Salud Pública was rejected",
+      "DECISION_GROUNDS": "The court held that Article 44, paragraph 2 of the Uruguayan Constitution imposes a prestational obligation on the State to provide healthcare assistance to persons lacking sufficient resources, which obligation is the counterpart of the individual's duty to care for and treat their own health. The Ministerio de Salud Pública failed to provide any concrete scientific reason to justify the denial of the requested medication in the particular case, rendering its refusal arbitrary and manifestly illegitimate. The court applied its consolidated jurisprudence that the MSP cannot excuse itself by generic reference to its institutional competences and that, in the absence of rebuttal evidence, the treating physician's indication stands as sufficient basis for the amparo order.",
+      "COURT_CITATIONS": "Sentencia No. 82/2021 (Tribunal de Apelaciones en lo Civil de Tercer Turno); Constitución de la República artículos 7, 44, 72, 82 y 332; Declaración Universal de Derechos Humanos artículos 3, 22 y 25; Pacto Internacional de Derechos Económicos, Sociales y Culturales artículos 9, 11 y 12 (ratificado por Ley No. 13.751); Pacto Internacional de Derechos Civiles y Políticos artículos 3 y 6 (ratificado por Ley No. 13.751); Declaración Americana de los Derechos y Deberes del Hombre artículos I y XI; Convención Americana sobre Derechos Humanos artículos 4 y 5 (ratificada por artículo 15 de la Ley No. 15.737); Protocolo Adicional a la Convención Americana sobre Derechos Humanos en Materia de Derechos Económicos, Sociales y Culturales artículos 9 y 10 (ratificado por Ley No. 16.519); Ley No. 18.211 artículos 1, 2 y 4; Ley No. 18.335 artículos 2, 6, 7, 10 y 11; Ley No. 16.011 artículo 1; Sentencia SCJ No. 447/2022 (inconstitucionalidad); Ley No. 15.443 artículos 16 y 18; Ley No. 19.335 artículo 461"
+    },
+    "missing_from_no": "The N and O columns both contain 'NI' (no information), so all 22 fields are absent: patient age, diagnosis, clinical history, symptoms, disease severity, prior treatments, therapeutic failure, biomarkers, metastasis sites, medical justification, urgency, risks of deterioration, hospitalization and death, requested treatment details, judicial decision, decision grounds, and court citations are all missing from the N/O columns",
+    "possibly_incorrect": "No conflicts detected — N/O contained no information to compare against",
+    "error": null
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2022-04-08.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2022-04-08.pdf.txt",
+    "rows": [
+      {
+        "row": 81,
+        "case": "76/2022",
+        "N": "Not about pembrolizumab",
+        "O": ""
+      },
+      {
+        "row": 82,
+        "case": "33/2022",
+        "N": "Colon cancer stage II",
+        "O": "The patient underwent multiple prior treatments, including surgeries and chemotherapies. Despite temporary partial remissions, the disease continued to progress."
+      }
+    ],
+    "status": "processed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Colon cancer, Stage Two, diagnosed in March 2015",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "65 years old",
+      "CLINICAL_HISTORY": "Diagnosed with colon cancer Stage Two in March 2015. Subsequently received multiple prior treatments including surgeries and chemotherapies. Despite temporary partial remissions, the disease continued to progress. Treated at Asistencial Medica Departamental de Maldonado under Dr. Sebastián Ximénez. Pembrolizumab indicated as the only therapeutic option by the treating physician.",
+      "SYMPTOMS": "NOT FOUND",
+      "DISEASE_SEVERITY": "Stage Two colon cancer with disease progression after multiple prior lines of treatment; further staging details and ECOG Performance Status not stated",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Multiple surgeries (number and type not specified); multiple chemotherapy regimens (drugs, doses, and cycles not specified); all resulted in temporary partial remissions followed by disease progression",
+      "THERAPEUTIC_FAILURE": "Despite multiple surgeries and chemotherapy regimens with temporary partial remissions, the disease continued to progress, leading the treating physician to indicate Pembrolizumab as the only therapeutic option",
+      "BIOMARKERS": "NOT FOUND",
+      "METASTASIS_SITES": "NOT FOUND",
+      "MEDICAL_JUSTIFICATION": "Dr. Sebastián Ximénez, treating physician, indicated Pembrolizumab as the unique therapeutic option to treat the patient's pathology and to obtain beneficial effects for her health, quality of life, and progression-free survival; the treating physician's prescription was not challenged by either defendant on scientific or medical grounds",
+      "URGENCY": "NOT FOUND — not explicitly described; the court ordered supply within 24 hours",
+      "RISK_DETERIORATION": "NOT FOUND",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "NOT FOUND",
+      "REQUESTED_TREATMENT": "Pembrolizumab; dose, route, and frequency not specified in the ruling; according to the treating physician's indications and for as long as he indicates; line of treatment not specified beyond being indicated after failure of all prior treatments",
+      "JUDICIAL_DECISION": "Partially Granted — the appellate court (Tribunal de Apelaciones en lo Civil de Cuarto Turno, Sentencia 33/2022) partially confirmed the first-instance ruling, maintaining the condemnation of the Ministerio de Salud Pública to provide Pembrolizumab, but revoked the condemnation of the Fondo Nacional de Recursos by upholding its exception of lack of passive standing",
+      "DECISION_GROUNDS": "The court confirmed that the patient holds a subjective right to health protection under Article 44 of the Uruguayan Constitution, which the State must put into practice through all available means; the Ministerio de Salud Pública did not dispute the correctness of the medical prescription or the patient's lack of economic resources, confining its defense to formal arguments about institutional competence, which the court rejected as insufficient against the direct operability of constitutional rights. The court applied the pro homine principle, according to which the most protective norm must prevail when interpreting rights, and held that Pembrolizumab is the only therapeutic option to obtain beneficial effects for the patient's health, quality of life, and progression-free survival. Regarding the Fondo Nacional de Recursos, the court held that it is not a state entity but a public non-state person governed by Law No. 16.343, that it lacks passive causal standing because the treatment is not included in the PIAS and the normative framework does not authorize it to supply it, and that Articles 409 and 410 of Law 19.899 (LUC) did not tacitly repeal the legal framework regulating the FNR's operations.",
+      "COURT_CITATIONS": "Constitución de la República artículos 7 y 44; Ley No. 16.011; Sentencia TAC 2do Turno No. 77/2019 de 15 de mayo de 2019; Sentencia No. 17/2021 (BJN); Sentencia SCJ declarando inconstitucionales artículos 7 inciso 2 de la Ley 18.335 e inciso final del artículo 45 de la Ley 18.211 (10 de febrero de 2022); LJU c. 138060; Sentencia No. 144/2015; Sentencia SCJ No. 130/2007; Sentencias TAC 4to Turno Nos. 171/2020, 65/2021 y 91/2021; Sentencia TAC 2do Turno No. 165/2020; Ley No. 16.343; Ley No. 19.889 artículos 409 y 410; CGP artículos 56, 140, 261; Código Civil artículo 688"
+    },
+    "missing_from_no": "Row 81: N states 'Not about pembrolizumab' — however, the document file contains two cases in a single PDF; case 76/2022 does not appear to be described in the text retrieved, which only covers case 33/2022 about colon cancer; no additional clinical fields are available for row 81. Row 82: The N column omits the patient's age (65 years old), the fact that treatment is at Asistencial Medica Departamental de Maldonado, the name of the treating physician (Dr. Sebastián Ximénez), the judicial decision outcome, decision grounds, and applicable court citations.",
+    "possibly_incorrect": "Row 82: The N column states 'Colon cancer stage II' — the document confirms Stage Two colon cancer diagnosed March 2015, which is consistent. The O column describes 'temporary partial remissions' which is consistent with the document. No factual conflicts detected.",
+    "error": null
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2021-12-01.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2021-12-01.pdf.txt",
+    "rows": [
+      {
+        "row": 83,
+        "case": "203/2021",
+        "N": "Locoregionally advanced rectal adenocarcinoma with hepatic, lymph node and peritoneal involvement (21 years old)",
+        "O": "Mentions 'secondarism' and 'secondary lesions'. Received systemic chemotherapy (capecitabine, oxaliplatin, and bevacizumab) with good initial response. However, in September 2021, showed increased tumor markers and new secondary pulmonary and hepatic lesions."
+      }
+    ],
+    "status": "processed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Rectal adenocarcinoma, locoregionally advanced, with secondary (metastatic) hepatic, lymph node, and peritoneal involvement, diagnosed in December 2020",
+      "SECONDARY_DIAGNOSES": "Secondary pulmonary lesions; secondary hepatic lesions (detected September 2021)",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "21 years old",
+      "CLINICAL_HISTORY": "In December 2020 the patient was diagnosed with locoregionally advanced rectal adenocarcinoma with secondary hepatic, lymph node, and peritoneal involvement. She received systemic chemotherapy with capecitabine, oxaliplatin, and bevacizumab with a good initial response. A study performed on 2 September 2021 evidenced an increase in tumor markers and new secondary lesions at pulmonary and hepatic levels. At that point, treatment with Pembrolizumab 200 mg every 21 days until lesional progression or intolerance was proposed.",
+      "SYMPTOMS": "Increased tumor markers (September 2021); new secondary pulmonary and hepatic lesions (September 2021)",
+      "DISEASE_SEVERITY": "Locoregionally advanced rectal adenocarcinoma with secondary hepatic, lymph node, and peritoneal involvement; disease progression evidenced by increased tumor markers and new secondary pulmonary and hepatic lesions in September 2021; ECOG Performance Status not stated; severity characterized as urgent given that the patient's current health status did not permit awaiting administrative proceedings that could take months or years",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Systemic chemotherapy with capecitabine, oxaliplatin, and bevacizumab — number of cycles not specified; initial good response, followed by disease progression with increased tumor markers and new secondary pulmonary and hepatic lesions in September 2021",
+      "THERAPEUTIC_FAILURE": "Despite systemic chemotherapy with capecitabine, oxaliplatin, and bevacizumab with initial good response, by September 2021 the patient showed increased tumor markers and new secondary pulmonary and hepatic lesions, indicating disease progression and failure of prior treatment",
+      "BIOMARKERS": "NOT FOUND — biomarker status not stated in the document; Microsatellite Instability status, Programmed Death-Ligand 1 percentage, Tumor Mutational Burden, and other markers not mentioned",
+      "METASTASIS_SITES": "Hepatic (secondary hepatic lesions); lymph nodes (ganglionar); peritoneal; pulmonary (new secondary lesions detected September 2021)",
+      "MEDICAL_JUSTIFICATION": "Treating oncologist Dra. Della Valle prescribed Pembrolizumab 200 mg every 21 days until lesional progression or intolerance. Expert witness Dra. Dahiana Amarillo confirmed via expert report that the indication of the medication was correct for the patient's pathology. The court found that the patient's current health status did not permit awaiting administrative proceedings and that the State's omission constituted manifestly illegitimate conduct.",
+      "URGENCY": "The patient's current health state did not permit awaiting the contingencies of administrative proceedings that could take months or years; the court found obvious urgency reasons and no other judicial or administrative means capable of producing the same result as the amparo",
+      "RISK_DETERIORATION": "Disease progression evidenced by increased tumor markers and new secondary lesions; further deterioration implied by ongoing disease spread without treatment",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "The court found the element of irreparable damage of a magnitude requiring immediate protection; the patient's life and health rights were at stake",
+      "REQUESTED_TREATMENT": "Pembrolizumab 200 mg intravenously every 21 days until lesional progression or intolerance; second-line treatment after failure of first-line chemotherapy; supply requested from Ministerio de Salud Pública and Fondo Nacional de Recursos",
+      "JUDICIAL_DECISION": "Granted — the appellate court (Tribunal de Apelaciones en lo Civil de Quinto Turno, Sentencia 203/2021) unanimously confirmed the first-instance ruling (Sentencia 66/2021) condemning the State — Ministerio de Salud Pública — to supply Pembrolizumab according to the treating physician's indications and for as long as he indicates, within 24 continuous hours of notification; the Fondo Nacional de Recursos was found to lack passive standing and the demand against it was dismissed",
+      "DECISION_GROUNDS": "The court found that the concrete evidence and circumstances of the specific case demonstrated manifestly illegitimate conduct by the Ministerio de Salud Pública, particularly because the Supreme Court of Justice had declared Articles 7 paragraph 2 of Law 18.335 and the final paragraph of Article 45 of Law 18.211 unconstitutional and inapplicable to the plaintiff, removing the normative basis on which the Ministry had grounded its refusal. The court held that the right to life and health of the person, elevated to the rank of fundamental constitutional norm, cannot be made contingent upon generic allegations lacking any evidentiary support, given the magnitude of the irreparable harm element. It further held that the patient's current state of health did not permit awaiting administrative proceedings that could take months or years, and that obvious urgency existed with no other adequate legal or administrative remedy available.",
+      "COURT_CITATIONS": "Constitución de la República artículos 7, 8, 72 y concordantes; Ley No. 16.011 de 19 de diciembre de 1988; Sentencia SCJ No. 473/2021 de 26 de octubre de 2021 (declarando inconstitucionales artículos 7 inc. 2 de Ley 18.335 e inciso final del artículo 45 de Ley 18.211); Sentencias Sala No. 197/2018 y 119/2019; Sentencia DFA 4-411/2015 de 24 de agosto de 2015 en IUE 2-19660/2015; CGP artículo 56; Código Civil artículo 688"
+    },
+    "missing_from_no": "The N column omits the diagnosis date (December 2020), the specific secondary sites detected at diagnosis (hepatic, lymph node, peritoneal) versus those detected at progression (pulmonary and hepatic), the name of the treating oncologist (Dra. Della Valle), the name of the expert witness (Dra. Dahiana Amarillo), the proposed Pembrolizumab dose and schedule (200 mg every 21 days until progression or intolerance), the judicial decision outcome, decision grounds, applicable court citations, and the cost of the medication (approximately USD 7,100 per month). The O column omits the diagnosis date and the full names of the medications (capecitabine is mentioned correctly; oxaliplatin and bevacizumab are correct).",
+    "possibly_incorrect": "No conflicts detected — the N column correctly describes the diagnosis as locoregionally advanced rectal adenocarcinoma with hepatic, lymph node, and peritoneal involvement in a 21-year-old, consistent with the document. The O column's description of the prior chemotherapy and the September 2021 progression is consistent with the document.",
+    "error": null
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2021-09-20.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2021-09-20.pdf.txt",
+    "rows": [
+      {
+        "row": 84,
+        "case": "150/2021",
+        "N": "Advanced squamous tonsil carcinoma (56 years old)",
+        "O": ""
+      }
+    ],
+    "status": "processed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Advanced squamous cell carcinoma of the tonsil (carcinoma escamoso de amígdala avanzado)",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "56 years old",
+      "CLINICAL_HISTORY": "The patient is a 56-year-old male portador (carrier) of advanced squamous cell carcinoma of the tonsil. His treating oncologist, Dra. Laura Cawen, indicated treatment with Pembrolizumab. The patient could not access the high-cost medication due to lack of economic resources. He requested the medication through the judicial amparo channel. Prior treatments with platinum-salt-based chemotherapy are mentioned as having been received, with the indication that Pembrolizumab is for tumors of the otorhinolaryngological sphere that have progressed after platinum-salt chemotherapy; further details of prior treatment dates, drugs, doses, or cycles are not stated.",
+      "SYMPTOMS": "NOT FOUND",
+      "DISEASE_SEVERITY": "Advanced squamous cell carcinoma of the tonsil; disease has progressed after chemotherapy with platinum salts; ECOG Performance Status not stated; described as requiring urgent treatment",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Chemotherapy with platinum salts — specific drugs, doses, cycles, and dates not stated; the expert witness stated that without Pembrolizumab the patient could receive other chemotherapy plans that have demonstrated less effectiveness in achieving tumor responses and survival compared to Pembrolizumab for otorhinolaryngological sphere tumors that have progressed after platinum-salt chemotherapy",
+      "THERAPEUTIC_FAILURE": "Tumors of the otorhinolaryngological sphere have progressed after platinum-salt-based chemotherapy, justifying the Pembrolizumab indication; specific documentation of prior treatment failure not detailed beyond the expert witness's statement",
+      "BIOMARKERS": "NOT FOUND",
+      "METASTASIS_SITES": "NOT FOUND",
+      "MEDICAL_JUSTIFICATION": "Treating oncologist Dra. Laura Cawen indicated treatment with Pembrolizumab. Expert witness Dr. Alejandro Saldombide stated that the Pembrolizumab indication made by Dra. Laura Cawen was correct and in accordance with national and international consensus for the treatment of advanced otorhinolaryngological cancer, and that without Pembrolizumab the patient could only receive other chemotherapy plans that are less effective in tumor responses and survival for otorhinolaryngological sphere tumors that have progressed after platinum-salt chemotherapy.",
+      "URGENCY": "The amparo action was the only available means given the patient's economic inability to afford the medication; the court found urgency based on the advanced and progressive nature of the disease",
+      "RISK_DETERIORATION": "Without Pembrolizumab, the patient would receive less effective chemotherapy plans with lower tumor response rates and shorter survival; progressive disease deterioration implied",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "The expert witness and treating physician indicated Pembrolizumab is the best therapeutic option for tumor response and survival; denial implies reduced survival",
+      "REQUESTED_TREATMENT": "Pembrolizumab; dose, route, and frequency not specified in the appellate ruling; to be supplied according to the treating medical team's indications and for as long as indicated; line of treatment characterized as second-line after failure of platinum-salt chemotherapy",
+      "JUDICIAL_DECISION": "Granted — the appellate court (Tribunal de Apelaciones en lo Civil de Primer Turno, Sentencia 150/2021) unanimously confirmed the first-instance ruling (Sentencia 30/2021) condemning the Ministerio de Salud Pública to supply Pembrolizumab within 24 hours according to the treating medical team's indications and for as long as indicated; the Fondo Nacional de Recursos was found to lack passive standing",
+      "DECISION_GROUNDS": "The court found that the Ministerio de Salud Pública confined its defense to the assertion that it is not a direct medication dispenser and that manifestly illegitimate conduct was absent because the medication is not included in the Formulario Terapéutico de Medicamentos, which the court rejected as a purely formal and insufficient defense against the direct operability of constitutional rights and values. The court held that the State cannot refuse a specific patient the supply of the medication on the ground that it was not included in the Formulario Terapéutico de Medicamentos for the relevant disease stage, particularly when no contrary scientific evidence was offered, and that the correct course of action required by the Ministry's high duty to preserve health and life was to provide a timely response rather than remain silent. The court further held that judicial amparo in a specific case does not constitute interference in health policy design or implementation, as it is the exercise of the jurisdictional function to resolve an individual and concrete conflict, and that the pro homine principle requires applying the norm most protective of the person's fundamental rights.",
+      "COURT_CITATIONS": "Constitución de la República artículos 7, 44 y 72; Ley No. 16.011 artículos 1 y 2; Sentencia SCJ No. 198/2021 de 20 de julio de 2021 (declarando inconstitucional artículo 7 inciso 2 de la Ley 18.335); Sentencia TAC 1ro No. 132/2021; Sentencia TAC 1ro No. 16/2021 de 23 de marzo de 2021; Sentencia TAC 1ro No. 26/2020; Sentencia TAC 1ro No. 83/2017; Sentencia SCJ No. 396/2016; Sentencia SCJ No. 75/2021 de 27 de abril de 2021; Sentencia TAC 7mo No. 17/2021; Sentencia TAC Civil No. 72/018-7; Sentencias TAC Civil Nos. 31/019-7, 17/020-7, 70/020-7; Pacto Internacional de Derechos Económicos, Sociales y Culturales artículo 12 (Ley No. 13.751); Protocolo de San Salvador artículo 10 (Ley No. 16.519); CGP artículo 261; Código Civil artículo 688; Ley No. 15.750 artículo 61; Sentencias SCJ Nos. 123/2015 y 194/2019; Sentencias TAC 1ro Nos. 123/2011 y 186/2011"
+    },
+    "missing_from_no": "The N column correctly identifies the diagnosis and age but omits the name of the treating oncologist (Dra. Laura Cawen), the name of the expert witness (Dr. Alejandro Saldombide), information about prior platinum-salt chemotherapy, the judicial decision outcome, decision grounds, court citations, and the full name of the institution (IUE 2-15069/2021, Tribunal de Apelaciones en lo Civil de Primer Turno). The O column is empty and provides no clinical information at all.",
+    "possibly_incorrect": "No conflicts detected — the N column's characterization of 'advanced squamous tonsil carcinoma' in a 56-year-old is consistent with the document.",
+    "error": null
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2021-05-07.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2021-05-07.pdf.txt",
+    "rows": [
+      {
+        "row": 85,
+        "case": "79/2021",
+        "N": "Kidney cancer with disseminated disease at lymph node and bone level, with local recurrence",
+        "O": "Underwent left radical nephrectomy, where renal cell carcinoma and two primary tumors (kidney and rectum) were found. Received chemotherapy between July and October 2020 (six fortnightly series)."
+      }
+    ],
+    "status": "processed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Renal cell carcinoma (carcinoma de células renales) with disseminated disease at lymph node and bone level and new local recurrence; two primary tumors identified in kidney and rectum",
+      "SECONDARY_DIAGNOSES": "Primary rectal tumor (second primary tumor confirmed at time of left radical nephrectomy)",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "61 years old",
+      "CLINICAL_HISTORY": "In 2020 the disease was detected by computed tomography. The patient underwent surgical intervention consisting of left radical nephrectomy, where renal cell carcinoma was confirmed and two primary tumors in the kidney and rectum were found. Chemotherapy was commenced on 23 July 2020 in six fortnightly series over six months, concluding in October 2020. A new computed tomography in December 2020 showed persistence of a peripheral micronodule of similar characteristics. Given the persistence of lesions and the rapid progression of the disease, Pembrolizumab and axitinib were indicated as the only possible treatment. On 22 March 2021, the patient submitted an administrative request to the Ministerio de Salud Pública that had not yet been answered by the time the amparo was filed, and the rapid progression of the disease did not permit further waiting.",
+      "SYMPTOMS": "Persistence of peripheral micronodule on computed tomography (December 2020); rapid disease progression",
+      "DISEASE_SEVERITY": "Renal cell carcinoma with disseminated disease at lymph node and bone level and new local recurrence; disease persisted and progressed rapidly despite chemotherapy; ECOG Performance Status not stated",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "Rectal primary tumor (second primary tumor)",
+      "PRIOR_TREATMENTS": "Left radical nephrectomy (date in 2020, exact date not specified); chemotherapy — six fortnightly series commencing 23 July 2020 and concluding October 2020, specific drug names not mentioned in the appellate decision; disease persisted on December 2020 imaging",
+      "THERAPEUTIC_FAILURE": "Despite left radical nephrectomy and six fortnightly cycles of chemotherapy (July to October 2020), a new computed tomography in December 2020 showed persistent peripheral micronodule, and given lesional persistence and rapid disease progression, Pembrolizumab and axitinib were indicated as the only possible treatment",
+      "BIOMARKERS": "NOT FOUND",
+      "METASTASIS_SITES": "Lymph nodes (ganglionar); bone (óseo); local recurrence site",
+      "MEDICAL_JUSTIFICATION": "The treating oncologist indicated Pembrolizumab and axitinib as the only possible treatment given the persistence of lesions and rapid disease progression; the treatment was proposed to give the patient a certain possibility of greater overall and progression-free survival; the Ministerio de Salud Pública did not dispute the medical diagnosis, the appropriateness of the treatment indicated, or the patient's lack of resources",
+      "URGENCY": "The rapid progression of the disease did not permit further waiting for the administrative response; the patient submitted a request on 22 March 2021 that had not been answered; the court found the amparo was the only available effective remedy",
+      "RISK_DETERIORATION": "Rapid disease progression noted; without treatment the disease continued to advance",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "The court cited the need to protect fundamental rights to life and health and noted the rapid disease progression threatening these rights; the treatment was presented as providing a certain possibility of greater overall survival",
+      "REQUESTED_TREATMENT": "Pembrolizumab and axitinib in the dose and time required by the treating physician; route, specific dose, and frequency not specified in the ruling; to be supplied within 24 hours; line of treatment not specified beyond being after prior chemotherapy failure",
+      "JUDICIAL_DECISION": "Partially Granted — the appellate court (Tribunal de Apelaciones en lo Civil de Tercer Turno, Sentencia 79/2021) unanimously confirmed the first-instance ruling in part: it maintained the condemnation of the Ministerio de Salud Pública to supply Pembrolizumab and axitinib, but revoked the condemnation of the Fondo Nacional de Recursos by upholding its exception of lack of passive standing",
+      "DECISION_GROUNDS": "The court held that the Ministerio de Salud Pública's defense was purely formal, as it did not challenge the medical diagnosis, the appropriateness of the treatment, or the patient's lack of resources, and that its generic invocation of its institutional duties without providing concrete elements justifying denial constituted manifestly illegitimate conduct under Article 44 of the Constitution. The court further held that the principle of equity, expressly invoked in Decree 130/2017, requires taking into account personal circumstances in resolving each particular situation, and that the Ministry's failure to provide any response to the patient's administrative request of 22 March 2021 confirmed the arbitrary and unjustifiable nature of the omission. Regarding the Fondo Nacional de Recursos, the court held that it is a public non-state person subject to the principle of speciality, that its specific mandate is limited to funding medications and procedures included in the Formulario Terapéutico de Medicamentos for the relevant pathologies, and that neither Pembrolizumab nor axitinib had been included for the patient's pathology, precluding any legitimate passive standing for the FNR.",
+      "COURT_CITATIONS": "Constitución de la República artículos 7, 8, 44, 72, 82, 186 y 332; Ley No. 9.202; Ley No. 16.343; Ley No. 17.930 artículo 264; Ley No. 18.211 artículos 1, 2, 3 y 4; Ley No. 18.335 artículos 2, 6, 7, 10 y 11; Decreto No. 130/2017; Declaración Universal de Derechos Humanos artículos 3, 22 y 25; Pacto Internacional de Derechos Económicos, Sociales y Culturales artículos 9, 11 y 12 (Ley No. 13.751); Pacto Internacional de Derechos Civiles y Políticos artículos 3 y 6 (Ley No. 13.751); Declaración Americana de los Derechos y Deberes del Hombre artículos I y XI; Convención Americana sobre Derechos Humanos artículos 4 y 5 (Ley No. 15.737); Protocolo Adicional a la Convención Americana sobre Derechos Humanos en Materia de Derechos Económicos, Sociales y Culturales artículos 9 y 10 (Ley No. 16.519); Sentencia 40/2020 (Sala); Sentencia SCJ No. 396/2016; Ley No. 16.011 artículos 1 y 2; Código Civil artículo 688; CGP artículos 197, 198 y 261; LOT artículo 61; DELPIAZZO 'Régimen Jurídico de la Asistencia a la Salud' FCU 2009"
+    },
+    "missing_from_no": "The N column omits the patient's age (61 years old), the second primary tumor in the rectum, the disease detection modality (computed tomography), the date of the nephrectomy, the chemotherapy start and end dates (July–October 2020), the December 2020 imaging finding, the second requested medication (axitinib), the judicial decision outcome, decision grounds, and court citations. The O column omits the December 2020 imaging finding showing persistent micronodule, the March 2021 administrative request, the indication of both Pembrolizumab and axitinib as the only possible treatment, and all legal and judicial outcome information.",
+    "possibly_incorrect": "The O column states that the patient 'received chemotherapy between July and October 2020 (six fortnightly series)' — the document confirms chemotherapy in six fortnightly series from 23 July 2020 concluding October 2020, which is consistent. The N column describes 'kidney cancer with disseminated disease at lymph node and bone level, with local recurrence' which is consistent with the document. No factual conflicts detected.",
+    "error": null
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2021-02-22.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2021-02-22.pdf.txt",
+    "rows": [
+      {
+        "row": 86,
+        "case": "22/2021",
+        "N": "Not about pembrolizumab",
+        "O": ""
+      },
+      {
+        "row": 87,
+        "case": "19/2021",
+        "N": "Nodular melanoma of the right foot, pT4b pN2a M0, resected stage IIIC and with lymph node dissection",
+        "O": "Adjuvant therapy. Pathological anatomy confirmed metastatic colonization by a pigmented malignant melanoma, BRAF Negative. Treatment refused based on the fact that it was Stage III and non-metastatic."
+      }
+    ],
+    "status": "processed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Nodular malignant melanoma of the right foot (melanoma maligno nodular de pie derecho), pT4b pN2a M0, Stage Three C (resected Stage Three C), with lymph node dissection performed in December 2020; Programmed Death-Ligand 1 receptor targeted (B-Raf Proto-Oncogene negative); diagnosed May 2020",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "77 years old at the time the amparo was filed (January 2021)",
+      "CLINICAL_HISTORY": "In May 2020 a lesion on the right heel was resected; pathological anatomy was performed and staging was carried out — no metastasis found. In July 2020 margin widening was performed; pathological anatomy was performed and there was difficulty with wound healing. In August 2020 sentinel lymph node biopsy was performed; two inguinal lymph nodes were resected; pathological anatomy and immunohistochemistry confirmed a sentinel lymph node micrometastasis. In September 2020 disease re-staging was performed with computed tomography and scintigraphy — no evidence of disease or secondary lesions. In December 2020 inguinal lymph node dissection was performed; pathological anatomy confirmed metastatic colonization by a pigmented malignant melanoma, B-Raf Proto-Oncogene Negative. The treating physician then indicated adjuvant treatment with Pembrolizumab 200 mg every 3 weeks for one year. The Fondo Nacional de Recursos denied coverage on the ground that the patient was in Stage Three and non-metastatic, arguing he should wait without treatment until the disease progressed and spread to other organs before receiving the medication.",
+      "SYMPTOMS": "Difficulty with wound healing after margin widening surgery (July 2020)",
+      "DISEASE_SEVERITY": "Nodular malignant melanoma of the right foot, pT4b pN2a M0, Stage Three C, resected with inguinal lymph node dissection; micrometastasis in sentinel lymph node confirmed; no distant metastasis at time of diagnosis; estimated risk of relapse and death by melanoma of 50% at 5 years according to expert witness; adjuvant indication given to reduce this risk; ECOG Performance Status not stated",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Resection of right heel lesion (May 2020); margin widening surgery (July 2020); sentinel lymph node biopsy with resection of two inguinal lymph nodes (August 2020); inguinal lymph node dissection (December 2020); no systemic pharmacological treatment prior to Pembrolizumab indication",
+      "THERAPEUTIC_FAILURE": "No systemic drug treatment had been given; the indication is adjuvant (post-surgical) to reduce the risk of recurrence; the Fondo Nacional de Recursos' protocol only covered Pembrolizumab for advanced melanoma and not in the adjuvant setting, which the court found to be an arbitrary restriction not strictly based on scientific criteria",
+      "BIOMARKERS": "B-Raf Proto-Oncogene (BRAF): Negative — no cells with the V600E mutation in the B-Raf Proto-Oncogene gene were detected (immunohistochemistry); other biomarkers not stated",
+      "METASTASIS_SITES": "Micrometastasis in sentinel inguinal lymph node (confirmed August 2020); no distant organ metastasis (M0)",
+      "MEDICAL_JUSTIFICATION": "The treating physician indicated adjuvant Pembrolizumab 200 mg every 3 weeks for one year. Expert witness Dra. Dahiana Amarillo (medical oncologist) confirmed the disease is nodular malignant melanoma of the right foot, pT4b pN2a M0, Stage Three C, resected with lymph node dissection in December 2020, with an estimated 50% risk of relapse and death by melanoma at 5 years. Treatment with Pembrolizumab has shown a 20% relapse-free survival benefit at 5 years with manageable toxicity. The adjuvant treatment for 18 cycles was correct and in accordance with international and national consensus. The Ministerio de Salud Pública did not challenge the diagnosis, the drug indication, or the patient's inability to pay.",
+      "URGENCY": "The patient and the court found the Fondo Nacional de Recursos' restriction arbitrary and based on criteria that were not strictly scientific; the restriction required the patient to wait untreated until his disease progressed and spread to other organs before receiving the medication, which the court characterized as a violation of the right to health and the principle of equality; waiting posed a 50% risk of relapse and death at 5 years according to the expert",
+      "RISK_DETERIORATION": "50% estimated risk of relapse and death by melanoma at 5 years without adjuvant treatment according to expert witness Dra. Dahiana Amarillo; the Pembrolizumab adjuvant regimen has shown a 20% relapse-free survival benefit at 5 years",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "50% estimated risk of death by melanoma at 5 years without treatment; the court found the denial of treatment was manifestly illegitimate by violating the right to health and the principle of equality",
+      "REQUESTED_TREATMENT": "Pembrolizumab 200 mg intravenously every 3 weeks for one year (18 cycles); adjuvant treatment after surgical resection and lymph node dissection; commercial name Keytruda; unit price stated as R$152,656 for 100 mg",
+      "JUDICIAL_DECISION": "Partially Granted — the appellate court (Tribunal de Apelaciones en lo Civil de Sexto Turno, Sentencia 19/2021) confirmed the first-instance ruling condemning the Ministerio de Salud Pública to supply Pembrolizumab, but revoked the condemnation of the Fondo Nacional de Recursos by upholding its exception of lack of passive standing",
+      "DECISION_GROUNDS": "The court found manifestly illegitimate conduct by the Ministerio de Salud Pública in incorporating Pembrolizumab in the Formulario Terapéutico de Medicamentos only for irresectable metastatic melanoma and not in the adjuvant setting, despite scientific evidence demonstrating its efficacy in that setting, and without providing any scientific argument to exclude adjuvant use — relying instead on sustainability of the system arguments; such conduct was held to violate the right to health and the principle of equality. The court held that the Ministry's failure to respond to the patient's administrative request and to provide scientific reasons for exclusion of adjuvant use, despite being aware of the evidence of efficacy, constituted a manifestly illegitimate omission. The court found that the Fondo Nacional de Recursos lacked passive standing because the Ministerio de Salud Pública had not incorporated Pembrolizumab for the patient's clinical situation (adjuvant melanoma), which is a prerequisite for any FNR obligation to fund the medication.",
+      "COURT_CITATIONS": "Constitución de la República artículos 8, 44, 72 y forma republicana de gobierno (artículo 72); Ley No. 16.011 artículo 9 literal C y artículo 1; Ley No. 18.211 artículo 4; Ley No. 16.343; Ordenanza Ministerial No. 173/2020 de 28 de febrero de 2020; Decreto No. 130/2017; Sentencia No. 194/2019 (Sala); Sentencia No. 123/2015 (Sala); Sentencia No. 151/2020 (Sala); Sentencia No. 388/2008 (Sala); DFA 6-455/2015; Sentencias Nos. 50/2014 y 17/8/2018; TAC 1ero Sentencia 203/2014; LORENZETTI 'Responsabilidad Civil de los Médicos' Tomo I; CGP artículos 140, 183, 184 y 261; Código Civil artículo 688; LOT artículo 61"
+    },
+    "missing_from_no": "Row 86: N states 'Not about pembrolizumab' — the document covers two cases in the same PDF file; case 22/2021 does not appear in the text (only case 19/2021 is contained). Row 87: The N column omits the patient's age (77 years old), the laterality of the melanoma (right foot), the diagnosis date (May 2020), the full surgical history (resection May 2020, margin widening July 2020, sentinel lymph node biopsy August 2020, inguinal lymph node dissection December 2020), the estimated risk of relapse and death (50% at 5 years), the Pembrolizumab benefit (20% relapse-free survival at 5 years), the adjuvant regimen duration (18 cycles), the cost of the medication (Keytruda R$152,656 per 100 mg), the judicial decision outcome, decision grounds, and court citations. The O column omits the full staging designation, the sentinel lymph node micrometastasis finding, the inguinal lymph node dissection, the estimated survival data, the Pembrolizumab dose and schedule, and the full judicial outcome.",
+    "possibly_incorrect": "Row 87: The N column states 'Nodular melanoma of the right foot' — the document confirms 'melanoma maligno nodular de pie derecho' (nodular malignant melanoma of the right foot), consistent. The N column states 'pT4b pN2a M0, resected stage IIIC' which is confirmed by the expert witness as correct. The O column states 'BRAF Negative' which is confirmed in the document. The O column states 'Treatment refused based on the fact that it was Stage III and non-metastatic' — the document confirms the FNR refused on the ground that the patient was in Stage Three and non-metastatic, consistent. No factual conflicts detected.",
+    "error": null
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2020-07-14.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2020-07-14.pdf.txt",
+    "rows": [
+      {
+        "row": 88,
+        "case": "194/2020",
+        "N": "Not about pembrolizumab",
+        "O": ""
+      },
+      {
+        "row": 89,
+        "case": "47/2020",
+        "N": "Hypopharyngeal cancer with recurrence; Lung cancer PDL1 (30% positive)",
+        "O": "NI"
+      },
+      {
+        "row": 90,
+        "case": "91/2020",
+        "N": "Not about pembrolizumab",
+        "O": ""
+      },
+      {
+        "row": 91,
+        "case": "34/2020",
+        "N": "Not about pembrolizumab",
+        "O": ""
+      }
+    ],
+    "status": "processed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Hypopharyngeal cancer (cáncer de hipofaringe) diagnosed in 2017, treated with chemotherapy and radiotherapy; relapse in 2019 with evidence of lung cancer (cáncer de pulmón) on computed tomography",
+      "SECONDARY_DIAGNOSES": "Lung cancer detected in 2019 on computed tomography after hypopharyngeal cancer relapse",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "66 years old",
+      "CLINICAL_HISTORY": "In 2017 the patient was diagnosed with hypopharyngeal cancer and treated with chemotherapy and radiotherapy. He has had a feeding gastrostomy since 2018 and a tracheostomy. In 2019 he relapsed and computed tomography evidenced a lung cancer. Treatment with carboplatin and paclitaxel was performed. Subsequently a Programmed Death-Ligand 1 study was performed yielding a 30% positive result, whereupon his treating oncologist Dra. Amarilla and the medical panel indicated treatment with Pembrolizumab. He has a monthly retirement income from the Social Security Bank (Banco de Previsión Social) of R$13,557 and is assisted by the Legal Clinic of the Universidad de la República (UDELAR).",
+      "SYMPTOMS": "Hypopharyngeal symptoms from 2017; feeding gastrostomy since 2018; tracheostomy present",
+      "DISEASE_SEVERITY": "Hypopharyngeal cancer with relapse; subsequent lung cancer; Programmed Death-Ligand 1 positive at 30%; ECOG Performance Status not stated; described as having no other treatment option with similar efficacy",
+      "FUNCTIONAL_LIMITATIONS": "Gastrostomy for feeding (since 2018); tracheostomy",
+      "COMORBIDITIES": "NOT FOUND beyond the two cancer diagnoses",
+      "PRIOR_TREATMENTS": "Chemotherapy and radiotherapy for hypopharyngeal cancer (2017); treatment with carboplatin and paclitaxel after 2019 lung cancer relapse (number of cycles and dates not specified)",
+      "THERAPEUTIC_FAILURE": "The hypopharyngeal cancer relapsed in 2019 with computed tomography evidence of lung cancer despite initial chemotherapy and radiotherapy; carboplatin and paclitaxel were subsequently administered; expert witness Dr. Lasalvia concluded that Pembrolizumab is currently the drug of choice for analogous cases in national and international oncology protocols and that there are no alternatives offering similar results",
+      "BIOMARKERS": "Programmed Death-Ligand 1 (PD-L1): 30% positive; other biomarkers not stated",
+      "METASTASIS_SITES": "NOT FOUND explicitly beyond lung cancer detected after relapse",
+      "MEDICAL_JUSTIFICATION": "Treating oncologist Dra. Dahiana Amarilla (who testified as a witness) and the medical panel indicated Pembrolizumab after the Programmed Death-Ligand 1 study returned 30% positive. Expert witness Dr. Lasalvia stated in his report that Pembrolizumab is currently the drug of choice for analogous cases per national and international oncology protocols and that there are no alternatives offering similar results; the Ministry did not dispute the diagnosis, the appropriateness of the treatment, or the scientific evidence presented.",
+      "URGENCY": "The patient's health situation required immediate treatment; the medication is registered in Uruguay since 28 February 2018 for melanoma and lung cancer and is commercialized by the company CIBELES S.A.; the court found the State's failure to respond to the administrative request (noted at page 82 of the record) was manifestly illegitimate",
+      "RISK_DETERIORATION": "Without Pembrolizumab there are no alternatives offering similar results; the expert confirmed the indication is correct and optimal",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "The court found the denial of the medication threatens the patient's right to life and survival with dignity; no specific survival data stated",
+      "REQUESTED_TREATMENT": "Pembrolizumab 200 mg intravenously every 21 days until progression or intolerance; commercial name KEYTRUDA; to be supplied within 24 hours according to the treating physician's indications; line of treatment not specified beyond being after prior chemotherapy failure; cost stated as R$189,596 per 100 mg",
+      "JUDICIAL_DECISION": "Granted — the appellate court (Tribunal de Apelaciones en lo Civil de Tercer Turno, Sentencia 47/2020) partially reversed the first-instance ruling, condemning the Ministerio de Salud Pública to supply Pembrolizumab within 24 hours according to the treating physician's indications for as long as indicated; the exception of lack of passive standing by the Fondo Nacional de Recursos was maintained (confirmed from first instance); the first-instance dismissal against the Ministerio de Salud Pública was reversed",
+      "DECISION_GROUNDS": "The court held that the Ministerio de Salud Pública's defense was exclusively formal, as it did not challenge the diagnosis, the treatment appropriateness, the scientific evidence, or the administrative request made by the patient, and that its refusal to provide a concrete reasoned response to the patient's specific request in administrative proceedings confirmed manifestly illegitimate conduct under Article 44 paragraph 2 of the Constitution, which obligates the State to provide gratuitously the means of prevention and assistance to those lacking sufficient resources. The court applied the principle of equity enshrined in Decree 130/2017, which requires taking into account personal circumstances, and held that if no solution is provided for the concrete case there is no equity. The court rejected the first-instance judge's reasoning that conditioning the obligation on the registration of the drug for the specific pathology was correct, holding instead that when the drug is proven to be the correct treatment, the absence of registration for that pathology cannot excuse the State from its constitutional obligation.",
+      "COURT_CITATIONS": "Constitución de la República artículos 7, 8, 44, 72, 82 y 332; Ley No. 9.202; Ley No. 16.011 artículos 1 y 2; Ley No. 16.343; Ley No. 17.930 artículo 264; Ley No. 18.211 artículos 1, 2, 3 y 4; Ley No. 18.335 artículos 2, 6, 7, 10 y 11; Decreto No. 130/2017; Sentencia SCJ No. 396/2016; Ordenanza Ministerial No. 173/2020 de 28 de febrero de 2020; Sentencia TAC 5to No. 231/2019; Declaración Universal de Derechos Humanos artículos 3, 22 y 25; Pacto Internacional de Derechos Económicos, Sociales y Culturales artículos 9, 11 y 12 (Ley No. 13.751); Pacto Internacional de Derechos Civiles y Políticos artículos 3 y 6 (Ley No. 13.751); Declaración Americana de los Derechos y Deberes del Hombre artículos I y XI; Convención Americana sobre Derechos Humanos artículos 4 y 5 (Ley No. 15.737); Protocolo Adicional a la Convención Americana sobre Derechos Humanos en Materia de Derechos Económicos, Sociales y Culturales artículos 9 y 10 (Ley No. 16.519); CGP artículos 197, 198 y 261; Código Civil artículo 688; LOT artículo 61"
+    },
+    "missing_from_no": "Row 88 (case 194/2020): N states 'Not about pembrolizumab' — the document covers multiple cases and only case 47/2020 is related to Pembrolizumab in this document. Rows 90 and 91 (cases 91/2020 and 34/2020): N states 'Not about pembrolizumab' — consistent with the single case described. Row 89 (case 47/2020): The N column correctly identifies hypopharyngeal cancer with recurrence and lung cancer with Programmed Death-Ligand 1 30% positive, but omits: the patient's age (66 years old), the year of initial diagnosis (2017), the gastrostomy (2018) and tracheostomy, the specific chemotherapy drugs used for lung cancer (carboplatin and paclitaxel), the treating physician's name (Dra. Dahiana Amarilla), the expert witness (Dr. Lasalvia), the Pembrolizumab dose and schedule (200 mg every 21 days until progression or intolerance), the cost of the medication, the judicial decision outcome, decision grounds, and court citations. The O column contains only 'NI' (no information).",
+    "possibly_incorrect": "Row 89: The N column describes the patient as having 'Hypopharyngeal cancer with recurrence; Lung cancer PDL1 (30% positive)' — the document confirms hypopharyngeal cancer diagnosed in 2017, relapse in 2019 with lung cancer on computed tomography, and a Programmed Death-Ligand 1 study returning 30% positive, which is consistent. The characterization as 'recurrence' in the N column is broadly consistent with the document's description of a relapse and new lung cancer detection, though the document suggests the lung cancer may be a distinct second cancer rather than strictly a recurrence of the hypopharyngeal cancer; this distinction is a potential nuance rather than a clear factual conflict. No definitive conflicts detected.",
+    "error": null
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2019-12-04.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2019-12-04.pdf.txt",
+    "rows": [
+      {
+        "row": 92,
+        "case": "255/2019",
+        "N": "Invasive nodular melanoma (cells with V600E mutation in the BRAF gene)",
+        "O": "A BRAF mutation study was performed, resulting negative (no cells with the V600E mutation in the BRAF gene were detected)."
+      }
+    ],
+    "status": "processed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Invasive nodular melanoma (melanoma invasivo de tipo nodular), diagnosed in June 2019",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "57 years old",
+      "CLINICAL_HISTORY": "The patient, Sra. Inés Nadales, is 57 years old and was diagnosed with invasive nodular melanoma in June 2019 per a medical report by her treating physician Dr. Carlos Meyer at COSEM. A B-Raf Proto-Oncogene mutation study was performed which did not detect cells with the V600E mutation in the B-Raf Proto-Oncogene gene, whereupon her treating physician indicated treatment with Pembrolizumab. Given the high cost of the medication, she submitted petitions to the Ministerio de Salud Pública and the Fondo Nacional de Recursos, which had not responded, and given the gravity of her illness she could not await a response. The medication requires 200 mg every 21 days at a cost of R$305,312 per dose; she was not in an economic position to pay for it.",
+      "SYMPTOMS": "NOT FOUND explicitly",
+      "DISEASE_SEVERITY": "Invasive nodular melanoma; ECOG Performance Status not stated; described as a serious condition with the treating physician stating that the medication is recommended as first-line treatment with greater overall survival time and better tolerability; the court noted the patient is young and that the denial was based on budgetary impact",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "NOT FOUND — no prior systemic treatment mentioned; the treating physician recommended Pembrolizumab as a first-line treatment",
+      "THERAPEUTIC_FAILURE": "NOT FOUND — no prior systemic treatment is described; the indication is first-line based on B-Raf Proto-Oncogene negative status",
+      "BIOMARKERS": "B-Raf Proto-Oncogene (BRAF): negative — no cells with the V600E mutation in the B-Raf Proto-Oncogene gene were detected; other biomarkers not stated",
+      "METASTASIS_SITES": "NOT FOUND",
+      "MEDICAL_JUSTIFICATION": "Treating physician Dr. Carlos Meyer indicated Pembrolizumab as first-line treatment given the B-Raf Proto-Oncogene negative status, with greater overall survival time and better tolerability; his testimony described the disease and the benefits and consequences of not receiving the medication; the medication had approval from the United States Food and Drug Administration and the European Medicines Agency, and approval by the Oncology Department of the Universidad de la República (UDELAR) since December 2017; the Ministerio de Salud Pública had publicly recognized the efficacy of Pembrolizumab for melanoma treatment and its forthcoming inclusion in the Formulario Terapéutico de Medicamentos as of October 2019; the Ministry's defense based on budgetary impact was found to be manifestly illegitimate conduct",
+      "URGENCY": "The gravity of the illness did not permit awaiting a response; the court found the denial based on budgetary impact for inclusion in the Formulario Terapéutico de Medicamentos to be manifestly illegitimate and putting the patient's health and life at risk",
+      "RISK_DETERIORATION": "Without treatment the patient risked continued disease progression; the treating physician stated the medication has greater overall survival time and better tolerability",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "The court found that the Ministry's erratic conduct put the health and life of Sra. Nadales at risk; the Ministerio publicly recognized the efficacy of Pembrolizumab for melanoma while simultaneously denying it to a young patient based on budgetary impact",
+      "REQUESTED_TREATMENT": "Pembrolizumab 200 mg intravenously every 21 days; first-line treatment; cost R$305,312 per dose; to be supplied within 24 hours according to the treating physician's indications and for as long as indicated",
+      "JUDICIAL_DECISION": "Granted — the appellate court (Tribunal de Apelaciones en lo Civil de Sexto Turno, Sentencia 255/2019) unanimously confirmed the first-instance ruling condemning the Ministerio de Salud Pública to supply Pembrolizumab within 24 hours according to the treating medical team's indications and for as long as indicated; the Fondo Nacional de Recursos had already been dismissed at first instance and no appeal was filed against that dismissal, so it became final",
+      "DECISION_GROUNDS": "The court found that the Ministry did not dispute the patient's diagnosis or the appropriateness of the indicated drug in the relevant procedural stage, and that its defense consisted solely of repeating arguments from its response without providing a reasoned refutation of the first-instance grounds as required by Article 253.1 of the General Procedural Code; this formal deficiency alone justified rejection of the appeal. On the merits, the court held that the Ministry's own public declarations recognized the efficacy of Pembrolizumab for melanoma and that denying it to a young patient based solely on budgetary impact, without conducting an exhaustive individual medical study of the patient's situation, constituted manifestly illegitimate conduct putting her health and life at risk. The court held that the Ministry's defense based on budgetary inclusion impact was inconsistent with the Ministry's own conduct in publicly recognizing the drug's efficacy and stating its intention to include it in the Formulario Terapéutico de Medicamentos.",
+      "COURT_CITATIONS": "Ley No. 16.011 artículos 1 y 2; CGP artículos 253.1 y 261; Código Civil artículos 688 y 56; Sentencia No. 50/2014 (Sala); Sentencia de 17 de agosto de 2018 (Sala); TAC 1ro Sentencia 203/2014; Pressreader.com/uruguay/el-país-uruguay/20191004 (declaraciones de autoridades sanitarias); aprobación FDA y EMA de Pembrolizumab (KEYTRUDA); aprobación Cátedra de Oncología Médica UDELAR de diciembre de 2017"
+    },
+    "missing_from_no": "The N column states 'Invasive nodular melanoma (cells with V600E mutation in the BRAF gene)' — this is factually incorrect (see possibly_incorrect below). Beyond this error, the N column omits: the patient's name (Sra. Inés Nadales), age (57 years old), institution (COSEM), treating physician (Dr. Carlos Meyer), diagnosis date (June 2019), the B-Raf Proto-Oncogene negative status, the Pembrolizumab dose and schedule (200 mg every 21 days), the cost of the medication, the first-line character of the indication, the judicial decision outcome, decision grounds, and court citations.",
+    "possibly_incorrect": "Row 92: The N column states 'Invasive nodular melanoma (cells with V600E mutation in the BRAF gene)' — this is incorrect. The document explicitly states that a B-Raf Proto-Oncogene mutation study was performed and NO cells with the V600E mutation in the B-Raf Proto-Oncogene gene were detected (B-Raf Proto-Oncogene Negative). The N column incorrectly attributes a V600E positive result to this case. The O column correctly states 'A BRAF mutation study was performed, resulting negative (no cells with the V600E mutation in the BRAF gene were detected)' — the O column is correct, the N column is incorrect. Correction: the N column should read 'Invasive nodular melanoma, B-Raf Proto-Oncogene Negative (no V600E mutation detected)'.",
+    "error": null
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2019-09-02.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2019-09-02.pdf.txt",
+    "rows": [
+      {
+        "row": 93,
+        "case": "50/2019",
+        "N": "Lung cancer stage IV with PDL1 greater than 50% (74 years old)",
+        "O": "First-line drug"
+      }
+    ],
+    "status": "processed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Classic Hodgkin lymphoma (Linfoma de Hodgkin clásico) with nodular sclerosis, relapsed and refractory, Stage Four B; additionally a large expansive intradural extramedullary tumor mass at the T1-T2 level causing severe spinal cord compression was found on spinal magnetic resonance imaging",
+      "SECONDARY_DIAGNOSES": "Intradural extramedullary tumor lesion at T1-T2 causing severe spinal cord compression (compatible with Hodgkin lymphoma nodular sclerosis on pathological anatomy)",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "20 years old",
+      "CLINICAL_HISTORY": "The patient Valentina Fontana, 20 years old, began in October 2017 with cervicalgia prompting multiple consultations; analgesics and physiotherapy were prescribed. In March 2018 she was admitted with similar symptoms; spinal magnetic resonance imaging revealed a voluminous intradural extradural expansive process extending from C7 to T3, with infiltration of vertebrae C7, T1, and T2, extension into the soft tissues of the right supraclavicular space and compression and displacement of the spinal cord to the left, and a posterior mediastinal expansive process from T2 to T8, without invasion of the spinal canal. Partial resection of the tumor mass was performed at C7 and the right supraclavicular lymphadenopathy was resected; pathological anatomy yielded a diagnosis of Hodgkin lymphoma nodular sclerosis Stage Four B. First-line chemotherapy was commenced; upon progression, second-line DHAP chemotherapy was initiated. Spinal and cervical-dorsal magnetic resonance imaging revealed an intradural extramedullary tumor lesion at T1-T2 causing severe spinal cord compression. Emergency surgery was performed for spinal cord decompression; pathological anatomy was compatible with Hodgkin lymphoma nodular sclerosis. Given refractoriness to chemotherapy plans, the treating hematologist indicated Pembrolizumab as a bridge to autologous hematopoietic progenitor transplant. The medication is not included in the Formulario Terapéutico de Medicamentos and is not funded by the Fondo Nacional de Recursos; the patient submitted a request to the Ministerio de Salud Pública on 31 January 2019 which had not yet been answered, but her health state required immediate action.",
+      "SYMPTOMS": "Cervicalgia from October 2017; recurrent symptoms leading to hospitalization March 2018; spinal cord compression with neurological compromise and risk of permanent long-term sequelae",
+      "DISEASE_SEVERITY": "Hodgkin lymphoma nodular sclerosis, Stage Four B, relapsed and refractory to multiple chemotherapy lines; intradural extramedullary tumor at T1-T2 causing severe spinal cord compression; described as an oncological near-emergency due to neurological compromise that could cause permanent spinal cord sequelae; ECOG Performance Status not stated",
+      "FUNCTIONAL_LIMITATIONS": "Spinal cord compression at T1-T2 causing severe compression and neurological compromise with risk of permanent sequelae",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "First-line chemotherapy (drugs and doses not specified); second-line DHAP chemotherapy (drugs and doses not specified); partial tumor resection surgery at C7 and resection of right supraclavicular lymphadenopathy; emergency spinal cord decompression surgery; all with disease progression and refractoriness",
+      "THERAPEUTIC_FAILURE": "Refractoriness to first-line and second-line DHAP chemotherapy plans, with disease progression documented on spinal magnetic resonance imaging showing new intradural extramedullary T1-T2 lesion causing severe spinal cord compression despite prior treatments",
+      "BIOMARKERS": "NOT FOUND",
+      "METASTASIS_SITES": "Mediastinum posterior (T2-T8); supraclavicular lymph nodes (right); intradural extramedullary at T1-T2; infiltration of vertebrae C7, T1, T2",
+      "MEDICAL_JUSTIFICATION": "Treating hematologist Dr. Silvia Pierri indicated Pembrolizumab as a bridge to autologous bone marrow transplant (autologous hematopoietic progenitor cell transplant), because achieving a state of residual lymphoma without chemotherapy for at least 20 days was needed to harvest bone marrow stem cells for the transplant, which, if successful, could cure the disease. Expert witness Dra. María Virginia Costa Illanes confirmed that the patient has relapsed and refractory Hodgkin lymphoma and that curative treatment options depend on achieving complete remission; reduction of tumor mass is necessary first, with the goal of consolidation with chemotherapy and stem cell rescue (autologous transplant). She confirmed the Pembrolizumab indication at usual doses of 200 mg every three weeks (initially a minimum of four doses, with more potentially needed) as a bridge to autologous bone marrow transplant; international reports show response chances of 69% with prolonged responses (11 months); the treatment was described as almost an oncological emergency due to neurological compromise from spinal cord compression that could cause permanent sequelae.",
+      "URGENCY": "Described as almost an oncological emergency due to neurological compromise from spinal cord compression that could cause permanent long-term sequelae; whether the patient is a transplant candidate or not, the medication is indicated; the court found the Ministry's silence manifestly illegitimate given the urgency and the patient's age",
+      "RISK_DETERIORATION": "Progressive neurological compromise from spinal cord compression; without Pembrolizumab the patient could not proceed to the autologous transplant which is the only curative option; no other medication with the same effect is available in Uruguay (brentuximab vedotin and nivolumab are approved by the United States Food and Drug Administration and European Medicines Agency but not available in Uruguay)",
+      "RISK_HOSPITALIZATION": "High risk given progressive spinal cord compression requiring emergency surgery in the past",
+      "RISK_DEATH": "Without Pembrolizumab to bridge to the transplant, curative treatment options are foreclosed; the expert noted that the patient is a candidate for autologous transplant and that if the transplant is reached, cure of the disease may be achieved; the absence of treatment implies severe disease progression",
+      "REQUESTED_TREATMENT": "Pembrolizumab 200 mg intravenously every three weeks, initially a minimum of four doses (further doses potentially needed), as a bridge to autologous hematopoietic progenitor cell transplant (autologous bone marrow transplant); commercial name KEYTRUDA; registered at the Ministerio de Salud Pública; cost per 100 mg ampule stated as R$149,000; first-line use for this indication is bridge to transplant after refractoriness to standard chemotherapy",
+      "JUDICIAL_DECISION": "Granted — the appellate court (Tribunal de Apelaciones en lo Civil de Sexto Turno, Sentencia 50/2019 but dated 29 March 2019; note: the file name and document indicate the PDF date is 2019-09-02, but the sentence date shown is 29 March 2019) confirmed the first-instance ruling (Sentencia 13/2019 dated 20 February 2019) condemning the Ministerio de Salud Pública to supply Pembrolizumab within 72 hours according to the treating physician's indications and for as long as indicated, without special condemnation in costs",
+      "DECISION_GROUNDS": "The court held that the Ministerio de Salud Pública did not contest the patient's diagnosis, the disease, or the appropriateness of the indicated Pembrolizumab as the correct treatment, and that its defense consisted solely of repeating arguments already made at first instance without proper reasoned refutation; its silence on the patient's administrative petition filed 31 January 2019 was found to be a manifestly illegitimate omission. The court applied the principle that the administrative silence of the State violates the right of every inhabitant of the Republic to know the grounds of public authority decisions that directly and personally affect them, a right of constitutional rank. The court held that the Ministry failed to conduct a scientific analysis of the patient's individual situation despite the gravity and urgency of the case, and that a public health organ with the high duty to preserve health and life should have implemented an expedited procedure for analyzing the drug's efficacy in this case, rather than remaining silent.",
+      "COURT_CITATIONS": "Ley No. 16.011 artículos 1, 2 y 6; Sentencia No. 50/2014 (Sala); Sentencia del 17 de agosto de 2018 (Sala); TAC 1ro Sentencia 203/2014; Ordenanza 692/2016 (procedimiento abreviado MSP); Constitución de la República artículo 72; CGP artículos 688 y 261; Sentencias Sala Nos. 166/2006 y 123/2008; RUDP No. 3/97 c. 501 pág. 385"
+    },
+    "missing_from_no": "The N column states 'Lung cancer stage IV with PDL1 greater than 50% (74 years old)' — this is entirely incorrect for case 50/2019 (see possibly_incorrect below). All 22 clinical fields are absent from the N column for the actual case content.",
+    "possibly_incorrect": "Row 93: The N column states 'Lung cancer stage IV with PDL1 greater than 50% (74 years old)' — this does not match the document at all. The document describes a 20-year-old patient (Valentina Fontana) with relapsed and refractory Hodgkin lymphoma nodular sclerosis Stage Four B with spinal cord compression, not lung cancer. The patient is 20 years old, not 74. There is no Programmed Death-Ligand 1 result mentioned. The indication for Pembrolizumab is as a bridge to autologous bone marrow transplant, not first-line for lung cancer. The O column states 'First-line drug' which is also inconsistent — the document describes Pembrolizumab as a bridge to transplant after refractoriness to multiple chemotherapy lines in a hematologic malignancy. Correction: The N column should read 'Hodgkin lymphoma nodular sclerosis Stage Four B, relapsed and refractory, with intradural extramedullary spinal cord compression (20 years old)'; the O column should read 'Pembrolizumab indicated as bridge to autologous hematopoietic progenitor cell transplant after refractoriness to first-line and second-line DHAP chemotherapy; no other comparable medication available in Uruguay'.",
+    "error": null
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2019-03-06.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2019-03-06.pdf.txt",
+    "rows": [
+      {
+        "row": 94,
+        "case": "13/2019",
+        "N": "Advanced lung adenocarcinoma stage III",
+        "O": "Adjuvant chemotherapy with Pemetrexed (poor tolerance). Switch to Carboplatin/Pemetrexed (completed 3 cycles). Radiotherapy. Second line treatment."
+      }
+    ],
+    "status": "processed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Advanced lung adenocarcinoma, Stage Three (adenocarcinoma de pulmón avanzado E III), diagnosed April 2018; patient of CASMU",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "56 years old",
+      "CLINICAL_HISTORY": "The patient, 56 years old and a patient at CASMU, was diagnosed in April 2018 with advanced lung adenocarcinoma Stage Three. She received adjuvant chemotherapy with Pemetrexed which was poorly tolerated, so the regimen was changed to carboplatin and Pemetrexed and she managed to complete 3 cycles. In December 2018 treatment had to be suspended (she also underwent radiotherapy) due to intolerance from esophageal mucositis. With the disease disseminated despite therapies received, the treating oncologist Dr. Carlos Meyer indicated Pembrolizumab. The drug (registered at the Ministerio de Salud Pública under number 45052 by Laboratorio Cibeles, approved by the United States Food and Drug Administration and European Medicines Agency) is not in the Formulario Terapéutico de Medicamentos and no request for its inclusion was evident in the record. She submitted a petition to the Ministerio de Salud Pública on 22 January 2019, which had not been answered by the date the amparo was filed (19 February 2019). Her household income consists only of her husband's retirement pension of R$54,112 monthly; her assets are the house she lives in and a bank account.",
+      "SYMPTOMS": "Esophageal mucositis causing intolerance to chemotherapy (December 2018); disease disseminated despite prior treatments",
+      "DISEASE_SEVERITY": "Advanced lung adenocarcinoma Stage Three with disease disseminated despite chemotherapy and radiotherapy; disease still active after prior treatments; ECOG Performance Status not stated; described as the best therapeutic option available",
+      "FUNCTIONAL_LIMITATIONS": "Esophageal mucositis leading to treatment suspension",
+      "COMORBIDITIES": "Esophageal mucositis (treatment-related complication)",
+      "PRIOR_TREATMENTS": "Adjuvant chemotherapy with Pemetrexed — poor tolerance, regimen changed; carboplatin and Pemetrexed — 3 cycles completed, suspended December 2018 due to intolerance (esophageal mucositis); radiotherapy (concurrent with or following chemotherapy, suspended December 2018); disease disseminated despite all treatments",
+      "THERAPEUTIC_FAILURE": "Despite adjuvant Pemetrexed (poor tolerance, switched), carboplatin and Pemetrexed for 3 cycles, and radiotherapy, the disease was found to be disseminated by December 2018; the treating oncologist indicated Pembrolizumab given the disseminated disease despite therapies received",
+      "BIOMARKERS": "NOT FOUND explicitly in the appellate majority decision; the dissenting ministers' opinion references Programmed Death-Ligand 1 expression in the context of treatment benefit, but no specific percentage is stated in the majority decision",
+      "METASTASIS_SITES": "Disease disseminated (diseminada) — specific sites not enumerated in the ruling beyond the general characterization of disseminated disease",
+      "MEDICAL_JUSTIFICATION": "Treating oncologist Dr. Carlos Meyer indicated Pembrolizumab 200 mg intravenously every 21 days until intolerance or progression as second-line treatment after resistance to platinum-based chemotherapy; the dissenting ministers' reproduction of Dr. Meyer's medical report stated that for patients with poor response to chemotherapy and platinum resistance, Pembrolizumab as second-line treatment shows greater overall survival, overall response rate, and progression-free survival compared to Docetaxel, independent of Programmed Death-Ligand 1 expression; expert witness Dr. Eduardo Lasalvia confirmed the indication as correct and optimal for analogous cases per national and international oncology consensus; the dissenting ministers noted the Ministry provided no contrary scientific evidence",
+      "URGENCY": "The patient filed an administrative petition on 22 January 2019 that was not answered by 19 February 2019; the treating physician and expert confirmed the indication's urgency given the disease state; the dissenting ministers found the Ministry's failure to respond with an expedited procedure for this grave case to be manifestly illegitimate",
+      "RISK_DETERIORATION": "Disease disseminated despite prior treatments; the dissenting ministers held that the Ministry failed to prove the drug is or could be risky or harmful for the patient",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "The dissenting ministers found the right to life and health of the patient were at stake and that she lacked sufficient resources to acquire the treatment; the majority noted the gravity of the situation but found the judicial amparo was not the appropriate mechanism",
+      "REQUESTED_TREATMENT": "Pembrolizumab 200 mg intravenously every 21 days until intolerance or progression; second-line treatment after platinum-based chemotherapy resistance; registered at Ministerio de Salud Pública under number 45052 by Laboratorio Cibeles; cost per 100 mg ampule stated as R$149,000 (monthly cost R$447,000); not in the Formulario Terapéutico de Medicamentos",
+      "JUDICIAL_DECISION": "Denied — the appellate court (Tribunal de Apelaciones en lo Civil de Cuarto Turno, Sentencia 13/2019) by majority (three votes to two) reversed the first-instance ruling and dismissed the amparo; the first-instance ruling (Sentencia 27/2019) had condemned the Ministerio de Salud Pública to supply Pembrolizumab within 48 hours; the appellate majority found no manifestly illegitimate conduct; two ministers dissented and would have confirmed the first-instance ruling",
+      "DECISION_GROUNDS": "The appellate majority held that the right to health as a positive prestational right against the State is defined and limited by the legal framework established by the Legislature and the Executive in the implementation of public health policies, and that the Judiciary is not, in principle, called upon by the Constitution to cover health needs of the population through individual concrete cases, as doing so would violate the principle of separation of powers and substitute the Administration in health policy design. The majority applied the position of the Supreme Court in Sentencia 1981/2017 that health-related prestaciones are scarce resources that cannot all be provided to all persons, and that the State's obligation is to provide health prestaciones (integral, equal, humanitarian) but not to cure or achieve complete wellbeing. The majority further held that the non-inclusion of Pembrolizumab in the Formulario Terapéutico de Medicamentos, which was recently reviewed to include approximately fifteen oncological drugs, precluded a finding of manifestly illegitimate conduct, noting that no application for its inclusion had been made and that the non-inclusion could not be categorized as manifestly arbitrary or unjustified. The two dissenting ministers would have confirmed the first-instance ruling on the grounds that the Ministry failed to provide any scientific argument against the drug's efficacy for the patient's condition and that its high duty to preserve health and life required an expedited procedure to analyze the drug's efficacy in this grave case.",
+      "COURT_CITATIONS": "Constitución de la República artículos 7, 8, 44 y 72; Ley No. 16.011; Ley No. 18.211; Sentencia SCJ No. 1.981/2017; Sentencia TAC 1ro No. 1/2015 (Dres. Nilza Salvo y Eduardo Vázquez); Sentencia TAC 5to No. DFA-0004-000573/2017 SEF-0004-000115/2017; Sentencia TAC 5to No. DFA-0004-000794/2017 SEF-0004-000157/2017; Sentencia TAC 5to No. DFA 4-778/2018 SEF 4-197/2018; Sentencia TAC 5to No. 84/2018; Sentencia TAC 4to No. 201/2014 (Dra. Martínez); Sentencia TAC 5to No. 33/2018 de 6 de abril de 2018; Sentencia TAC 3ro SEF 3-129/2018 DFA 3-490/2018; Sentencia TAC 3ro SEF 3-125/2018 DFA 3-473/2018; Sentencia TAC 4to No. 144/2015; Sentencia SCJ No. 130/2007; Sentencia No. 186/2018 (Sala); Pacto Internacional de Derechos Económicos, Sociales y Culturales artículo 12 (Ley No. 13.751); Protocolo de San Salvador (Ley No. 16.519); Ley No. 18.335; Ley No. 15.750 artículo 61; CGP artículos 56 y 261; Código Civil artículo 688; Cassinelli Muñoz Horacio; LORENZETTI Ricardo 'Responsabilidad civil de los médicos' tomo I"
+    },
+    "missing_from_no": "The N column omits the patient's age (56 years old), the institution (CASMU), the treating physician's name (Dr. Carlos Meyer), the diagnosis date (April 2018), the specific chemotherapy details (Pemetrexed poor tolerance, then carboplatin and Pemetrexed 3 cycles suspended December 2018), the radiotherapy detail, the administrative petition date (22 January 2019), the Pembrolizumab dose and schedule (200 mg intravenously every 21 days until intolerance or progression), the cost of the medication, the Formulario Terapéutico de Medicamentos status, the judicial decision outcome (denial by majority), the dissenting opinions, and court citations. The O column mentions 'Adjuvant chemotherapy with Pemetrexed (poor tolerance)' and 'Switch to Carboplatin/Pemetrexed (completed 3 cycles). Radiotherapy. Second line treatment.' — these are consistent with the document but incomplete.",
+    "possibly_incorrect": "Row 94: The N column states 'Advanced lung adenocarcinoma stage III' — the document confirms 'adenocarcinoma de pulmón avanzado E III' which is Stage Three, consistent. The O column describes the treatment sequence correctly. The O column states 'Second line treatment' — the document confirms Pembrolizumab was indicated as second-line treatment (segunda línea) after resistance to platinum-based chemotherapy, consistent. No factual conflicts detected.",
+    "error": null
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2019-01-29.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2019-01-29.pdf.txt",
+    "rows": [
+      {
+        "row": 95,
+        "case": "2019-02-01 00:00:00",
+        "N": "Transitional urothelial carcinoma with bone and pulmonary progression",
+        "O": "The pathology progressed to bone and pulmonary metastases, even after two previous treatments. Adjuvant Immunotherapy."
+      }
+    ],
+    "status": "processed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Transitional urothelial carcinoma (carcinoma urotelial transicional), diagnosed November 2016, with progression to bone and pulmonary level despite two prior treatments",
+      "SECONDARY_DIAGNOSES": "Bone and pulmonary metastases from transitional urothelial carcinoma",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "65 years old",
+      "CLINICAL_HISTORY": "The patient, 65 years old, was diagnosed with transitional urothelial carcinoma in November 2016, which progressed to bone and pulmonary level despite two prior treatments. The treating physician indicated Pembrolizumab based on greater survival observed in clinical studies for patients on Pembrolizumab compared to those receiving chemotherapy. The patient filed an administrative petition via abbreviated procedure, and the Technical Advisory Commission issued a report suggesting the Minister of Public Health reject the petition; the patient was currently without treatment. She lacks means to bear the treatment cost of R$334,336 per unit; her income is R$13,713.",
+      "SYMPTOMS": "NOT FOUND explicitly beyond disease progression",
+      "DISEASE_SEVERITY": "Transitional urothelial carcinoma with bone and pulmonary metastatic progression despite two prior treatments; currently without treatment; the treating physician and expert confirmed that without treatment the disease would evolve naturally toward greater organ involvement at distance with a very poor short-term vital prognosis; ECOG Performance Status not stated",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "Two prior treatments for urothelial carcinoma — specific drugs, doses, cycles, and outcomes not detailed in the appellate ruling; the only specified outcome is that the carcinoma progressed to bone and pulmonary level despite both",
+      "THERAPEUTIC_FAILURE": "The carcinoma progressed to bone and pulmonary metastases despite two prior treatments; the treating physician and expert confirmed that Pembrolizumab is the treatment with the greatest overall survival, progression-free survival, and lowest treatment intolerance for advanced urothelial carcinoma patients who have received prior chemotherapy; there are no alternatives of similar efficacy",
+      "BIOMARKERS": "NOT FOUND",
+      "METASTASIS_SITES": "Bone (óseo); pulmonary (pulmonar)",
+      "MEDICAL_JUSTIFICATION": "The treating physician indicated Pembrolizumab based on greater survival in clinical studies for patients compared to those receiving chemotherapy; Pembrolizumab is approved by the United States Food and Drug Administration and European Medicines Agency and included in the guidelines of the Oncology Department of the University of the Republic (UDELAR), being indicated for the treatment of locally advanced or metastatic urothelial carcinoma in adults who have received prior chemotherapy; researchers who developed work on the protein enabling the drug's development received the Nobel Prize in Medicine in October 2018. Expert witness (member of the Forensic Medical Clinic) confirmed that Pembrolizumab is an antibody potentiating T-cell response through inhibition of the PD-1 pathway, that the patient would benefit from immunotherapy with Pembrolizumab by increasing overall survival, progression-free survival, and presenting the lowest treatment intolerance; without the drug, the disease would probably evolve naturally toward greater organ involvement at distance with a very poor short-term vital prognosis. The Ministry's denial was based on economic criteria per an OMS recommendation (the treatment exceeds 3 GDP per treatment per year), which the court found to constitute manifestly illegitimate conduct for refusing to provide the only viable treatment on purely economic grounds",
+      "URGENCY": "The patient was without treatment; the treating physician stated that without the medication the disease would progress with worsening symptoms, deterioration, and death; the court found the urgency sufficient to require the fastest possible supply",
+      "RISK_DETERIORATION": "Without Pembrolizumab, the disease would progress with worsening symptoms and further organ deterioration; the expert stated the natural evolution of the disease toward greater distant organ involvement with very poor short-term vital prognosis",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "The treating physician stated that if the patient does not receive the medication her disease will progress, symptoms will increase, she will deteriorate, and she will die; the expert confirmed the very poor short-term vital prognosis without treatment",
+      "REQUESTED_TREATMENT": "Pembrolizumab; dose and route not specified in the appellate ruling; supply ordered within 48 hours according to the treating physician's indications and for as long as indicated; cost R$334,336 per unit (indicating 200 mg dose at approximately R$167,178 per 100 mg ampule per the expert); second-line or later treatment after failure of prior chemotherapy in locally advanced or metastatic urothelial carcinoma; registered in Uruguay since February 2018 but not included in the Formulario Terapéutico de Medicamentos Annex II and III",
+      "JUDICIAL_DECISION": "Granted — the appellate court (Tribunal de Apelaciones en lo Civil de Tercer Turno acting as Tribunal de Feria, Sentencia 2/2019 dated 29 January 2019) confirmed the first-instance ruling (Sentencia 1/2019 dated 3 January 2019) condemning the Ministerio de Salud Pública to supply Pembrolizumab within 48 hours according to the treating physician's indications and for as long as indicated, without special condemnation",
+      "DECISION_GROUNDS": "The court held that Article 44 paragraph 2 of the Uruguayan Constitution establishes a subjective right of persons lacking sufficient resources to demand healthcare assistance from the State, as the State's obligation to provide gratuitously the means of prevention and assistance is the necessary counterpart to the individual's constitutional duty to care for and treat their own health when that duty cannot be fulfilled due to lack of resources. The court interpreted Article 7 paragraph 2 of Law 18.335 — which limits access to medications authorized by the Ministry and included in the Formulario Terapéutico de Medicamentos — as not capable of limiting the constitutional right of persons lacking resources under Article 44 paragraph 2, since the latter applies specifically to those lacking resources (not all patients) and the statutory norm cannot override the constitutional right to life and health. The court held that the Ministry's denial on purely economic grounds, without any scientific justification and despite the proven efficacy and appropriateness of the treatment, was manifestly illegitimate conduct violating the patient's constitutional rights to life and health, and that this determination did not interfere with State health policies as it resolved only the specific individual case.",
+      "COURT_CITATIONS": "Constitución de la República artículo 44 incisos 1 y 2; Ley No. 18.335 artículo 7 inciso 2; Ley No. 16.011; Sentencia de esta Sala SEF 7-155/2015; CASSINELLI HORACIO 'Derecho Constitucional y administrativo' pág. 862 y sigtes.; Declaración Universal de Derechos Humanos artículos 3, 22 y 25; Pacto Internacional de Derechos Económicos, Sociales y Culturales artículos 9, 11 y 12 (Ley No. 13.751); Pacto Internacional de Derechos Civiles y Políticos artículos 3 y 6 (Ley No. 13.751); Declaración Americana de los Derechos y Deberes del Hombre artículos I y XI; Convención Americana sobre Derechos Humanos artículos 4 y 5 (Ley No. 15.737); Protocolo Adicional a la Convención Americana sobre Derechos Humanos en Materia de Derechos Económicos, Sociales y Culturales artículos 9 y 10 (Ley No. 16.519); Ley No. 18.211 artículos 1, 2 y 4; Ley No. 18.335 artículos 2, 6, 7, 10 y 11; Sentencia No. 183/2018 de esta Sala; CGP artículo 261; Código Civil artículo 688; LOT artículo 61 inciso 2"
+    },
+    "missing_from_no": "The N column omits the patient's age (65 years old), the diagnosis date (November 2016), the specific prior treatments, the administrative petition history, the Ministry's economic-basis denial, the Pembrolizumab dose and schedule, the cost of the medication, the Nobel Prize context, the court's constitutional analysis, the judicial decision outcome, decision grounds, and court citations. The O column incorrectly characterizes the Pembrolizumab indication as 'adjuvant immunotherapy' (see possibly_incorrect below).",
+    "possibly_incorrect": "Row 95: The O column states 'Adjuvant Immunotherapy' — this characterization is imprecise and potentially misleading. The document describes Pembrolizumab as indicated for metastatic disease (bone and pulmonary progression) as a treatment for locally advanced or metastatic urothelial carcinoma in patients who have received prior chemotherapy, not as adjuvant (post-surgical) therapy. Adjuvant therapy conventionally refers to treatment after surgery to prevent recurrence in the absence of detectable metastatic disease. Here the patient has active bone and pulmonary metastases and the treatment is therapeutic/palliative in the metastatic setting, not adjuvant. Correction: 'Adjuvant Immunotherapy' should read 'Therapeutic immunotherapy in the metastatic setting (second-line or later treatment after prior chemotherapy failure in locally advanced or metastatic urothelial carcinoma with bone and pulmonary progression)'.",
+    "error": null
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "5837-2025 - Guatemala.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__5837-2025 - Guatemala.pdf.txt",
+    "rows": [
+      {
+        "row": 99,
+        "case": "5837/2025",
+        "N": "Cervical cancer EC IIIC of squamous histology",
+        "O": "Has received and exhausted all known treatments"
+      }
+    ],
+    "status": "processed",
+    "fields": {
+      "PRIMARY_DIAGNOSIS": "Cervical cancer, Stage Three C (EC IIIC), squamous histology (cáncer de cérvix EC IIIC de histología escamosa); patient is not a candidate for surgical treatment",
+      "SECONDARY_DIAGNOSES": "NOT FOUND",
+      "ICD_CODE": "NOT FOUND",
+      "PATIENT_AGE": "37 years old",
+      "CLINICAL_HISTORY": "The patient Thelma Mariela De Los Ángeles Rodríguez Castillo, 37 years old, is an affiliate of the Instituto Guatemalteco de Seguridad Social. She was diagnosed with cervical cancer Stage Three C of squamous histology. She has received and exhausted all known treatments throughout the course of her illness without finding any improvement; the disease has evolved and she fears losing her life because she has not found the appropriate medication to combat the condition. She is not a candidate for surgical treatment; the recommended treatment plan is chemotherapy plus immunotherapy plus concomitant radiotherapy followed by brachytherapy. Her treating physician, Dr. Eduardo Gharzouzi (surgical oncologist, colegiado 9,939), prescribed Keytruda (Pembrolizumab 200 mg) 200 mg intravenously every 3 weeks together with chemotherapy for one year, plus Cisplatin chemotherapy 40 mg intravenously weekly for 5 doses. She filed the amparo on 10 March 2025; the Instituto Guatemalteco de Seguridad Social argued it had been providing medical care and medications appropriate to her pathology according to its physicians' criteria.",
+      "SYMPTOMS": "Disease evolution without finding improvement; fear of losing life; no specific symptoms enumerated in the ruling",
+      "DISEASE_SEVERITY": "Cervical cancer Stage Three C, squamous histology; not a candidate for surgical treatment; disease has evolved despite all known treatments; ECOG Performance Status not stated",
+      "FUNCTIONAL_LIMITATIONS": "NOT FOUND",
+      "COMORBIDITIES": "NOT FOUND",
+      "PRIOR_TREATMENTS": "All known treatments received and exhausted throughout the course of illness — specific drug names, doses, cycles, and outcomes are not specified in the ruling beyond the general statement that all known treatments were received and exhausted without improvement",
+      "THERAPEUTIC_FAILURE": "All known treatments have been received and exhausted without finding any improvement; the disease has continued to evolve despite all prior treatment",
+      "BIOMARKERS": "NOT FOUND",
+      "METASTASIS_SITES": "NOT FOUND",
+      "MEDICAL_JUSTIFICATION": "Dr. Eduardo Gharzouzi (surgical oncologist, colegiado 9,939), treating physician, issued a medical certificate and prescription stating: 'patient with diagnosis of CANCER DE CÉRVIX EC IIIC DE HISTOLOGÍA ESCAMOSA, who is not a candidate for surgical treatment so it has been recommended that she receive chemotherapy plus immunotherapy plus concomitant radiotherapy followed by brachytherapy with the following scheme: Keytruda (Pembrolizumab 200 mg): Administer 200 mg intravenously every 3 weeks together with chemotherapy for 1 year. Chemotherapy with Cisplatin: Administer 40 mg intravenously weekly for 5 doses.' The Court of Constitutionality held that prescription of medications requires the scientific specialty of expert professionals, and that the medical certificate and prescription provide the factual and scientific support for the amparo; the drug is appropriate for the patient's treatment and there is no particular indication that it puts the patient's life at risk or conflicts with the specialist physicians of the Instituto Guatemalteco de Seguridad Social.",
+      "URGENCY": "The Court found that given the susceptibility and transcendence of the rights to life and health, there is no requirement for the patient to exhaust administrative remedies before seeking constitutional protection, as the delay in resolving such remedies puts her health and life at risk; the amparo provisional was granted on filing",
+      "RISK_DETERIORATION": "The disease has continued to evolve without improvement despite all prior treatments; the patient fears losing her life without the appropriate medication",
+      "RISK_HOSPITALIZATION": "NOT FOUND",
+      "RISK_DEATH": "The patient stated she fears losing her life because the disease has evolved and she has not found the appropriate medication; the Court found the right to life is the most fundamental of rights on which all others depend",
+      "REQUESTED_TREATMENT": "Keytruda (Pembrolizumab 200 mg) 200 mg intravenously every 3 weeks together with chemotherapy for one year; combined with Cisplatin 40 mg intravenously weekly for 5 doses; prescribed by Dr. Eduardo Gharzouzi (surgical oncologist); to be supplied by the Instituto Guatemalteco de Seguridad Social; line of treatment: after exhaustion of all known treatments",
+      "JUDICIAL_DECISION": "Granted — the Corte de Constitucionalidad de Guatemala (Expediente 5837-2025, sentence of 15 January 2026) denied the appeal (recurso de apelación) of the Instituto Guatemalteco de Seguridad Social and confirmed the first-instance ruling of the Sala Segunda de la Corte de Apelaciones de Trabajo y Previsión Social (sentence of 31 July 2025) with modifications to the protective effects; the Instituto Guatemalteco de Seguridad Social was ordered to: (a) provide Keytruda (Pembrolizumab) per the medical prescription under the responsibility of the patient and treating physician; (b) conduct a complete special medical evaluation to determine the dose and duration; (c) maintain medical assistance, hospitalization as needed, appropriate medical treatment, and other services to preserve health and life; (d) verify the drug's suitability and efficacy through observation and scientific mechanisms; and (e) ensure uninterrupted and continuous supply of the drug; compliance ordered within 5 days of receipt of the executory, with a penalty of Q.2,000 per member of the Board of Directors of the Instituto Guatemalteco de Seguridad Social in case of non-compliance",
+      "DECISION_GROUNDS": "The Court held that the right to health is primordial, arising from the right to life as the most elemental and fundamental of human rights, and that Articles 1, 2, 93, 94, and 100 of the Guatemayan Constitution impose on the State and the Instituto Guatemalteco de Seguridad Social the obligation to provide medical services from the moment of diagnosis through the complete treatment required for recovery. The Court found that when patients have adequate medical support, it is procedurally proper to protect, under the dispositivo principle, the patient's preference for a particular drug under the responsibility of the patient and the prescribing physician, based on the medical certificate and prescription from Dr. Eduardo Gharzouzi (surgical oncologist, colegiado 9,939), which provide sufficient professional support that the requested medication is viable to treat the health problem. The Court further held that the argument regarding administrative definitividad (exhaustion of administrative remedies) lacks relevance in the constitutional sphere given the susceptibility and transcendence of the rights to life and health, which require direct constitutional protection without waiting for administrative proceedings that could put the patient's health and life at risk.",
+      "COURT_CITATIONS": "Constitución Política de la República de Guatemala artículos 1, 2, 3, 93, 94, 95, 96, 100, 203 y 268; Ley de Amparo Exhibición Personal y de Constitucionalidad artículos 6, 7, 8, 10, 42, 43, 44, 49, 53, 60, 61, 66, 67, 149, 163 literal c), 179 y 185; Acuerdo 3-89 de la Corte de Constitucionalidad artículo 7 Bis; Acuerdo 1-2013 de la Corte de Constitucionalidad artículos 29, 36 y 46; Expediente 4127-2015 (Sentencia Corte de Constitucionalidad); Sentencias expedientes 1454-2025, 1463-2025 y 1652-2025 de 12 de junio de 2025; Sentencias expedientes 7727-2024, 3332-2024 y 6427-2024 (de 13 y 27 de febrero y 2 de abril de 2025); Sentencia expediente 1532-2025; Pacto Internacional de Derechos Económicos Sociales y Culturales artículo 12; Declaración Americana de Derechos y Deberes del Hombre artículo XI; Ley de Contrataciones del Estado"
+    },
+    "missing_from_no": "The N column omits the patient's name (Thelma Mariela De Los Ángeles Rodríguez Castillo), age (37 years old), the institution (Instituto Guatemalteco de Seguridad Social), the treating physician's name and credentials (Dr. Eduardo Gharzouzi, surgical oncologist, colegiado 9,939), the complete treatment scheme (Pembrolizumab 200 mg intravenously every 3 weeks for one year plus Cisplatin 40 mg intravenously weekly for 5 doses, plus concomitant radiotherapy and brachytherapy), the non-candidacy for surgery, the date of the amparo (10 March 2025), the judicial decision outcome (granted with specific obligations), decision grounds, applicable court citations, and the penalty for non-compliance (Q.2,000 per Board member). The O column omits all legal and judicial outcome information.",
+    "possibly_incorrect": "No conflicts detected — the N column correctly identifies cervical cancer Stage Three C of squamous histology. The O column correctly states the patient has received and exhausted all known treatments, which is confirmed in the document. No factual inaccuracies found.",
+    "error": null
+  }
+]
