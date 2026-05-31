@@ -1,0 +1,93 @@
+[
+  {
+    "country": "Guatemala",
+    "pdf_name": "1449-2025.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__1449-2025.pdf.txt",
+    "rows": [
+      {
+        "row": 120,
+        "case": "1449-2025",
+        "N": "Metastatic Pulmonary Malignant Melanoma",
+        "O": "NI",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__1449-2025.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "1451-2025.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__1451-2025.pdf.txt",
+    "rows": [
+      {
+        "row": 121,
+        "case": "1451-2025",
+        "N": "RENAL CANCER CLINICAL STAGE IV",
+        "O": "Clear cell carcinoma metastatic to the lung",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__1451-2025.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "1343-2025.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__1343-2025.pdf.txt",
+    "rows": [
+      {
+        "row": 122,
+        "case": "1343-2025",
+        "N": "Cervical Cancer Clinical Stage IVA",
+        "O": "NI",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__1343-2025.pdf.txt"
+      },
+      {
+        "row": 128,
+        "case": "7104-2025",
+        "N": "não é sobre pembro",
+        "O": "Not about Pembrolizumab",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__1343-2025.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "4863-2025.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__4863-2025.pdf.txt",
+    "rows": [
+      {
+        "row": 123,
+        "case": "4863-2025",
+        "N": "Renal Carcinoma post-nephrectomy recurrence with metastatic systemic activity",
+        "O": "",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__4863-2025.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "4213-2025.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__4213-2025.pdf.txt",
+    "rows": [
+      {
+        "row": 124,
+        "case": "4213-2025",
+        "N": "Kidney cancer stage IV",
+        "O": "Renal cell carcinoma recurring post-nephrectomy (cancer returned after kidney removal) with systemic metastatic activity (bones and femur).",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__4213-2025.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "3090-2025.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__3090-2025.pdf.txt",
+    "rows": [
+      {
+        "row": 125,
+        "case": "3090-2025",
+        "N": "TRIPLE-NEGATIVE METASTATIC BREAST CANCER WITH POSITIVE GERMINAL BRCA2 MUTATION",
+        "O": "NI",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__3090-2025.pdf.txt"
+      }
+    ]
+  }
+]

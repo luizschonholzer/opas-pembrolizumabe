@@ -1,0 +1,23 @@
+[
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2024-05-17_(13342-2024) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2024-05-17_(13342-2024) .pdf.txt",
+    "rows": [
+      {
+        "row": 196,
+        "case": "13254 - 2024",
+        "N": "Not about pembrolizumab",
+        "O": "",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2024-05-17_(13342-2024) .pdf.txt"
+      },
+      {
+        "row": 198,
+        "case": "13342 - 2024",
+        "N": "Metastatic gastric cancer with 6% PDL-1 positive expression",
+        "O": "Loss of expression of PMS2 and MSH6. HER2 negative. Due to the presence of metastatic and unresectable disease, palliative chemotherapy with FOLFOX regimen was initiated in January 2024.",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2024-05-17_(13342-2024) .pdf.txt"
+      }
+    ]
+  }
+]

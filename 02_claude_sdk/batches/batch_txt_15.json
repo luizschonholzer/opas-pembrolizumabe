@@ -1,0 +1,86 @@
+[
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2022-12-21_(30403-2022) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2022-12-21_(30403-2022) .pdf.txt",
+    "rows": [
+      {
+        "row": 175,
+        "case": "30403 - 2022",
+        "N": "Triple-negative breast cancer cT2NM0",
+        "O": "Triple-negative breast cancer CT2N0M0 initiating neoadjuvant chemotherapy, ECOG 0",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2022-12-21_(30403-2022) .pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2019-11-01_(21424-2019) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2019-11-01_(21424-2019) .pdf.txt",
+    "rows": [
+      {
+        "row": 178,
+        "case": "21424 - 2019",
+        "N": "Merkel cell carcinoma with metastasis to liver and base of tongue",
+        "O": "NI",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2019-11-01_(21424-2019) .pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2026-01-23_(02662-2026) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2026-01-23_(02662-2026) .pdf.txt",
+    "rows": [
+      {
+        "row": 179,
+        "case": "02662 - 2026",
+        "N": "Recurrent unresectable Merkel cell carcinoma with large palpable right iliac mass",
+        "O": "The patient was already undergoing radiotherapy, but the disease continued to progress. The tumor could not be surgically removed ('unresectable').",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2026-01-23_(02662-2026) .pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2025-10-24_(34813-2025) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2025-10-24_(34813-2025) .pdf.txt",
+    "rows": [
+      {
+        "row": 180,
+        "case": "34813 - 2025",
+        "N": "Classic CD20-positive Lymphoma (stage IV-B)",
+        "O": "The patient had already undergone multiple chemotherapy protocols (ABVD, Rituximab, R-GEMOX) without achieving the remission required for an Autologous Stem Cell Transplant (BMT).",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2025-10-24_(34813-2025) .pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2025-08-20_(26416-2025) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2025-08-20_(26416-2025) .pdf.txt",
+    "rows": [
+      {
+        "row": 181,
+        "case": "26416 - 2025",
+        "N": "Recurrent intrahepatic cholangiocarcinoma. Mutação no GEN IDH1.\n\nDeficiência de proteínas MMR (dMMR): Perda de expressão de MLH1 e PMS2. Inestabilidade de Microsatélites (MSI-H).",
+        "O": "Recurrent and unresectable (after right hepatectomy and failure of multiple chemotherapy lines: Cisplatin/Gemcitabine and CAPEOX).",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2025-08-20_(26416-2025) .pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2025-07-11_(21462-2025) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2025-07-11_(21462-2025) .pdf.txt",
+    "rows": [
+      {
+        "row": 182,
+        "case": "21462 - 2025",
+        "N": "High-grade papillary urothelial cancer",
+        "O": "NI",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2025-07-11_(21462-2025) .pdf.txt"
+      }
+    ]
+  }
+]

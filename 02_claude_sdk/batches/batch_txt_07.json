@@ -1,0 +1,212 @@
+[
+  {
+    "country": "Guatemala",
+    "pdf_name": "6823-2025.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__6823-2025.pdf.txt",
+    "rows": [
+      {
+        "row": 126,
+        "case": "6823-2025",
+        "N": "Prostate cancer clinical stage IV castration-sensitive with metastasis",
+        "O": "NI",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__6823-2025.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "7103-2025.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__7103-2025.pdf.txt",
+    "rows": [
+      {
+        "row": 129,
+        "case": "7103-2025",
+        "N": "Endometrial Cancer EC IV.",
+        "O": "Metastatic to liver, retroperitoneal lymph nodes, axilla, and lumbar spine. Recurrence. Chemotherapy with Paclitaxel and Cisplatin (discontinued due to renal toxicity).",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__7103-2025.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "7276-2025.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__7276-2025.pdf.txt",
+    "rows": [
+      {
+        "row": 130,
+        "case": "7276-2025",
+        "N": "Breast Cancer Stage IV",
+        "O": "Tumor Mutational Burden (TMB) of 37.01 mut/Mb. The case file details an exhaustive list of failed treatments administered by the IGSS: Doxorubicin, Cyclophosphamide, Paclitaxel, Carboplatin, Gemcitabine, Docetaxel, and hormonal therapy (Abemaciclib and Letrozole).",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__7276-2025.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2024-04-02_(08350-2024) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2024-04-02_(08350-2024) .pdf.txt",
+    "rows": [
+      {
+        "row": 155,
+        "case": "08350 - 2024",
+        "N": "Left breast cancer cT2 cN1 M0 triple negative",
+        "O": "Neoadjuvant therapy (before surgery), combined with chemotherapy.",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2024-04-02_(08350-2024) .pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2024-01-09_(00087-2024) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2024-01-09_(00087-2024) .pdf.txt",
+    "rows": [
+      {
+        "row": 156,
+        "case": "00087 - 2024",
+        "N": "invasive ductal carcinoma of the left breast, triple-negative, cT2N0M0, stage IIB, undergoing neoadjuvant chemotherapy (curative intent)",
+        "O": "Currently receiving adjuvant treatment with platins and taxanes, which has produced adverse effects from chemotherapy use. The patient previously received therapy with epirubicin and cyclophosphamide.",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2024-01-09_(00087-2024) .pdf.txt"
+      },
+      {
+        "row": 157,
+        "case": "01800 - 2024",
+        "N": "Not about pembrolizumab",
+        "O": "Not about pembrolizumab",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2024-01-09_(00087-2024) .pdf.txt"
+      },
+      {
+        "row": 194,
+        "case": "21436 - 2024",
+        "N": "Not about pembrolizumab",
+        "O": "",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2024-01-09_(00087-2024) .pdf.txt"
+      },
+      {
+        "row": 195,
+        "case": "19632 - 2024",
+        "N": "Not about pembrolizumab",
+        "O": "",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2024-01-09_(00087-2024) .pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2023-03-31_(07660-2023) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2023-03-31_(07660-2023) .pdf.txt",
+    "rows": [
+      {
+        "row": 158,
+        "case": "29124 - 2023",
+        "N": "Not about pembrolizumab",
+        "O": "Not about pembrolizumab",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2023-03-31_(07660-2023) .pdf.txt"
+      },
+      {
+        "row": 161,
+        "case": "10761 - 2023",
+        "N": "Not about pembrolizumab",
+        "O": "",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2023-03-31_(07660-2023) .pdf.txt"
+      },
+      {
+        "row": 162,
+        "case": "07660 - 2023",
+        "N": "Metastatic clear cell renal cancer stage IV",
+        "O": "NI",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2023-03-31_(07660-2023) .pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2023-09-19_(23364-2023) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2023-09-19_(23364-2023) .pdf.txt",
+    "rows": [
+      {
+        "row": 159,
+        "case": "23364 - 2023",
+        "N": "Breast cancer cT4dN1Mx triple negative",
+        "O": "Ki67 80%. Neoadjuvant chemotherapy as a priority followed by radical mastectomy.",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2023-09-19_(23364-2023) .pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2023-07-07_(16525-2023) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2023-07-07_(16525-2023) .pdf.txt",
+    "rows": [
+      {
+        "row": 160,
+        "case": "16525 - 2023",
+        "N": "Right triple-negative breast cancer cT4b cN2 M0",
+        "O": "Neoadjuvant treatment",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2023-07-07_(16525-2023) .pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2022-11-30_(28603-2022) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2022-11-30_(28603-2022) .pdf.txt",
+    "rows": [
+      {
+        "row": 163,
+        "case": "28603 - 2022",
+        "N": "Metastatic clear cell renal cancer stage IV",
+        "O": "ECOG 0",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2022-11-30_(28603-2022) .pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2022-08-24_(19648-2022) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2022-08-24_(19648-2022) .pdf.txt",
+    "rows": [
+      {
+        "row": 164,
+        "case": "19648 - 2022",
+        "N": "Kidney cancer with metastasis to lungs, lymph nodes and skin",
+        "O": "Already in palliative care",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2022-08-24_(19648-2022) .pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2022-03-25_(06754-2022) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2022-03-25_(06754-2022) .pdf.txt",
+    "rows": [
+      {
+        "row": 165,
+        "case": "06935 - 2022",
+        "N": "Not about pembrolizumab",
+        "O": "Not about pembrolizumab",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2022-03-25_(06754-2022) .pdf.txt"
+      },
+      {
+        "row": 176,
+        "case": "06754 - 2022",
+        "N": "Squamous cell carcinoma of the oral cavity with pulmonary metastasis",
+        "O": "PD-L1 80%. The patient attempted first-line chemotherapy but could not tolerate the treatment due to toxicity, leaving few conventional therapeutic alternatives.",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2022-03-25_(06754-2022) .pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Costa Rica",
+    "pdf_name": "2021-11-09_(25193-2021) .pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2021-11-09_(25193-2021) .pdf.txt",
+    "rows": [
+      {
+        "row": 166,
+        "case": "25193 - 2021",
+        "N": "Small cell lung cancer stage IVB with mediastinal lymph node metastasis",
+        "O": "Palliative treatment",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Costa Rica__2021-11-09_(25193-2021) .pdf.txt"
+      }
+    ]
+  }
+]

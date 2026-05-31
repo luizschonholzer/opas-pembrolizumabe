@@ -1,0 +1,205 @@
+[
+  {
+    "country": "Uruguay",
+    "pdf_name": "2022-08-09.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2022-08-09.pdf.txt",
+    "rows": [
+      {
+        "row": 80,
+        "case": "153/2022",
+        "N": "NI",
+        "O": "NI",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2022-08-09.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2022-04-08.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2022-04-08.pdf.txt",
+    "rows": [
+      {
+        "row": 81,
+        "case": "76/2022",
+        "N": "Not about pembrolizumab",
+        "O": "",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2022-04-08.pdf.txt"
+      },
+      {
+        "row": 82,
+        "case": "33/2022",
+        "N": "Colon cancer stage II",
+        "O": "The patient underwent multiple prior treatments, including surgeries and chemotherapies. Despite temporary partial remissions, the disease continued to progress.",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2022-04-08.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2021-12-01.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2021-12-01.pdf.txt",
+    "rows": [
+      {
+        "row": 83,
+        "case": "203/2021",
+        "N": "Locoregionally advanced rectal adenocarcinoma with hepatic, lymph node and peritoneal involvement (21 years old)",
+        "O": "Mentions 'secondarism' and 'secondary lesions'. Received systemic chemotherapy (capecitabine, oxaliplatin, and bevacizumab) with good initial response. However, in September 2021, showed increased tumor markers and new secondary pulmonary and hepatic lesions.",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2021-12-01.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2021-09-20.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2021-09-20.pdf.txt",
+    "rows": [
+      {
+        "row": 84,
+        "case": "150/2021",
+        "N": "Advanced squamous tonsil carcinoma (56 years old)",
+        "O": "",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2021-09-20.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2021-05-07.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2021-05-07.pdf.txt",
+    "rows": [
+      {
+        "row": 85,
+        "case": "79/2021",
+        "N": "Kidney cancer with disseminated disease at lymph node and bone level, with local recurrence",
+        "O": "Underwent left radical nephrectomy, where renal cell carcinoma and two primary tumors (kidney and rectum) were found. Received chemotherapy between July and October 2020 (six fortnightly series).",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2021-05-07.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2021-02-22.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2021-02-22.pdf.txt",
+    "rows": [
+      {
+        "row": 86,
+        "case": "22/2021",
+        "N": "Not about pembrolizumab",
+        "O": "",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2021-02-22.pdf.txt"
+      },
+      {
+        "row": 87,
+        "case": "19/2021",
+        "N": "Nodular melanoma of the right foot, pT4b pN2a M0, resected stage IIIC and with lymph node dissection",
+        "O": "Adjuvant therapy. Pathological anatomy confirmed metastatic colonization by a pigmented malignant melanoma, BRAF Negative. Treatment refused based on the fact that it was Stage III and non-metastatic.",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2021-02-22.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2020-07-14.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2020-07-14.pdf.txt",
+    "rows": [
+      {
+        "row": 88,
+        "case": "194/2020",
+        "N": "Not about pembrolizumab",
+        "O": "",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2020-07-14.pdf.txt"
+      },
+      {
+        "row": 89,
+        "case": "47/2020",
+        "N": "Hypopharyngeal cancer with recurrence; Lung cancer PDL1 (30% positive)",
+        "O": "NI",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2020-07-14.pdf.txt"
+      },
+      {
+        "row": 90,
+        "case": "91/2020",
+        "N": "Not about pembrolizumab",
+        "O": "",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2020-07-14.pdf.txt"
+      },
+      {
+        "row": 91,
+        "case": "34/2020",
+        "N": "Not about pembrolizumab",
+        "O": "",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2020-07-14.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2019-12-04.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2019-12-04.pdf.txt",
+    "rows": [
+      {
+        "row": 92,
+        "case": "255/2019",
+        "N": "Invasive nodular melanoma (cells with V600E mutation in the BRAF gene)",
+        "O": "A BRAF mutation study was performed, resulting negative (no cells with the V600E mutation in the BRAF gene were detected).",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2019-12-04.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2019-09-02.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2019-09-02.pdf.txt",
+    "rows": [
+      {
+        "row": 93,
+        "case": "50/2019",
+        "N": "Lung cancer stage IV with PDL1 greater than 50% (74 years old)",
+        "O": "First-line drug",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2019-09-02.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2019-03-06.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2019-03-06.pdf.txt",
+    "rows": [
+      {
+        "row": 94,
+        "case": "13/2019",
+        "N": "Advanced lung adenocarcinoma stage III",
+        "O": "Adjuvant chemotherapy with Pemetrexed (poor tolerance). Switch to Carboplatin/Pemetrexed (completed 3 cycles). Radiotherapy. Second line treatment.",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2019-03-06.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2019-01-29.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2019-01-29.pdf.txt",
+    "rows": [
+      {
+        "row": 95,
+        "case": "2019-02-01 00:00:00",
+        "N": "Transitional urothelial carcinoma with bone and pulmonary progression",
+        "O": "The pathology progressed to bone and pulmonary metastases, even after two previous treatments. Adjuvant Immunotherapy.",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2019-01-29.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Guatemala",
+    "pdf_name": "5837-2025 - Guatemala.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__5837-2025 - Guatemala.pdf.txt",
+    "rows": [
+      {
+        "row": 99,
+        "case": "5837/2025",
+        "N": "Cervical cancer EC IIIC of squamous histology",
+        "O": "Has received and exhausted all known treatments",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Guatemala__5837-2025 - Guatemala.pdf.txt"
+      }
+    ]
+  }
+]

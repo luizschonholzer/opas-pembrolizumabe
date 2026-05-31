@@ -1,0 +1,198 @@
+[
+  {
+    "country": "Argentina",
+    "pdf_name": "14838_2025.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Argentina__14838_2025.pdf.txt",
+    "rows": [
+      {
+        "row": 2,
+        "case": "14838/2025",
+        "N": "Câncer de pulmão",
+        "O": "NI",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Argentina__14838_2025.pdf.txt"
+      },
+      {
+        "row": 4,
+        "case": "CCF 011768/2025",
+        "N": "Not about pembrolizumab",
+        "O": "Not about pembrolizumab",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Argentina__14838_2025.pdf.txt"
+      },
+      {
+        "row": 6,
+        "case": "CCF 016494/2025",
+        "N": "Advanced-stage cervical cancer",
+        "O": "",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Argentina__14838_2025.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Argentina",
+    "pdf_name": "CCF 000104_2024.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Argentina__CCF 000104_2024.pdf.txt",
+    "rows": [
+      {
+        "row": 3,
+        "case": "013326/2024",
+        "N": "procedural issue",
+        "O": "procedural issue",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Argentina__CCF 000104_2024.pdf.txt"
+      },
+      {
+        "row": 8,
+        "case": "CCF 000104/2024",
+        "N": "Triple-negative apocrine breast carcinoma",
+        "O": "Underwent chemotherapy",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Argentina__CCF 000104_2024.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Argentina",
+    "pdf_name": "CCF 002700_2025_CA002.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Argentina__CCF 002700_2025_CA002.pdf.txt",
+    "rows": [
+      {
+        "row": 5,
+        "case": "CCF 002700/2025",
+        "N": "Advanced-grade urothelial carcinoma with liver and lung metastasis",
+        "O": "Oncological treatment since 2017",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Argentina__CCF 002700_2025_CA002.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Argentina",
+    "pdf_name": "CCF 013076_2025.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Argentina__CCF 013076_2025.pdf.txt",
+    "rows": [
+      {
+        "row": 7,
+        "case": "CCF 013076/2025",
+        "N": "Endometrioid endometrial carcinoma Stage IV: pT3a pN1a M1 (ovary, fallopian tube, sigmoid margin)",
+        "O": "Underwent chemotherapy",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Argentina__CCF 013076_2025.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Argentina",
+    "pdf_name": "CCF 000023_2025.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Argentina__CCF 000023_2025.pdf.txt",
+    "rows": [
+      {
+        "row": 9,
+        "case": "CCF 000023/2025",
+        "N": "Cervical cancer Stage III C",
+        "O": "Recent diagnosis and use for primary treatment without recurrence",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Argentina__CCF 000023_2025.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Argentina",
+    "pdf_name": "CCF 004030_2020_CA001.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Argentina__CCF 004030_2020_CA001.pdf.txt",
+    "rows": [
+      {
+        "row": 10,
+        "case": "CCF 004030/2020/CA001",
+        "N": "Advanced-stage renal cancer",
+        "O": "NI",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Argentina__CCF 004030_2020_CA001.pdf.txt"
+      },
+      {
+        "row": 11,
+        "case": "CCF 000453/2016/CA001",
+        "N": "NI",
+        "O": "",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Argentina__CCF 004030_2020_CA001.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Brazil",
+    "pdf_name": "ARE 1577738.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Brazil__ARE 1577738.pdf.txt",
+    "rows": [
+      {
+        "row": 16,
+        "case": "ARE 1577738",
+        "N": "Metastatic colorectal cancer",
+        "O": "NI",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Brazil__ARE 1577738.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Brazil",
+    "pdf_name": "RE 1581191.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Brazil__RE 1581191.pdf.txt",
+    "rows": [
+      {
+        "row": 17,
+        "case": "RE 1581191",
+        "N": "Hodgkin Lymphoma – Nodular Sclerosis (ICD10: C81)",
+        "O": "Refractory and relapsed Hodgkin's lymphoma. Underwent surgery and bone marrow transplant.",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Brazil__RE 1581191.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Brazil",
+    "pdf_name": "ARE 1572092.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Brazil__ARE 1572092.pdf.txt",
+    "rows": [
+      {
+        "row": 28,
+        "case": "ARE 1572092",
+        "N": "MALIGNANT NEOPLASM OF THE OVARY",
+        "O": "",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Brazil__ARE 1572092.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Brazil",
+    "pdf_name": "ARE 1378749.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Brazil__ARE 1378749.pdf.txt",
+    "rows": [
+      {
+        "row": 38,
+        "case": "ARE 1378749",
+        "N": "Metastatic colon adenocarcinoma to liver",
+        "O": "",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Brazil__ARE 1378749.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Brazil",
+    "pdf_name": "Rcl 80821 MC-Ref.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Brazil__Rcl 80821 MC-Ref.pdf.txt",
+    "rows": [
+      {
+        "row": 40,
+        "case": "Rcl 80821 MC-Ref",
+        "N": "MALIGNANT NEOPLASM OF THE BREAST",
+        "O": "Prescribed in combination with chemotherapy",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Brazil__Rcl 80821 MC-Ref.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Brazil",
+    "pdf_name": "Rcl 79725 MC.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Brazil__Rcl 79725 MC.pdf.txt",
+    "rows": [
+      {
+        "row": 41,
+        "case": "Rcl 79725 MC",
+        "N": "Renal cancer",
+        "O": "PRESCRIPTION AS ADJUVANT TO NEPHRECTOMY",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Brazil__Rcl 79725 MC.pdf.txt"
+      }
+    ]
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "country": "Brazil",
+    "pdf_name": "Rcl 74968 AgR.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Brazil__Rcl 74968 AgR.pdf.txt",
+    "rows": [
+      {
+        "row": 42,
+        "case": "Rcl 74968 AgR",
+        "N": "METASTATIC LUNG ADENOCARCINOMA",
+        "O": "NI",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Brazil__Rcl 74968 AgR.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Brazil",
+    "pdf_name": "Rcl 74743 MC-Ref.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Brazil__Rcl 74743 MC-Ref.pdf.txt",
+    "rows": [
+      {
+        "row": 44,
+        "case": "Rcl 74743 MC-Ref",
+        "N": "Advanced lung cancer with subcutaneous nodule metastasis",
+        "O": "NI",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Brazil__Rcl 74743 MC-Ref.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Chile",
+    "pdf_name": "76405-2016 - Chile.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Chile__76405-2016 - Chile.pdf.txt",
+    "rows": [
+      {
+        "row": 47,
+        "case": "76405-2016",
+        "N": "Lymphoma",
+        "O": "NI",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Chile__76405-2016 - Chile.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Colombia",
+    "pdf_name": "81511442.docx",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Colombia__81511442.docx.txt",
+    "rows": [
+      {
+        "row": 51,
+        "case": "81511442",
+        "N": "LUNG CANCER with clinical staging close to T4 due to malignant tumor in the main bronchus",
+        "O": "",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Colombia__81511442.docx.txt"
+      }
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "pdf_name": "2603-21-EP - Equador.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Ecuador__2603-21-EP - Equador.pdf.txt",
+    "rows": [
+      {
+        "row": 53,
+        "case": "2603/21-EP",
+        "N": "NI",
+        "O": "NI",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Ecuador__2603-21-EP - Equador.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2026-02-10.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2026-02-10.pdf.txt",
+    "rows": [
+      {
+        "row": 59,
+        "case": "2026-10-01 00:00:00",
+        "N": "Triple-negative breast cancer",
+        "O": "Not advanced or metastatic. Based on studies performed, neoadjuvant treatment with chemotherapy (carboplatin plus paclitaxel plus PEMBROLIZUMAB) was indicated. Neoadjuvant polychemotherapy based on paclitaxel and carboplatin with PEMBROLIZUMAB, for four cycles, is proposed.",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2026-02-10.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2025-02-12.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2025-02-12.pdf.txt",
+    "rows": [
+      {
+        "row": 60,
+        "case": "171/2025",
+        "N": "Not about pembrolizumab",
+        "O": "Not about pembrolizumab",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2025-02-12.pdf.txt"
+      },
+      {
+        "row": 64,
+        "case": "16/2025",
+        "N": "NI",
+        "O": "NI",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2025-02-12.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2025-07-28.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2025-07-28.pdf.txt",
+    "rows": [
+      {
+        "row": 61,
+        "case": "151/2025",
+        "N": "high-grade utorhelial carcinoma",
+        "O": "NI",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2025-07-28.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2025-06-27.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2025-06-27.pdf.txt",
+    "rows": [
+      {
+        "row": 62,
+        "case": "126/2025",
+        "N": "LUNG ADENOCARCINOMA",
+        "O": "Stage 4 lung cancer. Pembrolizumab in combination with platinum-based chemotherapy and pemetrexed.",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2025-06-27.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2025-04-30.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2025-04-30.pdf.txt",
+    "rows": [
+      {
+        "row": 63,
+        "case": "96/2025",
+        "N": "High-grade endometrioid carcinoma",
+        "O": "Stage 4 metastatic. The treating physician indicated the combination of PEMBROLIZUMAB and PEMETREXED... while the combination of both is not included [in the FTM].",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2025-04-30.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2024-08-07.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2024-08-07.pdf.txt",
+    "rows": [
+      {
+        "row": 65,
+        "case": "215/2024",
+        "N": "Lung Cancer PD-L1 negative",
+        "O": "NI",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2024-08-07.pdf.txt"
+      }
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "pdf_name": "2024-04-26.pdf",
+    "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2024-04-26.pdf.txt",
+    "rows": [
+      {
+        "row": 66,
+        "case": "91/2024",
+        "N": "ENDOMETRIOID CARCINOMA, FIGO 1-2, with extensive myometrial infiltration, via HSC, stage IV bone-only with P53 wild type and stable microsatellites, with bone metastases",
+        "O": "The therapeutic goal is palliative",
+        "txt_path": "C:\\Users\\Claudio\\Downloads\\Processos - OPAS\\textos_pdfs\\Uruguay__2024-04-26.pdf.txt"
+      }
+    ]
+  }
+]
